@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[yarian]]></title>
+        <description><![CDATA[yarian]]></description>
+        <link>https://thegrid.ai/yarian/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Feb 2016 22:43:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>ON EXTRACTING ELECTROMAGNETIC ENERGY FROM THE VACUUM</p>]]></description>
+            <link>https://thegrid.ai/yarian/642834bd-01b7-4032-b290-835e8aed918f/index.html</link>
+            <guid isPermaLink="false">642834bd-01b7-4032-b290-835e8aed918f</guid>
+            <pubDate>Tue, 09 Feb 2016 15:01:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Software Developer's Guide for Cisco Secure Access Control System 5.4 - Using the REST Web Services [Cisco Secure Access Control System 5.4]]]></title>
+            <description><![CDATA[<article><h1>Software Developer's Guide for Cisco Secure Access Control System 5.4 - Using the REST Web Services [Cisco Secure Access Control System 5.4]</h1><p>Configuring REST web services are available on all ACS servers in the deployment, but only the ACS primary instance provides the full service that supports read and write operations. Secondary ACS instances provide read only access to the configuration data.</p><img src="http://www.cisco.com/web/fw/i/logo-open-graph.gif"></article>]]></description>
+            <link>http://www.cisco.com/c/en/us/td/docs/net_mgmt/cisco_secure_access_control_system/5-4/sdk/acs_sdk/rest.html</link>
+            <guid isPermaLink="false">cdc17b03-ad6a-4603-af63-f7393a52a6dc</guid>
+            <pubDate>Tue, 09 Feb 2016 22:32:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
