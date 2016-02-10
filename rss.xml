@@ -4,7 +4,7 @@
         <description><![CDATA[yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 04:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 04:53:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 09 Feb 2016 15:01:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gear train]]></title>
+            <description><![CDATA[<article><h1>Gear train</h1><p>A gear train is a mechanical system formed by mounting gears on a frame so that the teeth of the gears engage. Gear teeth are designed to ensure the pitch circles of engaging gears roll on each other without slipping, providing a smooth transmission of rotation from one gear to the next.</p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Fotothek_df_tg_0000387_Bergwerk_%5E_Bergbau_%5E_Tretrad_%5E_Entw%C3%A4sserung_%5E_Taschen.jpg/300px-Fotothek_df_tg_0000387_Bergwerk_%5E_Bergbau_%5E_Tretrad_%5E_Entw%C3%A4sserung_%5E_Taschen.jpg"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Gear_train</link>
+            <guid isPermaLink="false">8e05def4-f284-4b18-805d-51596b6b358f</guid>
+            <pubDate>Wed, 10 Feb 2016 04:49:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Arduino - ADXL3xx]]></title>
-            <description><![CDATA[<article><h1>Arduino - ADXL3xx</h1><p>This tutorial shows you how to read an Analog Devices ADXL3xx series (e.g. ADXL320, ADXL321, ADXL322, ADXL330) accelerometer and communicate the acceleration to the a personal computer through the serial monitor of the Arduino Software (IDE) or another application that receives data over the serial port.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e41a65ecaa9f30c8fea3fddf3428c709c7ae57f.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Arduino - ADXL3xx</h1><p>This tutorial shows you how to read an Analog Devices ADXL3xx series (e.g. ADXL320, ADXL321, ADXL322, ADXL330) accelerometer and communicate the acceleration to the a personal computer through the serial monitor of the Arduino Software (IDE) or another application that receives data over the serial port.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76907274921b57a1dcc002ee1734cd6afe1a007c.png"></article>]]></description>
             <link>https://www.arduino.cc/en/Tutorial/ADXL3xx</link>
             <guid isPermaLink="false">ed675f5b-d1c8-467a-8e12-efa3833a5117</guid>
             <pubDate>Wed, 10 Feb 2016 04:49:20 GMT</pubDate>
