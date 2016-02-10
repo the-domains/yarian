@@ -2,6 +2,7 @@ name: yarian
 favicon: null
 layout_spectrum: 0.27437
 typography_spectrum: 0.43724
+title: Site Title
 cta:
   domain: null
   bucket: null
