@@ -4,7 +4,7 @@
         <description><![CDATA[yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 22:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 04:51:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 09 Feb 2016 15:01:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Arduino - ADXL3xx]]></title>
+            <description><![CDATA[<article><h1>Arduino - ADXL3xx</h1><p>This tutorial shows you how to read an Analog Devices ADXL3xx series (e.g. ADXL320, ADXL321, ADXL322, ADXL330) accelerometer and communicate the acceleration to the a personal computer through the serial monitor of the Arduino Software (IDE) or another application that receives data over the serial port.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e41a65ecaa9f30c8fea3fddf3428c709c7ae57f.png"></article>]]></description>
+            <link>https://www.arduino.cc/en/Tutorial/ADXL3xx</link>
+            <guid isPermaLink="false">ed675f5b-d1c8-467a-8e12-efa3833a5117</guid>
+            <pubDate>Wed, 10 Feb 2016 04:49:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to Create a Secure Login Script in PHP and MySQL]]></title>
-            <description><![CDATA[<article><h1>How to Create a Secure Login Script in PHP and MySQL</h1><p>How to Create a Secure Login Script in PHP and MySQL. With more and more stories of cracking in the news, developers are looking for the best ways of securing their sites. If your site has a member system, it could be at risk from being...</p><img src="http://www.wikihow.com/images/d/dc/Category_computers.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>How to Create a Secure Login Script in PHP and MySQL</h1><p>How to Create a Secure Login Script in PHP and MySQL. With more and more stories of cracking in the news, developers are looking for the best ways of securing their sites. If your site has a member system, it could be at risk from being...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44babd76a9abcf0b414daee6235a125252a015f1.jpg"></article>]]></description>
             <link>https://thegrid.ai/yarian/how-to-create-a-secure-login-script-in-php-and-mysql/index.html</link>
             <guid isPermaLink="false">8d2d123e-c421-40cd-92d8-32c855953955</guid>
             <pubDate>Tue, 09 Feb 2016 22:32:38 GMT</pubDate>
