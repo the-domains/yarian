@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: FDP Description
-datePublished: '2016-02-10T05:15:07.511Z'
-dateModified: '2016-02-10T05:14:51.227Z'
+datePublished: '2016-02-10T06:15:14.650Z'
+dateModified: '2016-02-10T06:03:53.830Z'
 title: First Direct Post
 author: []
+sourcePath: _posts/2016-02-10-first-direct-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-first-direct-post.md
-published: true
 url: first-direct-post/index.html
 _type: Article
 
