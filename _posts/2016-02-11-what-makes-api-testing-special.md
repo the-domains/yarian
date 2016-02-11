@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T17:07:17.095Z'
-dateModified: '2016-02-11T17:07:09.276Z'
+datePublished: '2016-02-11T17:09:38.278Z'
+dateModified: '2016-02-11T17:09:34.591Z'
 title: What makes API Testing special?
 author: []
 sourcePath: _posts/2016-02-11-what-makes-api-testing-special.md
