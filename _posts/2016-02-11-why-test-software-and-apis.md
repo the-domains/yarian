@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T16:43:21.239Z'
-dateModified: '2016-02-11T16:43:04.175Z'
+datePublished: '2016-02-11T17:03:23.413Z'
+dateModified: '2016-02-11T17:03:19.527Z'
 title: Why Test Software and APIs?
 author: []
+sourcePath: _posts/2016-02-11-why-test-software-and-apis.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-11-why-test-software-and-apis.md
-published: true
 url: why-test-software-and-apis/index.html
 _type: Article
 
