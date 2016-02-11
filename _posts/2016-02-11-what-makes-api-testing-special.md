@@ -1,28 +1,28 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T16:45:56.201Z'
-dateModified: '2016-02-11T16:45:01.334Z'
+datePublished: '2016-02-11T17:07:17.095Z'
+dateModified: '2016-02-11T17:07:09.276Z'
 title: What makes API Testing special?
 author: []
+sourcePath: _posts/2016-02-11-what-makes-api-testing-special.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-11-what-makes-api-testing-special.md
-published: true
 url: what-makes-api-testing-special/index.html
 _type: Article
 
 ---
-The threshold for entry into API testing is often quite high, especially for testers new to the field. Many newcomers think of APIs as just the libraries used by programs. In realility APIs include any specification defining computer-to-computer interaction.
+The threshold for entry into API testing is often quite high, especially for testers new to the field. Many newcomers think of APIs as just the libraries used by programs. In reality APIs include any specification defining computer-to-computer interaction.
 
 ## Overview
 
