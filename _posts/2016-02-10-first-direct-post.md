@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: FDP Description
-datePublished: '2016-02-10T06:15:14.650Z'
-dateModified: '2016-02-10T06:03:53.830Z'
+datePublished: '2016-02-11T16:39:25.749Z'
+dateModified: '2016-02-11T16:38:43.490Z'
 title: First Direct Post
 author: []
 sourcePath: _posts/2016-02-10-first-direct-post.md
