@@ -4,7 +4,7 @@
         <description><![CDATA[Site Title]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 16:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 16:48:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Direct Post]]></title>
@@ -21,25 +21,11 @@
             <pubDate>Tue, 09 Feb 2016 15:01:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Test Software and APIs?]]></title>
-            <description><![CDATA[<article><h1>Why Test Software and APIs?</h1><p>Why test software? It is surprising how many corporations today, large and small, still ask this question. Testing is often misunderstood and therefore undervalued.</p></article>]]></description>
-            <link>https://thegrid.ai/yarian/why-test-software-and-apis/index.html</link>
-            <guid isPermaLink="false">84c4a6d3-bf79-42f5-8399-c1092b0865b0</guid>
-            <pubDate>Thu, 11 Feb 2016 16:43:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Derailleur gears]]></title>
             <description><![CDATA[<article><h1>Derailleur gears</h1><p>Derailleur gears are a variable-ratio transmission system commonly used on bicycles, consisting of a chain, multiple sprockets of different sizes, and a mechanism to move the chain from one sprocket to another. Although referred to as in the bike world, these bicycle gears are technically sprockets since they drive or are driven by a chain, and are not driven by one another.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/512751486f71b46d6d5eff09b3e4e036ba08a8b1.jpg"></article>]]></description>
             <link>https://en.wikipedia.org/wiki/Derailleur_gears</link>
             <guid isPermaLink="false">a7983e19-7fb8-4af7-883e-278e3ab8fa81</guid>
             <pubDate>Wed, 10 Feb 2016 05:11:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arduino - ADXL3xx]]></title>
-            <description><![CDATA[<article><h1>Arduino - ADXL3xx</h1><p>This tutorial shows you how to read an Analog Devices ADXL3xx series (e.g. ADXL320, ADXL321, ADXL322, ADXL330) accelerometer and communicate the acceleration to the a personal computer through the serial monitor of the Arduino Software (IDE) or another application that receives data over the serial port.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76907274921b57a1dcc002ee1734cd6afe1a007c.png"></article>]]></description>
-            <link>https://www.arduino.cc/en/Tutorial/ADXL3xx</link>
-            <guid isPermaLink="false">ed675f5b-d1c8-467a-8e12-efa3833a5117</guid>
-            <pubDate>Wed, 10 Feb 2016 04:49:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Create a Secure Login Script in PHP and MySQL]]></title>
