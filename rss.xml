@@ -4,7 +4,7 @@
         <description><![CDATA[Site Title]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 17:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 17:07:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Direct Post]]></title>
@@ -29,10 +29,10 @@
         </item>
         <item>
             <title><![CDATA[Overview]]></title>
-            <description><![CDATA[<article><h1>Overview</h1><p>The threshold for entry into API testing is often quite high, especially for testers new to the field. Many newcomers think of APIs as just the libraries used by programs. In realility APIs include any specification defining computer-to-computer interaction.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Overview</h1><p>The threshold for entry into API testing is often quite high, especially for testers new to the field. Many newcomers think of APIs as just the libraries used by programs. In reality APIs include any specification defining computer-to-computer interaction.</p></article>]]></description>
             <link>https://thegrid.ai/yarian/what-makes-api-testing-special/index.html</link>
             <guid isPermaLink="false">6491a61f-9079-4f45-9d02-a0ea4d92c2c5</guid>
-            <pubDate>Thu, 11 Feb 2016 16:45:56 GMT</pubDate>
+            <pubDate>Thu, 11 Feb 2016 17:07:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
