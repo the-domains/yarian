@@ -4,7 +4,7 @@
         <description><![CDATA[Site Title]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 16:45:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 16:47:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Direct Post]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/yarian/642834bd-01b7-4032-b290-835e8aed918f/index.html</link>
             <guid isPermaLink="false">642834bd-01b7-4032-b290-835e8aed918f</guid>
             <pubDate>Tue, 09 Feb 2016 15:01:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Test Software and APIs?]]></title>
+            <description><![CDATA[<article><h1>Why Test Software and APIs?</h1><p>Why test software? It is surprising how many corporations today, large and small, still ask this question. Testing is often misunderstood and therefore undervalued.</p></article>]]></description>
+            <link>https://thegrid.ai/yarian/why-test-software-and-apis/index.html</link>
+            <guid isPermaLink="false">84c4a6d3-bf79-42f5-8399-c1092b0865b0</guid>
+            <pubDate>Thu, 11 Feb 2016 16:43:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Derailleur gears]]></title>
