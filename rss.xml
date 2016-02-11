@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 17:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 17:46:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Why Test Software and APIs?]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Overview]]></title>
-            <description><![CDATA[<article><h1>Overview</h1><p>The threshold for entry into API testing is often quite high, especially for testers new to the field. Many newcomers think of APIs as just the libraries used by programs. In reality APIs include any specification defining computer-to-computer interaction.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Overview</h1><p>Let's start with a brief overview of the technology to try and clarify some of the misconceptions out there. Most Web applications lend themselves very well to the classic three-tier architecture model.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fb734a0-fd3f-4fd1-9249-d96dfe4cae81.png"></article>]]></description>
             <link>https://thegrid.ai/yarian/what-makes-api-testing-special/index.html</link>
             <guid isPermaLink="false">6491a61f-9079-4f45-9d02-a0ea4d92c2c5</guid>
-            <pubDate>Thu, 11 Feb 2016 17:09:38 GMT</pubDate>
+            <pubDate>Thu, 11 Feb 2016 17:45:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
