@@ -4,7 +4,7 @@
         <description><![CDATA[Site Title]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 16:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 16:48:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Direct Post]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/yarian/how-to-create-a-secure-login-script-in-php-and-mysql/index.html</link>
             <guid isPermaLink="false">8d2d123e-c421-40cd-92d8-32c855953955</guid>
             <pubDate>Tue, 09 Feb 2016 22:32:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Software Developer's Guide for Cisco Secure Access Control System 5.4 - Using the REST Web Services [Cisco Secure Access Control System 5.4]]]></title>
-            <description><![CDATA[<article><h1>Software Developer's Guide for Cisco Secure Access Control System 5.4 - Using the REST Web Services [Cisco Secure Access Control System 5.4]</h1><p>Configuring REST web services are available on all ACS servers in the deployment, but only the ACS primary instance provides the full service that supports read and write operations. Secondary ACS instances provide read only access to the configuration data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/683db7a4cdbd63099623d5c2a3d1048b4ee5f32d.gif"></article>]]></description>
-            <link>http://www.cisco.com/c/en/us/td/docs/net_mgmt/cisco_secure_access_control_system/5-4/sdk/acs_sdk/rest.html</link>
-            <guid isPermaLink="false">cdc17b03-ad6a-4603-af63-f7393a52a6dc</guid>
-            <pubDate>Tue, 09 Feb 2016 22:32:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
