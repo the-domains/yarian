@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T17:03:23.413Z'
-dateModified: '2016-02-11T17:03:19.527Z'
+datePublished: '2016-02-11T17:08:36.649Z'
+dateModified: '2016-02-11T17:08:29.339Z'
 title: Why Test Software and APIs?
 author: []
 sourcePath: _posts/2016-02-11-why-test-software-and-apis.md
@@ -22,6 +22,8 @@ url: why-test-software-and-apis/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9bee30d-17af-4cfc-9d94-496401ba5226.png)
+
 Why test software? It is surprising how many corporations today, large and small, still ask this question. Testing is often misunderstood and therefore undervalued.
 
 At its most basic level, software testing is intended to reveal bugs: inconsistencies or deviations from the expected behaviour. However "inconsistency or deviation from the expected behaviour" is a very subjective concept. It is not uncommon to hear that a tester had to fight with the product manager or developer about the validity of a bug they'd found. And that's the story you hear from professional testers. In many cases, a test team can still be made up primarily of support staff with little to no field experience, or knowledge about strategy of software testing. Even while this kind of team may be comprised of very intelligent people with vast knowledge about the particular software they are testing, without a broader understanding of why and how software should be tested, they are likely to meet with frustration and miss the real benefits of a sound testing approach. In order to reap those benefits, it's important to understand how software testing has traditionally been approached, and the skills necessary to accomplish basic to advanced levels of testing today.
