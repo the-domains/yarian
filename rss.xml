@@ -4,7 +4,7 @@
         <description><![CDATA[Site Title]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 16:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 16:50:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Direct Post]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/yarian/642834bd-01b7-4032-b290-835e8aed918f/index.html</link>
             <guid isPermaLink="false">642834bd-01b7-4032-b290-835e8aed918f</guid>
             <pubDate>Tue, 09 Feb 2016 15:01:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Derailleur gears]]></title>
-            <description><![CDATA[<article><h1>Derailleur gears</h1><p>Derailleur gears are a variable-ratio transmission system commonly used on bicycles, consisting of a chain, multiple sprockets of different sizes, and a mechanism to move the chain from one sprocket to another. Although referred to as in the bike world, these bicycle gears are technically sprockets since they drive or are driven by a chain, and are not driven by one another.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/512751486f71b46d6d5eff09b3e4e036ba08a8b1.jpg"></article>]]></description>
-            <link>https://en.wikipedia.org/wiki/Derailleur_gears</link>
-            <guid isPermaLink="false">a7983e19-7fb8-4af7-883e-278e3ab8fa81</guid>
-            <pubDate>Wed, 10 Feb 2016 05:11:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Create a Secure Login Script in PHP and MySQL]]></title>
