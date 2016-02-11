@@ -4,14 +4,14 @@
         <description><![CDATA[Site Title]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 16:44:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 16:45:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Direct Post]]></title>
-            <description><![CDATA[<article><h1>First Direct Post</h1><p>First Direct Publish</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b686e5adbb94a70d89c2927dd0c90cb1875d5c4.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>First Direct Post</h1><p>First Direct Publish</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c618130f3153ca1e78709fdd3f5d953d87f8eacd.jpg"></article>]]></description>
             <link>https://thegrid.ai/yarian/first-direct-post/index.html</link>
             <guid isPermaLink="false">1b63450c-3123-4ee7-b1d4-e3f71b9cda78</guid>
-            <pubDate>Thu, 11 Feb 2016 16:39:25 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 06:15:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://en.wikipedia.org/wiki/Derailleur_gears</link>
             <guid isPermaLink="false">a7983e19-7fb8-4af7-883e-278e3ab8fa81</guid>
             <pubDate>Wed, 10 Feb 2016 05:11:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/FordtaunusV4front.jpg/300px-FordtaunusV4front.jpg">]]></description>
-            <link>https://thegrid.ai/yarian/1a8ffc96-7185-4aa6-9e0c-26875fee0e7a/index.html</link>
-            <guid isPermaLink="false">1a8ffc96-7185-4aa6-9e0c-26875fee0e7a</guid>
-            <pubDate>Wed, 10 Feb 2016 05:11:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arduino - ADXL3xx]]></title>
