@@ -1,6 +1,6 @@
 name: yarian
 favicon: null
-layout_spectrum: 0.27437
+layout_spectrum: 0.7473
 typography_spectrum: 0.43724
 title: Mark Yarian
 cta:
@@ -23,7 +23,7 @@ color:
     - '#000008'
     - '#59191f'
   brandStrength: 0.8125
-  lightness: 0.9628662371542305
+  lightness: 1
   saturation: 0.625
   rhythmicContrast: 0.75
 purpose: []
