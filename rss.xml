@@ -4,8 +4,15 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 17:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 19:33:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b4481a6-9d42-437c-9400-d5a3721f6671.jpg">]]></description>
+            <link>https://thegrid.ai/yarian/e5db478d-a7d6-4ef4-a66d-d35041ce57fe/index.html</link>
+            <guid isPermaLink="false">e5db478d-a7d6-4ef4-a66d-d35041ce57fe</guid>
+            <pubDate>Fri, 04 Mar 2016 19:29:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Test Software and APIs?]]></title>
             <description><![CDATA[<article><h1>Why Test Software and APIs?</h1><p>Why test software? It is surprising how many corporations today, large and small, still ask this question. Testing is often misunderstood and therefore undervalued.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0ccd5d2cced9b1317a2a5c7eb303094dea4b1d7.png"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Overview]]></title>
-            <description><![CDATA[<article><h1>Overview</h1><p>Let's start with a brief overview of the technology to try and clarify some of the misconceptions out there. Most Web applications lend themselves very well to the classic three-tier architecture model.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fb734a0-fd3f-4fd1-9249-d96dfe4cae81.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Overview</h1><p>Let's start with a brief overview of the technology to try and clarify some of the misconceptions out there. Most Web applications lend themselves very well to the classic three-tier architecture model.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/833b767bdea75a59549e3fa20b96cb018ee67a63.png"></article>]]></description>
             <link>https://thegrid.ai/yarian/what-makes-api-testing-special/index.html</link>
             <guid isPermaLink="false">6491a61f-9079-4f45-9d02-a0ea4d92c2c5</guid>
             <pubDate>Thu, 11 Feb 2016 17:45:14 GMT</pubDate>
