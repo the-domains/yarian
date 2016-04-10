@@ -4,8 +4,15 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 23:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 23:08:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Creating downloadable CSV files using PHP]]></title>
+            <description><![CDATA[<article><h1>Creating downloadable CSV files using PHP</h1><p>CSV (comma-separated values) is the most widely supported format for transferring tabular data between applications. The ability to export data in CSV format is a useful feature for many programs, and is becoming increasingly common in web applications.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4db1c7f01c094c6027d5e09de491d7e6e720c2ec.png"></article>]]></description>
+            <link>http://code.stephenmorley.org/php/creating-downloadable-csv-files/</link>
+            <guid isPermaLink="false">a3d13435-25ab-4c74-b41b-d370e57f08c6</guid>
+            <pubDate>Sun, 10 Apr 2016 23:08:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ten ways to improve the performance of large tables in MySQL]]></title>
             <description><![CDATA[<article><h1>Ten ways to improve the performance of large tables in MySQL</h1><p>Today I wanted to take a look at improving the performance of tables that cause performance problems based largely on their size. Some of this advice also applies to databases that are large in-aggregate over many tables, but I always find the individually large table a special-case that is problematic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8e3ab971835abf239d8d7ccbfce1ad08166ae32.jpg"></article>]]></description>
