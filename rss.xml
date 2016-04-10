@@ -4,8 +4,15 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 23:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 23:13:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://www.openchange.org/cookbook/initializing.html#ubuntu</link>
+            <guid isPermaLink="false">0a0e36f1-0fee-4ad2-a0b5-1e53f67b378f</guid>
+            <pubDate>Sun, 10 Apr 2016 23:12:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Creating downloadable CSV files using PHP]]></title>
             <description><![CDATA[<article><h1>Creating downloadable CSV files using PHP</h1><p>CSV (comma-separated values) is the most widely supported format for transferring tabular data between applications. The ability to export data in CSV format is a useful feature for many programs, and is becoming increasingly common in web applications.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4db1c7f01c094c6027d5e09de491d7e6e720c2ec.png"></article>]]></description>
