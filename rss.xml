@@ -4,8 +4,15 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 23:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 23:08:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ten ways to improve the performance of large tables in MySQL]]></title>
+            <description><![CDATA[<article><h1>Ten ways to improve the performance of large tables in MySQL</h1><p>Today I wanted to take a look at improving the performance of tables that cause performance problems based largely on their size. Some of this advice also applies to databases that are large in-aggregate over many tables, but I always find the individually large table a special-case that is problematic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8e3ab971835abf239d8d7ccbfce1ad08166ae32.jpg"></article>]]></description>
+            <link>http://www.tocker.ca/2013/10/24/improving-the-performance-of-large-tables-in-mysql.html</link>
+            <guid isPermaLink="false">c4e07a8a-7c73-43d5-b9cf-150ca221378e</guid>
+            <pubDate>Sun, 10 Apr 2016 23:08:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Neversummer]]></title>
             <description><![CDATA[<article><h1>Neversummer</h1><p>Wednesday December 3, 2014 09:12 Posted By DeputyDog in NS4 News and Announcements Yes it been years in the making... no not really. But follow us on facebook for easier news updates and to chat. Keep it Civil please.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a31a7727117e5c1fff35c15b7aecd4fbed35631f.jpg"></article>]]></description>
