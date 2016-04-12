@@ -4,11 +4,11 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 16:06:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 16:06:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Free AIRESPACE-WIRELESS-MIB SNMP MIB Download - Free MIB Download - Search MIBs - OiDViEW]]></title>
-            <description><![CDATA[<article><h1>Free AIRESPACE-WIRELESS-MIB SNMP MIB Download - Free MIB Download - Search MIBs - OiDViEW</h1><p>Airespace, Inc (formerly Black Storm Networks):AIRESPACE-WIRELESS-MIB: Download, View or Compile. Courtesy of ByteSphere's searchable online SNMP MIB database</p><img src="http://www.oidview.com/images/missing_something.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Free AIRESPACE-WIRELESS-MIB SNMP MIB Download - Free MIB Download - Search MIBs - OiDViEW</h1><p>Airespace, Inc (formerly Black Storm Networks):AIRESPACE-WIRELESS-MIB: Download, View or Compile. Courtesy of ByteSphere's searchable online SNMP MIB database</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d36d60c6fcc1e37a162ffeb06a655d5131b0405f.gif"></article>]]></description>
             <link>http://www.oidview.com/mibs/14179/AIRESPACE-WIRELESS-MIB.html</link>
             <guid isPermaLink="false">1a266689-af93-4914-9385-f41af4595598</guid>
             <pubDate>Tue, 12 Apr 2016 16:05:54 GMT</pubDate>
@@ -26,6 +26,20 @@
             <link>https://www.google.com/search?sourceid=chrome-psyapi2&amp;ion=1&amp;espv=2&amp;ie=UTF-8&amp;q=disquietude%20definition&amp;oq=disquietude&amp;rlz=1C1CHFX_enUS660US660&amp;aqs=chrome.1.69i57j0l5.5950j0j7</link>
             <guid isPermaLink="false">5f1266fd-227a-49ce-9fa2-e30a648fb0c7</guid>
             <pubDate>Tue, 12 Apr 2016 16:05:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MySQL slow query logging to table]]></title>
+            <description><![CDATA[<article><h1>MySQL slow query logging to table</h1><p>Ever wonder how to log slow queries to a MySQL table and set an expire time? I personally hate logging slow queries to a log file. Mainly because it gets huge, spikes disk I/O and it's not as easy to read as logging to a MySQL table.</p><img src="http://gurutek.biz/wp-content/uploads/2014/03/verslag-techtalk-mysql.png"></article>]]></description>
+            <link>http://gurutek.biz/mysql-slow-query-logging-to-table/</link>
+            <guid isPermaLink="false">402b6a78-399e-46d5-b613-d22c65207123</guid>
+            <pubDate>Tue, 12 Apr 2016 16:05:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ProgrammableWeb]]></title>
+            <description><![CDATA[<article><h1>ProgrammableWeb</h1><p>The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af28853be529bc6ff1b1eb7b7cf78a7225571997.png"></article>]]></description>
+            <link>http://www.programmableweb.com/</link>
+            <guid isPermaLink="false">fb877757-d084-4764-b67f-a95173bff1bd</guid>
+            <pubDate>Tue, 12 Apr 2016 16:05:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/yarian/programmablewebs-api-university/index.html</link>
             <guid isPermaLink="false">cc894be7-d645-4cd8-a727-dda3091660e8</guid>
             <pubDate>Mon, 07 Mar 2016 15:53:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a6d58b0-75ca-4559-b480-6d1c07946424.png">]]></description>
-            <link>https://thegrid.ai/yarian/54e2e311-4493-4111-bd71-748937c0603e/index.html</link>
-            <guid isPermaLink="false">54e2e311-4493-4111-bd71-748937c0603e</guid>
-            <pubDate>Mon, 07 Mar 2016 15:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b9ce548-0360-41cd-9348-9dcdcb172727.jpg">]]></description>
-            <link>https://thegrid.ai/yarian/e5db478d-a7d6-4ef4-a66d-d35041ce57fe/index.html</link>
-            <guid isPermaLink="false">e5db478d-a7d6-4ef4-a66d-d35041ce57fe</guid>
-            <pubDate>Mon, 07 Mar 2016 15:01:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
