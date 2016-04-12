@@ -4,8 +4,15 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 16:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 16:06:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Read and write Excel data with PHP]]></title>
+            <description><![CDATA[<article><h1>Read and write Excel data with PHP</h1><p>Learn how to use the XML support in PHP to read the data from the XML exported from Microsoft Excel 2003. Also, learn to export data from your PHP application as Excel XML so your users can see their data in a real spreadsheet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e49d4f9bef02fb827385f0310dd83b3b51e9fe9.png"></article>]]></description>
+            <link>http://www.ibm.com/developerworks/library/os-phpexcel/</link>
+            <guid isPermaLink="false">69fda7d0-8296-4d1b-acb4-0429036445de</guid>
+            <pubDate>Tue, 12 Apr 2016 16:05:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[disquietude definition - Google Search]]></title>
             <description><![CDATA[<article><h1>disquietude definition - Google Search</h1><p>Define disquietude. disquietude synonyms, disquietude pronunciation, disquietude translation, English dictionary definition of disquietude. n. Worried unease ...</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/yarian/what-makes-api-testing-special/index.html</link>
             <guid isPermaLink="false">6491a61f-9079-4f45-9d02-a0ea4d92c2c5</guid>
             <pubDate>Thu, 11 Feb 2016 17:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Test Software and APIs?]]></title>
-            <description><![CDATA[<article><h1>Why Test Software and APIs?</h1><p>Why test software? It is surprising how many corporations today, large and small, still ask this question. Testing is often misunderstood and therefore undervalued.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0ccd5d2cced9b1317a2a5c7eb303094dea4b1d7.png"></article>]]></description>
-            <link>https://thegrid.ai/yarian/why-test-software-and-apis/index.html</link>
-            <guid isPermaLink="false">84c4a6d3-bf79-42f5-8399-c1092b0865b0</guid>
-            <pubDate>Thu, 11 Feb 2016 17:08:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
