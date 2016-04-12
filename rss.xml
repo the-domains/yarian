@@ -4,15 +4,8 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 16:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 16:07:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Queue Logs]]></title>
-            <description><![CDATA[<article><h1>Queue Logs</h1><p>Skip to end of metadata Go to start of metadata In order to properly manage ACD queues, it is important to be able to keep track of details of call setups and teardowns in much greater detail than traditional call detail records provide.</p></article>]]></description>
-            <link>https://wiki.asterisk.org/wiki/display/AST/Queue+Logs</link>
-            <guid isPermaLink="false">8072dbc4-fc06-4499-b930-aedaa4e8657c</guid>
-            <pubDate>Tue, 12 Apr 2016 16:06:39 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Best Practices REST API from Scratch - Introduction]]></title>
             <description><![CDATA[<article><h1>Best Practices REST API from Scratch - Introduction</h1><p>The current internet ecosystem has literally been invaded by APIs, and for good reasons. By using third party APIs in your products or services, you have access to a ton of useful features - such as authentication or storage services - that can benefit both you and your users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d7a1874b8b5b7a8b868242fdf50ffef4ed98ede.png"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://code.stephenmorley.org/php/creating-downloadable-csv-files/</link>
             <guid isPermaLink="false">a3d13435-25ab-4c74-b41b-d370e57f08c6</guid>
             <pubDate>Sun, 10 Apr 2016 23:08:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ten ways to improve the performance of large tables in MySQL]]></title>
+            <description><![CDATA[<article><h1>Ten ways to improve the performance of large tables in MySQL</h1><p>Today I wanted to take a look at improving the performance of tables that cause performance problems based largely on their size. Some of this advice also applies to databases that are large in-aggregate over many tables, but I always find the individually large table a special-case that is problematic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8e3ab971835abf239d8d7ccbfce1ad08166ae32.jpg"></article>]]></description>
+            <link>http://www.tocker.ca/2013/10/24/improving-the-performance-of-large-tables-in-mysql.html</link>
+            <guid isPermaLink="false">c4e07a8a-7c73-43d5-b9cf-150ca221378e</guid>
+            <pubDate>Sun, 10 Apr 2016 23:08:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
