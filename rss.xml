@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 16:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 16:06:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Free AIRESPACE-WIRELESS-MIB SNMP MIB Download - Free MIB Download - Search MIBs - OiDViEW]]></title>
@@ -28,8 +28,22 @@
             <pubDate>Tue, 12 Apr 2016 16:05:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[MySQL slow query logging to table]]></title>
+            <description><![CDATA[<article><h1>MySQL slow query logging to table</h1><p>Ever wonder how to log slow queries to a MySQL table and set an expire time? I personally hate logging slow queries to a log file. Mainly because it gets huge, spikes disk I/O and it's not as easy to read as logging to a MySQL table.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e1fcc8758d0cee7ccbd63cb6e7f64716014b84f.png"></article>]]></description>
+            <link>http://gurutek.biz/mysql-slow-query-logging-to-table/</link>
+            <guid isPermaLink="false">402b6a78-399e-46d5-b613-d22c65207123</guid>
+            <pubDate>Tue, 12 Apr 2016 16:05:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8 Linux TR Command Examples]]></title>
+            <description><![CDATA[<article><h1>8 Linux TR Command Examples</h1><p>tr is an UNIX utility for translating, or deleting, or squeezing repeated characters. It will read from STDIN and write to STDOUT. tr stands for translate. The syntax of tr command is: $ tr [OPTION] SET1 [SET2] If both the SET1 and SET2 are specified and '-d' OPTION is not specified, then tr command will replace each characters in SET1 with each character in same position in SET2.</p><img src="http://static.thegeekstuff.com/images/bash-132.png"></article>]]></description>
+            <link>http://www.thegeekstuff.com/2012/12/linux-tr-command/</link>
+            <guid isPermaLink="false">f0c436a2-3774-4fab-8fdc-45ce102fa3a9</guid>
+            <pubDate>Tue, 12 Apr 2016 16:05:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ProgrammableWeb]]></title>
-            <description><![CDATA[<article><h1>ProgrammableWeb</h1><p>The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory</p><img src="http://i61.tinypic.com/25a5ajc.png"></article>]]></description>
+            <description><![CDATA[<article><h1>ProgrammableWeb</h1><p>The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af28853be529bc6ff1b1eb7b7cf78a7225571997.png"></article>]]></description>
             <link>http://www.programmableweb.com/</link>
             <guid isPermaLink="false">fb877757-d084-4764-b67f-a95173bff1bd</guid>
             <pubDate>Tue, 12 Apr 2016 16:05:53 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>http://www.nsrealm.com/site/</link>
             <guid isPermaLink="false">4b612fdc-2ef0-4d9d-9d19-70d9d22dc06b</guid>
             <pubDate>Sun, 10 Apr 2016 23:08:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ProgrammableWeb's API University]]></title>
-            <description><![CDATA[<article><h1>ProgrammableWeb's API University</h1><p>When it comes to the application programming interfaces (APIs) and the API economy, the only question that gets asked more frequently than "Why do I need APIs?" is "What is an API?" Thanks to the wider-spread attention that APIs are getting from the mainstream media, "What is an API?" is in fact the million dollar question because for those who understand the potential of APIs, there could be millions of more dollars to be made, or saved.</p></article>]]></description>
-            <link>https://thegrid.ai/yarian/programmablewebs-api-university/index.html</link>
-            <guid isPermaLink="false">cc894be7-d645-4cd8-a727-dda3091660e8</guid>
-            <pubDate>Mon, 07 Mar 2016 15:53:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a6d58b0-75ca-4559-b480-6d1c07946424.png">]]></description>
-            <link>https://thegrid.ai/yarian/54e2e311-4493-4111-bd71-748937c0603e/index.html</link>
-            <guid isPermaLink="false">54e2e311-4493-4111-bd71-748937c0603e</guid>
-            <pubDate>Mon, 07 Mar 2016 15:06:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
