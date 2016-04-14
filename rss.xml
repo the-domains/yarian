@@ -14,6 +14,13 @@
             <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[DBD::mysql::INSTALL - search.cpan.org]]></title>
+            <description><![CDATA[<article><h1>DBD::mysql::INSTALL - search.cpan.org</h1><p>DBD::mysql::INSTALL - How to install and configure DBD::mysql perl Makefile.PL [options] make make test make install This document describes the installation and configuration of DBD::mysql, the Perl DBI driver for the MySQL database. Before reading on, make sure that you have the prerequisites available: Perl, MySQL and DBI.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6760923ac5322fcf888462197316db6633a7b2c.png"></article>]]></description>
+            <link>http://search.cpan.org/dist/DBD-mysql/lib/DBD/mysql/INSTALL.pod#Debian_and_Ubuntu</link>
+            <guid isPermaLink="false">58cde6a9-bc84-463e-96a9-cd455496d1b3</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Setting up SNMP trap handling using snmptrapd and snmptt - Tutorials]]></title>
             <description><![CDATA[<article><h1>Setting up SNMP trap handling using snmptrapd and snmptt - Tutorials</h1><p>This describes the basics of trap handling. In this article, we'll work with trap handling with snmptt. While this increases complexity by adding another layer to the mix, it also greatly increases the readibility of the incoming traps. You'll need snmptrapd, snmptt, and MIB's for any devices you want traps sent for.</p></article>]]></description>
             <link>http://tutorials.section6.net/home/setting-up-snmp-trap-handling-using-snmptrapd-and-snmptt</link>
@@ -68,13 +75,6 @@
             <link>https://www.google.com/search?sourceid=chrome-psyapi2&amp;ion=1&amp;espv=2&amp;ie=UTF-8&amp;q=disquietude%20definition&amp;oq=disquietude&amp;rlz=1C1CHFX_enUS660US660&amp;aqs=chrome.1.69i57j0l5.5950j0j7</link>
             <guid isPermaLink="false">5f1266fd-227a-49ce-9fa2-e30a648fb0c7</guid>
             <pubDate>Tue, 12 Apr 2016 16:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MySQL slow query logging to table]]></title>
-            <description><![CDATA[<article><h1>MySQL slow query logging to table</h1><p>Ever wonder how to log slow queries to a MySQL table and set an expire time? I personally hate logging slow queries to a log file. Mainly because it gets huge, spikes disk I/O and it's not as easy to read as logging to a MySQL table.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e1fcc8758d0cee7ccbd63cb6e7f64716014b84f.png"></article>]]></description>
-            <link>http://gurutek.biz/mysql-slow-query-logging-to-table/</link>
-            <guid isPermaLink="false">402b6a78-399e-46d5-b613-d22c65207123</guid>
-            <pubDate>Tue, 12 Apr 2016 16:05:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
