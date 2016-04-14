@@ -4,8 +4,36 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 14:36:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 14:36:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://cpansearch.perl.org/src/ASNMTAP/ASNMTAP-3.002003/plugins/templates/snmptt/snmptt.ini</link>
+            <guid isPermaLink="false">22b8a13d-be91-45d8-9f64-4dbf0b449941</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SNMPTT Integration - HowTos - Icinga Wiki]]></title>
+            <description><![CDATA[<article><h1>SNMPTT Integration - HowTos - Icinga Wiki</h1><p>This targets RHEL/CentOS only for now. Choose the architecture and distribution, like described here: http://repoforge.org/use/ Use your favorite editor. Add the following lines: Lets start snmptt for the first time ! Failures about missing snmptt.conf can be ignored. We will add these files later.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54eb5faefa97afcfe1231f373e2bd052df3955fb.png"></article>]]></description>
+            <link>https://wiki.icinga.org/display/howtos/SNMPTT+Integration</link>
+            <guid isPermaLink="false">bd96d26a-440f-4b48-9902-f924f76d91b4</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DBD::mysql::INSTALL - search.cpan.org]]></title>
+            <description><![CDATA[<article><h1>DBD::mysql::INSTALL - search.cpan.org</h1><p>DBD::mysql::INSTALL - How to install and configure DBD::mysql perl Makefile.PL [options] make make test make install This document describes the installation and configuration of DBD::mysql, the Perl DBI driver for the MySQL database. Before reading on, make sure that you have the prerequisites available: Perl, MySQL and DBI.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6760923ac5322fcf888462197316db6633a7b2c.png"></article>]]></description>
+            <link>http://search.cpan.org/dist/DBD-mysql/lib/DBD/mysql/INSTALL.pod#Debian_and_Ubuntu</link>
+            <guid isPermaLink="false">58cde6a9-bc84-463e-96a9-cd455496d1b3</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Setting up SNMP trap handling using snmptrapd and snmptt - Tutorials]]></title>
+            <description><![CDATA[<article><h1>Setting up SNMP trap handling using snmptrapd and snmptt - Tutorials</h1><p>This describes the basics of trap handling. In this article, we'll work with trap handling with snmptt. While this increases complexity by adding another layer to the mix, it also greatly increases the readibility of the incoming traps. You'll need snmptrapd, snmptt, and MIB's for any devices you want traps sent for.</p></article>]]></description>
+            <link>http://tutorials.section6.net/home/setting-up-snmp-trap-handling-using-snmptrapd-and-snmptt</link>
+            <guid isPermaLink="false">22e0b475-4ba4-4568-86af-bd1ce9df058f</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trying to install Perl-Mysql DBD, mysql_config can't be found]]></title>
             <description><![CDATA[<article><h1>Trying to install Perl-Mysql DBD, mysql_config can't be found</h1><p>If you try to install via CPAN you cannot, as far as I know, set the --mysql_config option directly. And, including the directory containing mysql_config in the PATH environment variable does not seem to help.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>http://www.ibm.com/developerworks/library/os-phpexcel/</link>
             <guid isPermaLink="false">69fda7d0-8296-4d1b-acb4-0429036445de</guid>
             <pubDate>Tue, 12 Apr 2016 16:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[disquietude definition - Google Search]]></title>
-            <description><![CDATA[<article><h1>disquietude definition - Google Search</h1><p>Define disquietude. disquietude synonyms, disquietude pronunciation, disquietude translation, English dictionary definition of disquietude. n. Worried unease ...</p></article>]]></description>
-            <link>https://www.google.com/search?sourceid=chrome-psyapi2&amp;ion=1&amp;espv=2&amp;ie=UTF-8&amp;q=disquietude%20definition&amp;oq=disquietude&amp;rlz=1C1CHFX_enUS660US660&amp;aqs=chrome.1.69i57j0l5.5950j0j7</link>
-            <guid isPermaLink="false">5f1266fd-227a-49ce-9fa2-e30a648fb0c7</guid>
-            <pubDate>Tue, 12 Apr 2016 16:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MySQL slow query logging to table]]></title>
-            <description><![CDATA[<article><h1>MySQL slow query logging to table</h1><p>Ever wonder how to log slow queries to a MySQL table and set an expire time? I personally hate logging slow queries to a log file. Mainly because it gets huge, spikes disk I/O and it's not as easy to read as logging to a MySQL table.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e1fcc8758d0cee7ccbd63cb6e7f64716014b84f.png"></article>]]></description>
-            <link>http://gurutek.biz/mysql-slow-query-logging-to-table/</link>
-            <guid isPermaLink="false">402b6a78-399e-46d5-b613-d22c65207123</guid>
-            <pubDate>Tue, 12 Apr 2016 16:05:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8 Linux TR Command Examples]]></title>
-            <description><![CDATA[<article><h1>8 Linux TR Command Examples</h1><p>tr is an UNIX utility for translating, or deleting, or squeezing repeated characters. It will read from STDIN and write to STDOUT. tr stands for translate. The syntax of tr command is: $ tr [OPTION] SET1 [SET2] If both the SET1 and SET2 are specified and '-d' OPTION is not specified, then tr command will replace each characters in SET1 with each character in same position in SET2.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b07114a265ab6fa5205c1c1db4471e0d630375a5.png"></article>]]></description>
-            <link>http://www.thegeekstuff.com/2012/12/linux-tr-command/</link>
-            <guid isPermaLink="false">f0c436a2-3774-4fab-8fdc-45ce102fa3a9</guid>
-            <pubDate>Tue, 12 Apr 2016 16:05:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ProgrammableWeb]]></title>
-            <description><![CDATA[<article><h1>ProgrammableWeb</h1><p>The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af28853be529bc6ff1b1eb7b7cf78a7225571997.png"></article>]]></description>
-            <link>http://www.programmableweb.com/</link>
-            <guid isPermaLink="false">fb877757-d084-4764-b67f-a95173bff1bd</guid>
-            <pubDate>Tue, 12 Apr 2016 16:05:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
