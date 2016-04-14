@@ -4,8 +4,43 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 14:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 14:36:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Debian / Ubuntu Linux: Install and Configure snmpd Service]]></title>
+            <description><![CDATA[<article><h1>Debian / Ubuntu Linux: Install and Configure snmpd Service</h1><p>SNMP (Simple Network Management Protocol) is a protocol used for network management. How do I install SNMP server under Debian or Ubuntu Linux to configure various monitoring service? The NET-SNMP project provides various SNMP tools: an extensible agent, an SNMP library, tools for requesting or setting information from SNMP agents, tools for generating and handling SNMP traps, a version of the netstat command which uses SNMP, and a Tk/Perl mib browser.</p></article>]]></description>
+            <link>http://www.cyberciti.biz/faq/debain-ubuntu-install-net-snmpd-server/</link>
+            <guid isPermaLink="false">93282b5a-851c-4aa6-a336-f8d7e16ecee6</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nagios Support Forum]]></title>
+            <description><![CDATA[<article><h1>Nagios Support Forum</h1><p>Sure I can. I havent changed anything on snmptt.conf - should I? Password is changed in this file I sent here - you can guess why Attachments snmptt.ini (25.36 KiB) Downloaded 229 times snmptt.conf (2.25 KiB) Downloaded 227 times</p></article>]]></description>
+            <link>https://support.nagios.com/forum/viewtopic.php?f=22&amp;t=26547</link>
+            <guid isPermaLink="false">d35b0aac-9df4-43f8-af47-2ab3d8ee01ad</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://cpansearch.perl.org/src/ASNMTAP/ASNMTAP-3.002003/plugins/templates/snmptt/snmptt.ini</link>
+            <guid isPermaLink="false">22b8a13d-be91-45d8-9f64-4dbf0b449941</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SNMPTT Integration - HowTos - Icinga Wiki]]></title>
+            <description><![CDATA[<article><h1>SNMPTT Integration - HowTos - Icinga Wiki</h1><p>This targets RHEL/CentOS only for now. Choose the architecture and distribution, like described here: http://repoforge.org/use/ Use your favorite editor. Add the following lines: Lets start snmptt for the first time ! Failures about missing snmptt.conf can be ignored. We will add these files later.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54eb5faefa97afcfe1231f373e2bd052df3955fb.png"></article>]]></description>
+            <link>https://wiki.icinga.org/display/howtos/SNMPTT+Integration</link>
+            <guid isPermaLink="false">bd96d26a-440f-4b48-9902-f924f76d91b4</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DBD::mysql::INSTALL - search.cpan.org]]></title>
+            <description><![CDATA[<article><h1>DBD::mysql::INSTALL - search.cpan.org</h1><p>DBD::mysql::INSTALL - How to install and configure DBD::mysql perl Makefile.PL [options] make make test make install This document describes the installation and configuration of DBD::mysql, the Perl DBI driver for the MySQL database. Before reading on, make sure that you have the prerequisites available: Perl, MySQL and DBI.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6760923ac5322fcf888462197316db6633a7b2c.png"></article>]]></description>
+            <link>http://search.cpan.org/dist/DBD-mysql/lib/DBD/mysql/INSTALL.pod#Debian_and_Ubuntu</link>
+            <guid isPermaLink="false">58cde6a9-bc84-463e-96a9-cd455496d1b3</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Setting up SNMP trap handling using snmptrapd and snmptt - Tutorials]]></title>
             <description><![CDATA[<article><h1>Setting up SNMP trap handling using snmptrapd and snmptt - Tutorials</h1><p>This describes the basics of trap handling. In this article, we'll work with trap handling with snmptt. While this increases complexity by adding another layer to the mix, it also greatly increases the readibility of the incoming traps. You'll need snmptrapd, snmptt, and MIB's for any devices you want traps sent for.</p></article>]]></description>
@@ -40,41 +75,6 @@
             <link>http://www.sitepoint.com/best-practices-rest-api-scratch-introduction/</link>
             <guid isPermaLink="false">f7c28e69-d7b5-46b7-b578-90d48a06b27b</guid>
             <pubDate>Tue, 12 Apr 2016 16:06:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Free AIRESPACE-WIRELESS-MIB SNMP MIB Download - Free MIB Download - Search MIBs - OiDViEW]]></title>
-            <description><![CDATA[<article><h1>Free AIRESPACE-WIRELESS-MIB SNMP MIB Download - Free MIB Download - Search MIBs - OiDViEW</h1><p>Airespace, Inc (formerly Black Storm Networks):AIRESPACE-WIRELESS-MIB: Download, View or Compile. Courtesy of ByteSphere's searchable online SNMP MIB database</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d36d60c6fcc1e37a162ffeb06a655d5131b0405f.gif"></article>]]></description>
-            <link>http://www.oidview.com/mibs/14179/AIRESPACE-WIRELESS-MIB.html</link>
-            <guid isPermaLink="false">1a266689-af93-4914-9385-f41af4595598</guid>
-            <pubDate>Tue, 12 Apr 2016 16:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Read and write Excel data with PHP]]></title>
-            <description><![CDATA[<article><h1>Read and write Excel data with PHP</h1><p>Learn how to use the XML support in PHP to read the data from the XML exported from Microsoft Excel 2003. Also, learn to export data from your PHP application as Excel XML so your users can see their data in a real spreadsheet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e49d4f9bef02fb827385f0310dd83b3b51e9fe9.png"></article>]]></description>
-            <link>http://www.ibm.com/developerworks/library/os-phpexcel/</link>
-            <guid isPermaLink="false">69fda7d0-8296-4d1b-acb4-0429036445de</guid>
-            <pubDate>Tue, 12 Apr 2016 16:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[disquietude definition - Google Search]]></title>
-            <description><![CDATA[<article><h1>disquietude definition - Google Search</h1><p>Define disquietude. disquietude synonyms, disquietude pronunciation, disquietude translation, English dictionary definition of disquietude. n. Worried unease ...</p></article>]]></description>
-            <link>https://www.google.com/search?sourceid=chrome-psyapi2&amp;ion=1&amp;espv=2&amp;ie=UTF-8&amp;q=disquietude%20definition&amp;oq=disquietude&amp;rlz=1C1CHFX_enUS660US660&amp;aqs=chrome.1.69i57j0l5.5950j0j7</link>
-            <guid isPermaLink="false">5f1266fd-227a-49ce-9fa2-e30a648fb0c7</guid>
-            <pubDate>Tue, 12 Apr 2016 16:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MySQL slow query logging to table]]></title>
-            <description><![CDATA[<article><h1>MySQL slow query logging to table</h1><p>Ever wonder how to log slow queries to a MySQL table and set an expire time? I personally hate logging slow queries to a log file. Mainly because it gets huge, spikes disk I/O and it's not as easy to read as logging to a MySQL table.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e1fcc8758d0cee7ccbd63cb6e7f64716014b84f.png"></article>]]></description>
-            <link>http://gurutek.biz/mysql-slow-query-logging-to-table/</link>
-            <guid isPermaLink="false">402b6a78-399e-46d5-b613-d22c65207123</guid>
-            <pubDate>Tue, 12 Apr 2016 16:05:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8 Linux TR Command Examples]]></title>
-            <description><![CDATA[<article><h1>8 Linux TR Command Examples</h1><p>tr is an UNIX utility for translating, or deleting, or squeezing repeated characters. It will read from STDIN and write to STDOUT. tr stands for translate. The syntax of tr command is: $ tr [OPTION] SET1 [SET2] If both the SET1 and SET2 are specified and '-d' OPTION is not specified, then tr command will replace each characters in SET1 with each character in same position in SET2.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b07114a265ab6fa5205c1c1db4471e0d630375a5.png"></article>]]></description>
-            <link>http://www.thegeekstuff.com/2012/12/linux-tr-command/</link>
-            <guid isPermaLink="false">f0c436a2-3774-4fab-8fdc-45ce102fa3a9</guid>
-            <pubDate>Tue, 12 Apr 2016 16:05:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
