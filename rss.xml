@@ -4,13 +4,27 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 14:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 14:36:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing SNMP traps with snmptrapd - Jonathan Julian]]></title>
+            <description><![CDATA[<article><h1>Testing SNMP traps with snmptrapd - Jonathan Julian</h1><p>If you've never worked with SNMP, then you're in for a treat. Get ready to party like it's 1988, with nested authentication models, over-designed protocols, and lots of meaningless numbers. Luckily, if all you need to do is write some ruby code to send SNMP traps, you have the snmp gem to help make things pretty palatable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/174daa694c72d6817edc02e85a1fa962d396d2d6.png"></article>]]></description>
+            <link>http://jonathanjulian.com/2008/07/testing-snmp-traps-with-snmptrapd/</link>
+            <guid isPermaLink="false">5f740787-2f4e-4960-9dbd-1dc93f00f8c0</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Debian / Ubuntu Linux: Install and Configure snmpd Service]]></title>
             <description><![CDATA[<article><h1>Debian / Ubuntu Linux: Install and Configure snmpd Service</h1><p>SNMP (Simple Network Management Protocol) is a protocol used for network management. How do I install SNMP server under Debian or Ubuntu Linux to configure various monitoring service? The NET-SNMP project provides various SNMP tools: an extensible agent, an SNMP library, tools for requesting or setting information from SNMP agents, tools for generating and handling SNMP traps, a version of the netstat command which uses SNMP, and a Tk/Perl mib browser.</p></article>]]></description>
             <link>http://www.cyberciti.biz/faq/debain-ubuntu-install-net-snmpd-server/</link>
             <guid isPermaLink="false">93282b5a-851c-4aa6-a336-f8d7e16ecee6</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simulate SNMP traps to test surveillance]]></title>
+            <description><![CDATA[<article><h1>Simulate SNMP traps to test surveillance</h1><p>I'm trying to use Net-SNMP on Windows to emulate a trap that should trigger an alarm on our surveillance system. This is the setup: Windows 7 client that sends the trap Net-SNMP as software for</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c16ccaeb68aa7f38929cb798f3dddf054056664e.png"></article>]]></description>
+            <link>http://serverfault.com/questions/147876/simulate-snmp-traps-to-test-surveillance</link>
+            <guid isPermaLink="false">9620e027-47fd-4891-ad33-1950782fc662</guid>
             <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
         </item>
         <item>
@@ -61,20 +75,6 @@
             <link>http://snmptt.sourceforge.net/docs/snmptt.shtml</link>
             <guid isPermaLink="false">57ee51d2-8e04-4f91-bc1a-44de223f44d0</guid>
             <pubDate>Thu, 14 Apr 2016 14:35:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Queue Logs]]></title>
-            <description><![CDATA[<article><h1>Queue Logs</h1><p>Skip to end of metadata Go to start of metadata In order to properly manage ACD queues, it is important to be able to keep track of details of call setups and teardowns in much greater detail than traditional call detail records provide.</p></article>]]></description>
-            <link>https://wiki.asterisk.org/wiki/display/AST/Queue+Logs</link>
-            <guid isPermaLink="false">8072dbc4-fc06-4499-b930-aedaa4e8657c</guid>
-            <pubDate>Tue, 12 Apr 2016 16:06:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best Practices REST API from Scratch - Introduction]]></title>
-            <description><![CDATA[<article><h1>Best Practices REST API from Scratch - Introduction</h1><p>The current internet ecosystem has literally been invaded by APIs, and for good reasons. By using third party APIs in your products or services, you have access to a ton of useful features - such as authentication or storage services - that can benefit both you and your users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d7a1874b8b5b7a8b868242fdf50ffef4ed98ede.png"></article>]]></description>
-            <link>http://www.sitepoint.com/best-practices-rest-api-scratch-introduction/</link>
-            <guid isPermaLink="false">f7c28e69-d7b5-46b7-b578-90d48a06b27b</guid>
-            <pubDate>Tue, 12 Apr 2016 16:06:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
