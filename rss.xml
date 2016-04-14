@@ -4,8 +4,15 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 14:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 14:36:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TUT:Configuring snmptrapd]]></title>
+            <description><![CDATA[<article><h1>TUT:Configuring snmptrapd</h1><p>snmptrapd is a Net-SNMP application that lets operators receive SNMP notifications ( informs and traps) and process them. By default, snmptrapd does not do anything with received notifications. You have to tell it what you want to receive notifications. To receive SNMPv1 or SNMPv2c notifications you need to tell snmptrapd your community strings.</p></article>]]></description>
+            <link>http://www.net-snmp.org/wiki/index.php/TUT:Configuring_snmptrapd</link>
+            <guid isPermaLink="false">e57974c1-5efb-4553-b1e9-a4276c3293f2</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Snmptrapd]]></title>
             <description><![CDATA[<article><h1>Snmptrapd</h1><p>The snmptrapd application typically listens to port 162 (and maybe 10162) and logs or acts upon any notifications ( TRAPs or INFORMs) that it receives. snmptrapd is configured through its snmptrapd.conf file. snmptrapd, at a minimum, needs access control settings to allow notifications using various SNMP protocols access to its logging and execution framework.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>SNMPTT Integration - HowTos - Icinga Wiki</h1><p>This targets RHEL/CentOS only for now. Choose the architecture and distribution, like described here: http://repoforge.org/use/ Use your favorite editor. Add the following lines: Lets start snmptt for the first time ! Failures about missing snmptt.conf can be ignored. We will add these files later.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54eb5faefa97afcfe1231f373e2bd052df3955fb.png"></article>]]></description>
             <link>https://wiki.icinga.org/display/howtos/SNMPTT+Integration</link>
             <guid isPermaLink="false">bd96d26a-440f-4b48-9902-f924f76d91b4</guid>
-            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DBD::mysql::INSTALL - search.cpan.org]]></title>
-            <description><![CDATA[<article><h1>DBD::mysql::INSTALL - search.cpan.org</h1><p>DBD::mysql::INSTALL - How to install and configure DBD::mysql perl Makefile.PL [options] make make test make install This document describes the installation and configuration of DBD::mysql, the Perl DBI driver for the MySQL database. Before reading on, make sure that you have the prerequisites available: Perl, MySQL and DBI.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6760923ac5322fcf888462197316db6633a7b2c.png"></article>]]></description>
-            <link>http://search.cpan.org/dist/DBD-mysql/lib/DBD/mysql/INSTALL.pod#Debian_and_Ubuntu</link>
-            <guid isPermaLink="false">58cde6a9-bc84-463e-96a9-cd455496d1b3</guid>
             <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
         </item>
     </channel>
