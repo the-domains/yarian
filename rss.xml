@@ -4,13 +4,20 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 14:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 14:36:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Trying to install Perl-Mysql DBD, mysql_config can't be found]]></title>
             <description><![CDATA[<article><h1>Trying to install Perl-Mysql DBD, mysql_config can't be found</h1><p>If you try to install via CPAN you cannot, as far as I know, set the --mysql_config option directly. And, including the directory containing mysql_config in the PATH environment variable does not seem to help.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
             <link>http://stackoverflow.com/questions/4729722/trying-to-install-perl-mysql-dbd-mysql-config-cant-be-found</link>
             <guid isPermaLink="false">3d2c7ed6-3dcb-4685-b482-f8f53be01660</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SNMPTT]]></title>
+            <description><![CDATA[<article><h1>SNMPTT</h1><p>This file was last updated on: November 6th, 2013 Copyright 2002-2013 Alex Burger alex_b@users.sourceforge.net 4/3/2002 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e0186aa7325fee69c959d5aa0b44dec1/croprotate.php?cropheight=35&cropwidth=123&degrees=0&input=http%3A%2F%2Fsflogo.sourceforge.net%2Fsflogo.php%3Fgroup_id%3D51473%26type%3D2&x=1&y=1"></article>]]></description>
+            <link>http://snmptt.sourceforge.net/docs/snmptt.shtml</link>
+            <guid isPermaLink="false">57ee51d2-8e04-4f91-bc1a-44de223f44d0</guid>
             <pubDate>Thu, 14 Apr 2016 14:35:27 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://www.programmableweb.com/</link>
             <guid isPermaLink="false">fb877757-d084-4764-b67f-a95173bff1bd</guid>
             <pubDate>Tue, 12 Apr 2016 16:05:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article></article>]]></description>
-            <link>http://www.openchange.org/cookbook/initializing.html#ubuntu</link>
-            <guid isPermaLink="false">0a0e36f1-0fee-4ad2-a0b5-1e53f67b378f</guid>
-            <pubDate>Sun, 10 Apr 2016 23:12:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
