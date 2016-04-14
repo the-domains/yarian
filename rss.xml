@@ -4,8 +4,15 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 14:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 14:36:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethertype]]></title>
+            <description><![CDATA[<article><h1>Ethertype</h1><p>I recently got a request formulated approximately like this: "How can our servicedesk count the number of devices a user has on our wireless network." The reason for the request is that we enforce a maximum of two devices per user.</p></article>]]></description>
+            <link>http://ethertype.blogspot.com/2015/10/logging-snmp-traps-to-mysqlmariadb.html</link>
+            <guid isPermaLink="false">e87958f8-ccf6-44bc-9f5c-a25eca294f83</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to send snmp traps from my Linux machine to a Splunk indexer server on threshold values? - Question | Splunk Answers]]></title>
             <description><![CDATA[<article><h1>How to send snmp traps from my Linux machine to a Splunk indexer server on threshold values? - Question | Splunk Answers</h1><p>Let's start out by separating your concerns and working out a logical sequence of first principles to build on. Make Splunk able to receive a trap and index it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e03e1e42032e5c062670be71723da8bbd4b8676.html"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Setting up SNMP trap handling using snmptrapd and snmptt - Tutorials</h1><p>This describes the basics of trap handling. In this article, we'll work with trap handling with snmptt. While this increases complexity by adding another layer to the mix, it also greatly increases the readibility of the incoming traps. You'll need snmptrapd, snmptt, and MIB's for any devices you want traps sent for.</p></article>]]></description>
             <link>http://tutorials.section6.net/home/setting-up-snmp-trap-handling-using-snmptrapd-and-snmptt</link>
             <guid isPermaLink="false">22e0b475-4ba4-4568-86af-bd1ce9df058f</guid>
-            <pubDate>Thu, 14 Apr 2016 14:35:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trying to install Perl-Mysql DBD, mysql_config can't be found]]></title>
-            <description><![CDATA[<article><h1>Trying to install Perl-Mysql DBD, mysql_config can't be found</h1><p>If you try to install via CPAN you cannot, as far as I know, set the --mysql_config option directly. And, including the directory containing mysql_config in the PATH environment variable does not seem to help.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
-            <link>http://stackoverflow.com/questions/4729722/trying-to-install-perl-mysql-dbd-mysql-config-cant-be-found</link>
-            <guid isPermaLink="false">3d2c7ed6-3dcb-4685-b482-f8f53be01660</guid>
             <pubDate>Thu, 14 Apr 2016 14:35:27 GMT</pubDate>
         </item>
     </channel>
