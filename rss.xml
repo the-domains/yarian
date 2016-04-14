@@ -4,8 +4,15 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 14:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 14:36:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Snmptrapd]]></title>
+            <description><![CDATA[<article><h1>Snmptrapd</h1><p>The snmptrapd application typically listens to port 162 (and maybe 10162) and logs or acts upon any notifications ( TRAPs or INFORMs) that it receives. snmptrapd is configured through its snmptrapd.conf file. snmptrapd, at a minimum, needs access control settings to allow notifications using various SNMP protocols access to its logging and execution framework.</p></article>]]></description>
+            <link>http://www.net-snmp.org/wiki/index.php/Snmptrapd</link>
+            <guid isPermaLink="false">333bbe00-f226-4f32-b727-2689ad0e53c5</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ethertype]]></title>
             <description><![CDATA[<article><h1>Ethertype</h1><p>I recently got a request formulated approximately like this: "How can our servicedesk count the number of devices a user has on our wireless network." The reason for the request is that we enforce a maximum of two devices per user.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://search.cpan.org/dist/DBD-mysql/lib/DBD/mysql/INSTALL.pod#Debian_and_Ubuntu</link>
             <guid isPermaLink="false">58cde6a9-bc84-463e-96a9-cd455496d1b3</guid>
             <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Setting up SNMP trap handling using snmptrapd and snmptt - Tutorials]]></title>
-            <description><![CDATA[<article><h1>Setting up SNMP trap handling using snmptrapd and snmptt - Tutorials</h1><p>This describes the basics of trap handling. In this article, we'll work with trap handling with snmptt. While this increases complexity by adding another layer to the mix, it also greatly increases the readibility of the incoming traps. You'll need snmptrapd, snmptt, and MIB's for any devices you want traps sent for.</p></article>]]></description>
-            <link>http://tutorials.section6.net/home/setting-up-snmp-trap-handling-using-snmptrapd-and-snmptt</link>
-            <guid isPermaLink="false">22e0b475-4ba4-4568-86af-bd1ce9df058f</guid>
-            <pubDate>Thu, 14 Apr 2016 14:35:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
