@@ -4,8 +4,22 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 14:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 14:36:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Debian / Ubuntu Linux: Install and Configure snmpd Service]]></title>
+            <description><![CDATA[<article><h1>Debian / Ubuntu Linux: Install and Configure snmpd Service</h1><p>SNMP (Simple Network Management Protocol) is a protocol used for network management. How do I install SNMP server under Debian or Ubuntu Linux to configure various monitoring service? The NET-SNMP project provides various SNMP tools: an extensible agent, an SNMP library, tools for requesting or setting information from SNMP agents, tools for generating and handling SNMP traps, a version of the netstat command which uses SNMP, and a Tk/Perl mib browser.</p></article>]]></description>
+            <link>http://www.cyberciti.biz/faq/debain-ubuntu-install-net-snmpd-server/</link>
+            <guid isPermaLink="false">93282b5a-851c-4aa6-a336-f8d7e16ecee6</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://cpansearch.perl.org/src/ASNMTAP/ASNMTAP-3.002003/plugins/templates/snmptt/snmptt.ini</link>
+            <guid isPermaLink="false">22b8a13d-be91-45d8-9f64-4dbf0b449941</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SNMPTT Integration - HowTos - Icinga Wiki]]></title>
             <description><![CDATA[<article><h1>SNMPTT Integration - HowTos - Icinga Wiki</h1><p>This targets RHEL/CentOS only for now. Choose the architecture and distribution, like described here: http://repoforge.org/use/ Use your favorite editor. Add the following lines: Lets start snmptt for the first time ! Failures about missing snmptt.conf can be ignored. We will add these files later.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54eb5faefa97afcfe1231f373e2bd052df3955fb.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Free AIRESPACE-WIRELESS-MIB SNMP MIB Download - Free MIB Download - Search MIBs - OiDViEW</h1><p>Airespace, Inc (formerly Black Storm Networks):AIRESPACE-WIRELESS-MIB: Download, View or Compile. Courtesy of ByteSphere's searchable online SNMP MIB database</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d36d60c6fcc1e37a162ffeb06a655d5131b0405f.gif"></article>]]></description>
             <link>http://www.oidview.com/mibs/14179/AIRESPACE-WIRELESS-MIB.html</link>
             <guid isPermaLink="false">1a266689-af93-4914-9385-f41af4595598</guid>
-            <pubDate>Tue, 12 Apr 2016 16:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Read and write Excel data with PHP]]></title>
-            <description><![CDATA[<article><h1>Read and write Excel data with PHP</h1><p>Learn how to use the XML support in PHP to read the data from the XML exported from Microsoft Excel 2003. Also, learn to export data from your PHP application as Excel XML so your users can see their data in a real spreadsheet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e49d4f9bef02fb827385f0310dd83b3b51e9fe9.png"></article>]]></description>
-            <link>http://www.ibm.com/developerworks/library/os-phpexcel/</link>
-            <guid isPermaLink="false">69fda7d0-8296-4d1b-acb4-0429036445de</guid>
-            <pubDate>Tue, 12 Apr 2016 16:05:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[disquietude definition - Google Search]]></title>
-            <description><![CDATA[<article><h1>disquietude definition - Google Search</h1><p>Define disquietude. disquietude synonyms, disquietude pronunciation, disquietude translation, English dictionary definition of disquietude. n. Worried unease ...</p></article>]]></description>
-            <link>https://www.google.com/search?sourceid=chrome-psyapi2&amp;ion=1&amp;espv=2&amp;ie=UTF-8&amp;q=disquietude%20definition&amp;oq=disquietude&amp;rlz=1C1CHFX_enUS660US660&amp;aqs=chrome.1.69i57j0l5.5950j0j7</link>
-            <guid isPermaLink="false">5f1266fd-227a-49ce-9fa2-e30a648fb0c7</guid>
             <pubDate>Tue, 12 Apr 2016 16:05:54 GMT</pubDate>
         </item>
     </channel>
