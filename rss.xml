@@ -4,8 +4,15 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 14:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 01:00:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://mysql.rjweb.org/bestof.html</link>
+            <guid isPermaLink="false">ebf3dfa4-6c98-4737-a924-e6a746da6daf</guid>
+            <pubDate>Fri, 15 Apr 2016 01:00:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TUT:Configuring snmptrapd]]></title>
             <description><![CDATA[<article><h1>TUT:Configuring snmptrapd</h1><p>snmptrapd is a Net-SNMP application that lets operators receive SNMP notifications ( informs and traps) and process them. By default, snmptrapd does not do anything with received notifications. You have to tell it what you want to receive notifications. To receive SNMPv1 or SNMPv2c notifications you need to tell snmptrapd your community strings.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article></article>]]></description>
             <link>http://cpansearch.perl.org/src/ASNMTAP/ASNMTAP-3.002003/plugins/templates/snmptt/snmptt.ini</link>
             <guid isPermaLink="false">22b8a13d-be91-45d8-9f64-4dbf0b449941</guid>
-            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SNMPTT Integration - HowTos - Icinga Wiki]]></title>
-            <description><![CDATA[<article><h1>SNMPTT Integration - HowTos - Icinga Wiki</h1><p>This targets RHEL/CentOS only for now. Choose the architecture and distribution, like described here: http://repoforge.org/use/ Use your favorite editor. Add the following lines: Lets start snmptt for the first time ! Failures about missing snmptt.conf can be ignored. We will add these files later.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54eb5faefa97afcfe1231f373e2bd052df3955fb.png"></article>]]></description>
-            <link>https://wiki.icinga.org/display/howtos/SNMPTT+Integration</link>
-            <guid isPermaLink="false">bd96d26a-440f-4b48-9902-f924f76d91b4</guid>
             <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
         </item>
     </channel>
