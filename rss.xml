@@ -4,22 +4,8 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 01:02:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 01:02:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Free Desktop Search]]></title>
-            <description><![CDATA[<article><h1>Free Desktop Search</h1><p>Best Desktop Search to search Outlook and Windows as a replacement to Google Desktop Search. Since Google Search has been discontinued, users switched to Copernic to search Windows files, Microsoft Outlook emails, and over 150 file types.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/085274c9beeb89d232b1f997876ba1e940f92ac2.png"></article>]]></description>
-            <link>http://www.copernic.com/en/products/desktop-search/</link>
-            <guid isPermaLink="false">4bb1edaa-f3f2-47e3-8efe-9c5395575e72</guid>
-            <pubDate>Fri, 15 Apr 2016 01:02:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mibDepot.com - Vendor MIBs]]></title>
-            <description><![CDATA[<article><h1>mibDepot.com - Vendor MIBs</h1></article>]]></description>
-            <link>http://www.mibdepot.com/cgi-bin/vendor_index.cgi?r=motorola</link>
-            <guid isPermaLink="false">9d0a4a51-16d2-48ba-8abf-eb0706c43e8e</guid>
-            <pubDate>Fri, 15 Apr 2016 01:02:06 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Configuration - phpMyAdmin 4.7.0-dev documentation]]></title>
             <description><![CDATA[<article><h1>Configuration - phpMyAdmin 4.7.0-dev documentation</h1><p>A good test is to browse a table, edit a row and save it. There should be an error message if phpMyAdmin is having trouble auto-detecting the correct value. If you get an error that this must be set or if the autodetect code fails to detect your path, please post a bug report on our bug tracker so we can improve the code.</p></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>TUT:Configuring snmptrapd</h1><p>snmptrapd is a Net-SNMP application that lets operators receive SNMP notifications ( informs and traps) and process them. By default, snmptrapd does not do anything with received notifications. You have to tell it what you want to receive notifications. To receive SNMPv1 or SNMPv2c notifications you need to tell snmptrapd your community strings.</p></article>]]></description>
             <link>http://www.net-snmp.org/wiki/index.php/TUT:Configuring_snmptrapd</link>
             <guid isPermaLink="false">e57974c1-5efb-4553-b1e9-a4276c3293f2</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snmptrapd]]></title>
+            <description><![CDATA[<article><h1>Snmptrapd</h1><p>The snmptrapd application typically listens to port 162 (and maybe 10162) and logs or acts upon any notifications ( TRAPs or INFORMs) that it receives. snmptrapd is configured through its snmptrapd.conf file. snmptrapd, at a minimum, needs access control settings to allow notifications using various SNMP protocols access to its logging and execution framework.</p></article>]]></description>
+            <link>http://www.net-snmp.org/wiki/index.php/Snmptrapd</link>
+            <guid isPermaLink="false">333bbe00-f226-4f32-b727-2689ad0e53c5</guid>
+            <pubDate>Thu, 14 Apr 2016 14:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethertype]]></title>
+            <description><![CDATA[<article><h1>Ethertype</h1><p>I recently got a request formulated approximately like this: "How can our servicedesk count the number of devices a user has on our wireless network." The reason for the request is that we enforce a maximum of two devices per user.</p></article>]]></description>
+            <link>http://ethertype.blogspot.com/2015/10/logging-snmp-traps-to-mysqlmariadb.html</link>
+            <guid isPermaLink="false">e87958f8-ccf6-44bc-9f5c-a25eca294f83</guid>
             <pubDate>Thu, 14 Apr 2016 14:35:29 GMT</pubDate>
         </item>
     </channel>
