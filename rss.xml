@@ -4,8 +4,15 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 01:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 01:01:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PHPOffice/PHPExcel]]></title>
+            <description><![CDATA[<article><h1>PHPOffice/PHPExcel</h1><p>The following software is required to develop using PHPExcel: PHP version 5.2.0 or newer PHP extension php_zip enabled [^phpzip_footnote] PHP extension php_xml enabled PHP extension php_gd2 enabled (if not compiled in) Installation is quite easy: copy the contents of the Classes folder to any location within your application source directories.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04693a890a977580454c4f9a237131665613fc87.jpg"></article>]]></description>
+            <link>https://github.com/PHPOffice/PHPExcel/blob/develop/Documentation/markdown/Overview/01-Getting-Started.md</link>
+            <guid isPermaLink="false">3ebd25e1-23c8-4224-9300-e6cac8707a5d</guid>
+            <pubDate>Fri, 15 Apr 2016 01:01:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dragonball Z Vegeta Final Flash (HD)]]></title>
             <description><![CDATA[<article><h1>Dragonball Z Vegeta Final Flash (HD)</h1><p>Hey everyone! Youtube deleted some of videos from my old account, ThreeDaysGraceAwesom so i'm uploading those videos on this account! Enjoy! Rate, comment, and subscribe!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c6a8f4001020a31ab9d28478a7da066dec352e5.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://jonathanjulian.com/2008/07/testing-snmp-traps-with-snmptrapd/</link>
             <guid isPermaLink="false">5f740787-2f4e-4960-9dbd-1dc93f00f8c0</guid>
             <pubDate>Thu, 14 Apr 2016 14:35:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Debian / Ubuntu Linux: Install and Configure snmpd Service]]></title>
-            <description><![CDATA[<article><h1>Debian / Ubuntu Linux: Install and Configure snmpd Service</h1><p>SNMP (Simple Network Management Protocol) is a protocol used for network management. How do I install SNMP server under Debian or Ubuntu Linux to configure various monitoring service? The NET-SNMP project provides various SNMP tools: an extensible agent, an SNMP library, tools for requesting or setting information from SNMP agents, tools for generating and handling SNMP traps, a version of the netstat command which uses SNMP, and a Tk/Perl mib browser.</p></article>]]></description>
-            <link>http://www.cyberciti.biz/faq/debain-ubuntu-install-net-snmpd-server/</link>
-            <guid isPermaLink="false">93282b5a-851c-4aa6-a336-f8d7e16ecee6</guid>
-            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
