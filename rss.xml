@@ -4,8 +4,15 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 01:01:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 01:01:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to generate an Excel document with multiple worksheets from PHP?]]></title>
+            <description><![CDATA[<article><h1>How to generate an Excel document with multiple worksheets from PHP?</h1><p>Stack Overflow is a community of 4.7 million programmers, just like you, helping each other. Join them; it only takes a minute: Sign up Join the Stack Overflow community to: Ask programming questions Answer and help your peers Get recognized for your expertise I want to generate an MS Excel file from PHP.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
+            <link>http://stackoverflow.com/questions/3269345/how-to-generate-an-excel-document-with-multiple-worksheets-from-php</link>
+            <guid isPermaLink="false">8492ad76-8f9a-4d92-9745-9e1fb891f0ce</guid>
+            <pubDate>Fri, 15 Apr 2016 01:00:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Linux Basics - Set A Static IP On Ubuntu]]></title>
             <description><![CDATA[<article><h1>Linux Basics - Set A Static IP On Ubuntu</h1><p>This tutorial explains how to set a static IP on an Ubuntu system from the command line. In this step you will manually configure your network interface by editing the following files using your preferred text editor(nano gedit vi). For the purpose of this example I am using the "nano" editor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f348db9b134536f7ed6ef2ea9d03115fdef240e.gif"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Simulate SNMP traps to test surveillance</h1><p>I'm trying to use Net-SNMP on Windows to emulate a trap that should trigger an alarm on our surveillance system. This is the setup: Windows 7 client that sends the trap Net-SNMP as software for</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c16ccaeb68aa7f38929cb798f3dddf054056664e.png"></article>]]></description>
             <link>http://serverfault.com/questions/147876/simulate-snmp-traps-to-test-surveillance</link>
             <guid isPermaLink="false">9620e027-47fd-4891-ad33-1950782fc662</guid>
-            <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nagios Support Forum]]></title>
-            <description><![CDATA[<article><h1>Nagios Support Forum</h1><p>Sure I can. I havent changed anything on snmptt.conf - should I? Password is changed in this file I sent here - you can guess why Attachments snmptt.ini (25.36 KiB) Downloaded 229 times snmptt.conf (2.25 KiB) Downloaded 227 times</p></article>]]></description>
-            <link>https://support.nagios.com/forum/viewtopic.php?f=22&amp;t=26547</link>
-            <guid isPermaLink="false">d35b0aac-9df4-43f8-af47-2ab3d8ee01ad</guid>
             <pubDate>Thu, 14 Apr 2016 14:35:28 GMT</pubDate>
         </item>
     </channel>
