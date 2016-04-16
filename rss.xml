@@ -4,29 +4,8 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 13:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 13:05:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[www.bowe.id.au - /michael/isp/DOCSIS/mibs/motorola/]]></title>
-            <description><![CDATA[<article><h1>www.bowe.id.au - /michael/isp/DOCSIS/mibs/motorola/</h1><p>To Parent Directory] Tuesday, 28 May 2013 12:02 PM _vti_cnf Tuesday, 28 May 2013 12:02 PM archive Tuesday, 28 May 2013 12:02 PM 61958 blp.mib Tuesday, 28 May 2013 12:02 PM 3250280 bticonfig_2.47.exe Tuesday, 28 May 2013 12:02 PM 5239 CH-SP-CO-MIB-CSA-C01-060728.mib Tuesday, 28 May 2013 12:02 PM 29874 CH-SP-MIB-CAP-C01-060728.mib Tuesday,</p></article>]]></description>
-            <link>http://www.bowe.id.au/michael/isp/DOCSIS/mibs/motorola/</link>
-            <guid isPermaLink="false">8f68bf66-8d08-418a-9770-b3d8221e4df1</guid>
-            <pubDate>Sat, 16 Apr 2016 13:06:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Configuration - phpMyAdmin 4.7.0-dev documentation]]></title>
-            <description><![CDATA[<article><h1>Configuration - phpMyAdmin 4.7.0-dev documentation</h1><p>A good test is to browse a table, edit a row and save it. There should be an error message if phpMyAdmin is having trouble auto-detecting the correct value. If you get an error that this must be set or if the autodetect code fails to detect your path, please post a bug report on our bug tracker so we can improve the code.</p></article>]]></description>
-            <link>http://docs.phpmyadmin.net/en/latest/config.html</link>
-            <guid isPermaLink="false">bc91427d-4a11-4514-974d-f58ef076fbe3</guid>
-            <pubDate>Sat, 16 Apr 2016 13:05:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PHPOffice/PHPExcel]]></title>
-            <description><![CDATA[<article><h1>PHPOffice/PHPExcel</h1><p>PHPExcel - A pure PHP library for reading and writing spreadsheet files</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04693a890a977580454c4f9a237131665613fc87.jpg"></article>]]></description>
-            <link>https://github.com/PHPOffice/PHPExcel</link>
-            <guid isPermaLink="false">2456ed45-e573-4d75-8398-b2d38f998b95</guid>
-            <pubDate>Sat, 16 Apr 2016 13:05:34 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Rote Database]]></title>
             <description><![CDATA[<article><h1>Rote Database</h1><p>Profile: Forces 3, Mind 1 Author: Brad Grantham Create an illusion. Computer graphics not required. (Using Forces I warp the light in an area and change the color to make a visible illusion. I then turn the static electricity in the air into the sound I need.</p></article>]]></description>
@@ -75,6 +54,27 @@
             <link>https://www.youtube.com/watch?v=nB_QS_CFi9w</link>
             <guid isPermaLink="false">f862f06e-079e-4aed-b23f-8b27779d3a44</guid>
             <pubDate>Fri, 15 Apr 2016 01:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to generate an Excel document with multiple worksheets from PHP?]]></title>
+            <description><![CDATA[<article><h1>How to generate an Excel document with multiple worksheets from PHP?</h1><p>Stack Overflow is a community of 4.7 million programmers, just like you, helping each other. Join them; it only takes a minute: Sign up Join the Stack Overflow community to: Ask programming questions Answer and help your peers Get recognized for your expertise I want to generate an MS Excel file from PHP.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
+            <link>http://stackoverflow.com/questions/3269345/how-to-generate-an-excel-document-with-multiple-worksheets-from-php</link>
+            <guid isPermaLink="false">8492ad76-8f9a-4d92-9745-9e1fb891f0ce</guid>
+            <pubDate>Fri, 15 Apr 2016 01:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Linux Basics - Set A Static IP On Ubuntu]]></title>
+            <description><![CDATA[<article><h1>Linux Basics - Set A Static IP On Ubuntu</h1><p>This tutorial explains how to set a static IP on an Ubuntu system from the command line. In this step you will manually configure your network interface by editing the following files using your preferred text editor(nano gedit vi). For the purpose of this example I am using the "nano" editor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f348db9b134536f7ed6ef2ea9d03115fdef240e.gif"></article>]]></description>
+            <link>https://www.howtoforge.com/linux-basics-set-a-static-ip-on-ubuntu</link>
+            <guid isPermaLink="false">fc35ee38-6da7-4720-845d-0f67da67a877</guid>
+            <pubDate>Fri, 15 Apr 2016 01:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://mysql.rjweb.org/bestof.html</link>
+            <guid isPermaLink="false">ebf3dfa4-6c98-4737-a924-e6a746da6daf</guid>
+            <pubDate>Fri, 15 Apr 2016 01:00:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
