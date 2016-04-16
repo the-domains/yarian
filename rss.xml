@@ -4,8 +4,15 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>https://thegrid.ai/yarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 13:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 13:05:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yarian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PHPOffice/PHPExcel]]></title>
+            <description><![CDATA[<article><h1>PHPOffice/PHPExcel</h1><p>PHPExcel - A pure PHP library for reading and writing spreadsheet files</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04693a890a977580454c4f9a237131665613fc87.jpg"></article>]]></description>
+            <link>https://github.com/PHPOffice/PHPExcel</link>
+            <guid isPermaLink="false">2456ed45-e573-4d75-8398-b2d38f998b95</guid>
+            <pubDate>Sat, 16 Apr 2016 13:05:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rote Database]]></title>
             <description><![CDATA[<article><h1>Rote Database</h1><p>Profile: Forces 3, Mind 1 Author: Brad Grantham Create an illusion. Computer graphics not required. (Using Forces I warp the light in an area and change the color to make a visible illusion. I then turn the static electricity in the air into the sound I need.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.howtoforge.com/linux-basics-set-a-static-ip-on-ubuntu</link>
             <guid isPermaLink="false">fc35ee38-6da7-4720-845d-0f67da67a877</guid>
             <pubDate>Fri, 15 Apr 2016 01:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article></article>]]></description>
-            <link>http://mysql.rjweb.org/bestof.html</link>
-            <guid isPermaLink="false">ebf3dfa4-6c98-4737-a924-e6a746da6daf</guid>
-            <pubDate>Fri, 15 Apr 2016 01:00:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
