@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'Why test software? It is surprising how many corporations today, large and small, still ask this question. Testing is often misunderstood and therefore undervalued.'
-datePublished: '2016-04-17T03:12:03.716Z'
-dateModified: '2016-04-17T02:58:10.951Z'
+datePublished: '2016-04-17T03:40:48.217Z'
+dateModified: '2016-04-17T03:38:11.349Z'
 title: Why Test Software and APIs?
 author: []
 sourcePath: _posts/2016-02-11-why-test-software-and-apis.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: why-test-software-and-apis/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9bee30d-17af-4cfc-9d94-496401ba5226.png)
