@@ -4,8 +4,15 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 02:58:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 03:06:39 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AI Websites That Design Themselves]]></title>
+            <description><![CDATA[<article><h1>AI Websites That Design Themselves</h1><p>This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fc5249d-ddcc-4f4f-ac18-e1c349295848.jpg"></article>]]></description>
+            <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
+            <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
+            <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Name Game -- psacake.com]]></title>
             <description><![CDATA[<article><h1>The Name Game -- psacake.com</h1></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>PHPExcel</h1><p>Project providing a set of classes for the PHP programming language, which allow you to write to and read from different spreadsheet file formats, like Excel &#40;BIFF&#41; .xls, Excel 2007 &#40;OfficeOpenXML&#41; .xlsx, CSV, Libre&#47;OpenOffice Calc .ods, Gnumeric, PDF, HTML, ... This project is built around Microsoft&#39;s OpenXML standard and PHP.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ed7b22cad55ad5933d803ac27b9bc4030b8a2bc.png"></article>]]></description>
             <link>http://phpexcel.codeplex.com/releases/view/119187</link>
             <guid isPermaLink="false">3495ae57-38db-4d89-9758-9a9e57a338c2</guid>
-            <pubDate>Fri, 15 Apr 2016 01:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PHPOffice/PHPExcel]]></title>
-            <description><![CDATA[<article><h1>PHPOffice/PHPExcel</h1><p>The following software is required to develop using PHPExcel: PHP version 5.2.0 or newer PHP extension php_zip enabled [^phpzip_footnote] PHP extension php_xml enabled PHP extension php_gd2 enabled (if not compiled in) Installation is quite easy: copy the contents of the Classes folder to any location within your application source directories.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39a5fd43b3e576b4895ce21b116af02f1c572ba4.jpg"></article>]]></description>
-            <link>https://github.com/PHPOffice/PHPExcel/blob/develop/Documentation/markdown/Overview/01-Getting-Started.md</link>
-            <guid isPermaLink="false">3ebd25e1-23c8-4224-9300-e6cac8707a5d</guid>
             <pubDate>Fri, 15 Apr 2016 01:01:00 GMT</pubDate>
         </item>
     </channel>
