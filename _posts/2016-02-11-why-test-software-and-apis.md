@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-11T17:08:36.649Z'
-dateModified: '2016-02-11T17:08:29.339Z'
+description: 'Why test software? It is surprising how many corporations today, large and small, still ask this question. Testing is often misunderstood and therefore undervalued.'
+datePublished: '2016-04-17T03:12:03.716Z'
+dateModified: '2016-04-17T02:58:10.951Z'
 title: Why Test Software and APIs?
 author: []
 sourcePath: _posts/2016-02-11-why-test-software-and-apis.md
