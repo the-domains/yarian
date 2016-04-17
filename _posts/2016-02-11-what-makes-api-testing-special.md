@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'The threshold for entry into API testing is often quite high, especially for testers new to the field. Many newcomers think of APIs as just the libraries used by programs. In reality APIs include any specification defining computer-to-computer interaction.'
-datePublished: '2016-02-11T17:45:14.882Z'
-dateModified: '2016-02-11T17:45:14.172Z'
+description: "Let's start with a brief overview of the technology to try and clarify some of the misconceptions out there. Most Web applications lend themselves very well to the classic three-tier architecture model."
+datePublished: '2016-04-17T03:11:47.382Z'
+dateModified: '2016-04-17T02:57:41.901Z'
 title: What makes API Testing special?
 author: []
 sourcePath: _posts/2016-02-11-what-makes-api-testing-special.md
