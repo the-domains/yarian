@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 03:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 03:06:56 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Publishing Tool That Builds Websites Powered by AI]]></title>
+            <description><![CDATA[<article><h1>A Publishing Tool That Builds Websites Powered by AI</h1><p>"Websites are just the worst," says Dan Tocchini. And his former profession? Surprise! Website designer. Tocchini learned to loathe website work, oddly enough, after a stint selling European diamonds to small Bay Area jewelers. It was the mid-2000s, and he was lugging a backpack full of stones from retailer to retailer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9090c4407073e6c49cd8101c87864288fdf7a4a1.jpg"></article>]]></description>
+            <link>http://www.wired.com/2014/10/publishing-tool-builds-websites-powered-ai/?mbid=social_twitter#slide-id-1590909</link>
+            <guid isPermaLink="false">54cd21c4-f843-4e0c-b2b5-03b5fe93f650</guid>
+            <pubDate>Sun, 17 Apr 2016 03:06:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Name Game -- psacake.com]]></title>
@@ -68,13 +75,6 @@
             <link>http://docs.phpmyadmin.net/en/latest/config.html</link>
             <guid isPermaLink="false">69c48c1f-2e8d-4f44-bdd7-13f3b88e0a6b</guid>
             <pubDate>Fri, 15 Apr 2016 01:02:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PHPExcel]]></title>
-            <description><![CDATA[<article><h1>PHPExcel</h1><p>Project providing a set of classes for the PHP programming language, which allow you to write to and read from different spreadsheet file formats, like Excel &#40;BIFF&#41; .xls, Excel 2007 &#40;OfficeOpenXML&#41; .xlsx, CSV, Libre&#47;OpenOffice Calc .ods, Gnumeric, PDF, HTML, ... This project is built around Microsoft&#39;s OpenXML standard and PHP.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ed7b22cad55ad5933d803ac27b9bc4030b8a2bc.png"></article>]]></description>
-            <link>http://phpexcel.codeplex.com/releases/view/119187</link>
-            <guid isPermaLink="false">3495ae57-38db-4d89-9758-9a9e57a338c2</guid>
-            <pubDate>Fri, 15 Apr 2016 01:01:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
