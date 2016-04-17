@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 03:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 03:12:39 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Test Software and APIs?]]></title>
+            <description><![CDATA[<article><h1>Why Test Software and APIs?</h1><p>Why test software? It is surprising how many corporations today, large and small, still ask this question. Testing is often misunderstood and therefore undervalued.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15df78b7bcd2d253198486a2840814d59acb853e.png"></article>]]></description>
+            <link>http://www.yarian.com/why-test-software-and-apis/index.html</link>
+            <guid isPermaLink="false">84c4a6d3-bf79-42f5-8399-c1092b0865b0</guid>
+            <pubDate>Sun, 17 Apr 2016 03:12:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Overview]]></title>
+            <description><![CDATA[<article><h1>Overview</h1><p>Let's start with a brief overview of the technology to try and clarify some of the misconceptions out there. Most Web applications lend themselves very well to the classic three-tier architecture model.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/833b767bdea75a59549e3fa20b96cb018ee67a63.png"></article>]]></description>
+            <link>http://www.yarian.com/what-makes-api-testing-special/index.html</link>
+            <guid isPermaLink="false">6491a61f-9079-4f45-9d02-a0ea4d92c2c5</guid>
+            <pubDate>Sun, 17 Apr 2016 03:11:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Name Game -- psacake.com]]></title>
@@ -61,20 +75,6 @@
             <link>http://www.copernic.com/en/products/desktop-search/</link>
             <guid isPermaLink="false">4bb1edaa-f3f2-47e3-8efe-9c5395575e72</guid>
             <pubDate>Fri, 15 Apr 2016 01:02:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mibDepot.com - Vendor MIBs]]></title>
-            <description><![CDATA[<article><h1>mibDepot.com - Vendor MIBs</h1></article>]]></description>
-            <link>http://www.mibdepot.com/cgi-bin/vendor_index.cgi?r=motorola</link>
-            <guid isPermaLink="false">9d0a4a51-16d2-48ba-8abf-eb0706c43e8e</guid>
-            <pubDate>Fri, 15 Apr 2016 01:02:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Configuration - phpMyAdmin 4.7.0-dev documentation]]></title>
-            <description><![CDATA[<article><h1>Configuration - phpMyAdmin 4.7.0-dev documentation</h1><p>A good test is to browse a table, edit a row and save it. There should be an error message if phpMyAdmin is having trouble auto-detecting the correct value. If you get an error that this must be set or if the autodetect code fails to detect your path, please post a bug report on our bug tracker so we can improve the code.</p></article>]]></description>
-            <link>http://docs.phpmyadmin.net/en/latest/config.html</link>
-            <guid isPermaLink="false">69c48c1f-2e8d-4f44-bdd7-13f3b88e0a6b</guid>
-            <pubDate>Fri, 15 Apr 2016 01:02:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
