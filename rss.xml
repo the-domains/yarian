@@ -4,21 +4,28 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 03:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 20:17:52 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
-            <description><![CDATA[<article><h1>AI Websites That Design Themselves</h1><p>This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fc5249d-ddcc-4f4f-ac18-e1c349295848.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fc5249d-ddcc-4f4f-ac18-e1c349295848.jpg">]]></description>
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Test Software and APIs?]]></title>
-            <description><![CDATA[<article><h1>Why Test Software and APIs?</h1><p>Why test software? It is surprising how many corporations today, large and small, still ask this question. Testing is often misunderstood and therefore undervalued.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15df78b7bcd2d253198486a2840814d59acb853e.png"></article>]]></description>
-            <link>http://www.yarian.com/why-test-software-and-apis/index.html</link>
-            <guid isPermaLink="false">84c4a6d3-bf79-42f5-8399-c1092b0865b0</guid>
-            <pubDate>Sun, 17 Apr 2016 03:12:03 GMT</pubDate>
+            <title><![CDATA[Best Practices REST API from Scratch - Introduction]]></title>
+            <description><![CDATA[<article><h1>Best Practices REST API from Scratch - Introduction</h1><p>The current internet ecosystem has literally been invaded by APIs, and for good reasons. By using third party APIs in your products or services, you have access to a ton of useful features - such as authentication or storage services - that can benefit both you and your users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d7a1874b8b5b7a8b868242fdf50ffef4ed98ede.png"></article>]]></description>
+            <link>http://www.sitepoint.com/best-practices-rest-api-scratch-introduction/</link>
+            <guid isPermaLink="false">2d240549-8372-436b-9b72-2ddedeb9ae32</guid>
+            <pubDate>Tue, 19 Apr 2016 20:16:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[XSLT Reference]]></title>
+            <description><![CDATA[<article><h1>XSLT Reference</h1><p>The XSLT elements from the W3C Recommendation (XSLT Version 1.0). The links in the "Element" column point to attributes and more useful information about each specific element. Imports the contents of one style sheet into another. Note: An imported style sheet has lower precedence than the importing style sheet Includes the contents of one style sheet into another.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10ac2f0ab6bb38cf45791d622fa3221dd43da68f.gif"></article>]]></description>
+            <link>http://www.w3schools.com/xsl/xsl_w3celementref.asp</link>
+            <guid isPermaLink="false">0466e8b0-6629-4fd5-96ae-17d89264c569</guid>
+            <pubDate>Tue, 19 Apr 2016 20:16:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Overview]]></title>
@@ -68,13 +75,6 @@
             <link>http://de.magus.wikia.com/wiki/Rote_Database</link>
             <guid isPermaLink="false">90a1f866-781b-4a61-a40c-31ef3d3667ee</guid>
             <pubDate>Sat, 16 Apr 2016 13:05:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Free Desktop Search]]></title>
-            <description><![CDATA[<article><h1>Free Desktop Search</h1><p>Best Desktop Search to search Outlook and Windows as a replacement to Google Desktop Search. Since Google Search has been discontinued, users switched to Copernic to search Windows files, Microsoft Outlook emails, and over 150 file types.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/085274c9beeb89d232b1f997876ba1e940f92ac2.png"></article>]]></description>
-            <link>http://www.copernic.com/en/products/desktop-search/</link>
-            <guid isPermaLink="false">4bb1edaa-f3f2-47e3-8efe-9c5395575e72</guid>
-            <pubDate>Fri, 15 Apr 2016 01:02:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
