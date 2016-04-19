@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 20:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 20:17:54 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trying to construct a Bash executable string involving MySQL]]></title>
+            <description><![CDATA[<article><h1>Trying to construct a Bash executable string involving MySQL</h1><p>The problem is that when you run $sql as a command, it under goes word-splitting, filename expansion, and so on, with no respect for any quotation-marks that $sql might contain. And it won't handle pipes and other shell metacharacters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
+            <link>http://stackoverflow.com/questions/12114268/trying-to-construct-a-bash-executable-string-involving-mysql</link>
+            <guid isPermaLink="false">832d1137-a473-41a3-8113-1fd0d854c1bb</guid>
+            <pubDate>Tue, 19 Apr 2016 20:16:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best Practices REST API from Scratch - Introduction]]></title>
+            <description><![CDATA[<article><h1>Best Practices REST API from Scratch - Introduction</h1><p>The current internet ecosystem has literally been invaded by APIs, and for good reasons. By using third party APIs in your products or services, you have access to a ton of useful features - such as authentication or storage services - that can benefit both you and your users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d7a1874b8b5b7a8b868242fdf50ffef4ed98ede.png"></article>]]></description>
+            <link>http://www.sitepoint.com/best-practices-rest-api-scratch-introduction/</link>
+            <guid isPermaLink="false">2d240549-8372-436b-9b72-2ddedeb9ae32</guid>
+            <pubDate>Tue, 19 Apr 2016 20:16:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[XSLT Reference]]></title>
@@ -61,20 +75,6 @@
             <link>https://github.com/PHPOffice/PHPExcel</link>
             <guid isPermaLink="false">2456ed45-e573-4d75-8398-b2d38f998b95</guid>
             <pubDate>Sat, 16 Apr 2016 13:05:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rote Database]]></title>
-            <description><![CDATA[<article><h1>Rote Database</h1><p>Profile: Forces 3, Mind 1 Author: Brad Grantham Create an illusion. Computer graphics not required. (Using Forces I warp the light in an area and change the color to make a visible illusion. I then turn the static electricity in the air into the sound I need.</p></article>]]></description>
-            <link>http://de.magus.wikia.com/wiki/Rote_Database</link>
-            <guid isPermaLink="false">90a1f866-781b-4a61-a40c-31ef3d3667ee</guid>
-            <pubDate>Sat, 16 Apr 2016 13:05:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Free Desktop Search]]></title>
-            <description><![CDATA[<article><h1>Free Desktop Search</h1><p>Best Desktop Search to search Outlook and Windows as a replacement to Google Desktop Search. Since Google Search has been discontinued, users switched to Copernic to search Windows files, Microsoft Outlook emails, and over 150 file types.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/085274c9beeb89d232b1f997876ba1e940f92ac2.png"></article>]]></description>
-            <link>http://www.copernic.com/en/products/desktop-search/</link>
-            <guid isPermaLink="false">4bb1edaa-f3f2-47e3-8efe-9c5395575e72</guid>
-            <pubDate>Fri, 15 Apr 2016 01:02:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
