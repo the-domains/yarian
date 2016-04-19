@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 20:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 20:17:57 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bash script - select from database into variable]]></title>
+            <description><![CDATA[<article><h1>bash script - select from database into variable</h1><p>I don't know much about the MySQL command line interface, but assuming you only need help with the bashing, you should try to either swap the commands around like so: myvariable=$(echo "SELECT A, B, C FROM table_a" | mysql database -u $user -p$password) which echos the string into MySQL.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
+            <link>http://stackoverflow.com/questions/1636977/bash-script-select-from-database-into-variable</link>
+            <guid isPermaLink="false">cd1b11ae-5835-4fa3-aeda-9b39b5284f2f</guid>
+            <pubDate>Tue, 19 Apr 2016 20:16:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trying to construct a Bash executable string involving MySQL]]></title>
@@ -68,13 +75,6 @@
             <link>http://docs.phpmyadmin.net/en/latest/config.html</link>
             <guid isPermaLink="false">bc91427d-4a11-4514-974d-f58ef076fbe3</guid>
             <pubDate>Sat, 16 Apr 2016 13:05:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PHPOffice/PHPExcel]]></title>
-            <description><![CDATA[<article><h1>PHPOffice/PHPExcel</h1><p>PHPExcel - A pure PHP library for reading and writing spreadsheet files</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39a5fd43b3e576b4895ce21b116af02f1c572ba4.jpg"></article>]]></description>
-            <link>https://github.com/PHPOffice/PHPExcel</link>
-            <guid isPermaLink="false">2456ed45-e573-4d75-8398-b2d38f998b95</guid>
-            <pubDate>Sat, 16 Apr 2016 13:05:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
