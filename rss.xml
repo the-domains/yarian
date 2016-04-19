@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 20:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 20:26:10 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b9ce548-0360-41cd-9348-9dcdcb172727.jpg">]]></description>
+            <link>http://www.yarian.com/e5db478d-a7d6-4ef4-a66d-d35041ce57fe/index.html</link>
+            <guid isPermaLink="false">e5db478d-a7d6-4ef4-a66d-d35041ce57fe</guid>
+            <pubDate>Tue, 19 Apr 2016 20:25:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Export to CSV via PHP]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.psacake.com/silly.asp</link>
             <guid isPermaLink="false">e9697513-45ec-479b-87d5-3d2479314b89</guid>
             <pubDate>Sun, 17 Apr 2016 03:11:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Publishing Tool That Builds Websites Powered by AI]]></title>
-            <description><![CDATA[<article><h1>A Publishing Tool That Builds Websites Powered by AI</h1><p>"Websites are just the worst," says Dan Tocchini. And his former profession? Surprise! Website designer. Tocchini learned to loathe website work, oddly enough, after a stint selling European diamonds to small Bay Area jewelers. It was the mid-2000s, and he was lugging a backpack full of stones from retailer to retailer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9090c4407073e6c49cd8101c87864288fdf7a4a1.jpg"></article>]]></description>
-            <link>http://www.wired.com/2014/10/publishing-tool-builds-websites-powered-ai/?mbid=social_twitter#slide-id-1590909</link>
-            <guid isPermaLink="false">54cd21c4-f843-4e0c-b2b5-03b5fe93f650</guid>
-            <pubDate>Sun, 17 Apr 2016 03:06:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
