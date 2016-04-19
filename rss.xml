@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 20:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 20:17:58 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Export to CSV via PHP]]></title>
+            <description><![CDATA[<article><h1>Export to CSV via PHP</h1><p>Let's say I have a database.... is there a way I can export what I have from the database to a CSV file (and text file [if possible]) via PHP?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
+            <link>http://stackoverflow.com/questions/4249432/export-to-csv-via-php</link>
+            <guid isPermaLink="false">ae804e2d-3026-4d99-88b4-b4d074830c1e</guid>
+            <pubDate>Tue, 19 Apr 2016 20:16:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[bash script - select from database into variable]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.bowe.id.au/michael/isp/DOCSIS/mibs/motorola/</link>
             <guid isPermaLink="false">8f68bf66-8d08-418a-9770-b3d8221e4df1</guid>
             <pubDate>Sat, 16 Apr 2016 13:06:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Configuration - phpMyAdmin 4.7.0-dev documentation]]></title>
-            <description><![CDATA[<article><h1>Configuration - phpMyAdmin 4.7.0-dev documentation</h1><p>A good test is to browse a table, edit a row and save it. There should be an error message if phpMyAdmin is having trouble auto-detecting the correct value. If you get an error that this must be set or if the autodetect code fails to detect your path, please post a bug report on our bug tracker so we can improve the code.</p></article>]]></description>
-            <link>http://docs.phpmyadmin.net/en/latest/config.html</link>
-            <guid isPermaLink="false">bc91427d-4a11-4514-974d-f58ef076fbe3</guid>
-            <pubDate>Sat, 16 Apr 2016 13:05:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
