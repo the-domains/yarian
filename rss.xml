@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 20:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 20:18:48 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -25,6 +25,13 @@
             <description><![CDATA[<article><h1>bash script - select from database into variable</h1><p>I don't know much about the MySQL command line interface, but assuming you only need help with the bashing, you should try to either swap the commands around like so: myvariable=$(echo "SELECT A, B, C FROM table_a" | mysql database -u $user -p$password) which echos the string into MySQL.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
             <link>http://stackoverflow.com/questions/1636977/bash-script-select-from-database-into-variable</link>
             <guid isPermaLink="false">cd1b11ae-5835-4fa3-aeda-9b39b5284f2f</guid>
+            <pubDate>Tue, 19 Apr 2016 20:16:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://cdn.vmturbo.com/wp-content/uploads/2014/04/mG974Zv1.jpg">]]></description>
+            <link>http://www.yarian.com/75bccdbf-b0d9-43d0-b75b-ace3dad2159a/index.html</link>
+            <guid isPermaLink="false">75bccdbf-b0d9-43d0-b75b-ace3dad2159a</guid>
             <pubDate>Tue, 19 Apr 2016 20:16:59 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2014/10/publishing-tool-builds-websites-powered-ai/?mbid=social_twitter#slide-id-1590909</link>
             <guid isPermaLink="false">54cd21c4-f843-4e0c-b2b5-03b5fe93f650</guid>
             <pubDate>Sun, 17 Apr 2016 03:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.bowe.id.au - /michael/isp/DOCSIS/mibs/motorola/]]></title>
-            <description><![CDATA[<article><h1>www.bowe.id.au - /michael/isp/DOCSIS/mibs/motorola/</h1><p>To Parent Directory] Tuesday, 28 May 2013 12:02 PM _vti_cnf Tuesday, 28 May 2013 12:02 PM archive Tuesday, 28 May 2013 12:02 PM 61958 blp.mib Tuesday, 28 May 2013 12:02 PM 3250280 bticonfig_2.47.exe Tuesday, 28 May 2013 12:02 PM 5239 CH-SP-CO-MIB-CSA-C01-060728.mib Tuesday, 28 May 2013 12:02 PM 29874 CH-SP-MIB-CAP-C01-060728.mib Tuesday,</p></article>]]></description>
-            <link>http://www.bowe.id.au/michael/isp/DOCSIS/mibs/motorola/</link>
-            <guid isPermaLink="false">8f68bf66-8d08-418a-9770-b3d8221e4df1</guid>
-            <pubDate>Sat, 16 Apr 2016 13:06:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
