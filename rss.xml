@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 17:30:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 17:30:24 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article></article>]]></description>
-            <link>https://na.myconnectwise.net/v2016_2/apis/2.0/ConfigurationApi.asmx?WSDL</link>
-            <guid isPermaLink="false">b5016608-cdb7-4fa1-87f6-c56dca6e04cf</guid>
-            <pubDate>Wed, 20 Apr 2016 17:29:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Filesystem Hierarchy Standard - 5.14 /var/spool : Application spool data]]></title>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Trying to construct a Bash executable string involving MySQL</h1><p>The problem is that when you run $sql as a command, it under goes word-splitting, filename expansion, and so on, with no respect for any quotation-marks that $sql might contain. And it won't handle pipes and other shell metacharacters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
             <link>http://stackoverflow.com/questions/12114268/trying-to-construct-a-bash-executable-string-involving-mysql</link>
             <guid isPermaLink="false">832d1137-a473-41a3-8113-1fd0d854c1bb</guid>
+            <pubDate>Tue, 19 Apr 2016 20:16:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best Practices REST API from Scratch - Introduction]]></title>
+            <description><![CDATA[<article><h1>Best Practices REST API from Scratch - Introduction</h1><p>The current internet ecosystem has literally been invaded by APIs, and for good reasons. By using third party APIs in your products or services, you have access to a ton of useful features - such as authentication or storage services - that can benefit both you and your users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d7a1874b8b5b7a8b868242fdf50ffef4ed98ede.png"></article>]]></description>
+            <link>http://www.sitepoint.com/best-practices-rest-api-scratch-introduction/</link>
+            <guid isPermaLink="false">2d240549-8372-436b-9b72-2ddedeb9ae32</guid>
             <pubDate>Tue, 19 Apr 2016 20:16:59 GMT</pubDate>
         </item>
     </channel>
