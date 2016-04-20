@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 17:29:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 17:29:44 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Filesystem Hierarchy Standard - 5.14 /var/spool : Application spool data]]></title>
-            <description><![CDATA[<article><h1>Filesystem Hierarchy Standard - 5.14 /var/spool : Application spool data</h1><p>"Spool directories" Printer spool directory (optional) Outgoing mail queue (optional) News spool directory (optional) Rwhod files (optional) Spool directory for UUCP (optional)</p></article>]]></description>
-            <link>http://www.pathname.com/fhs/2.2/fhs-5.14.html</link>
-            <guid isPermaLink="false">ee5dabd8-2650-4e92-85a8-2c313a9a5973</guid>
-            <pubDate>Wed, 20 Apr 2016 17:29:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CronHowto]]></title>
@@ -75,6 +68,13 @@
             <link>http://www.w3schools.com/xsl/xsl_w3celementref.asp</link>
             <guid isPermaLink="false">0466e8b0-6629-4fd5-96ae-17d89264c569</guid>
             <pubDate>Tue, 19 Apr 2016 20:16:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Overview]]></title>
+            <description><![CDATA[<article><h1>Overview</h1><p>Let's start with a brief overview of the technology to try and clarify some of the misconceptions out there. Most Web applications lend themselves very well to the classic three-tier architecture model.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/833b767bdea75a59549e3fa20b96cb018ee67a63.png"></article>]]></description>
+            <link>http://www.yarian.com/what-makes-api-testing-special/index.html</link>
+            <guid isPermaLink="false">6491a61f-9079-4f45-9d02-a0ea4d92c2c5</guid>
+            <pubDate>Sun, 17 Apr 2016 03:11:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
