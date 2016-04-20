@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 17:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 17:30:29 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Set Up A Load-Balanced MySQL Cluster]]></title>
+            <description><![CDATA[<article><h1>How To Set Up A Load-Balanced MySQL Cluster</h1><p>This tutorial shows how to configure a MySQL 5 cluster with three nodes: two storage nodes and one management node. This cluster is load-balanced by a high-availability load balancer that in fact has two nodes that use the Ultra Monkey package which provides heartbeat (for checking if the other node is still alive) and ldirectord (to split up the requests to the nodes of the MySQL cluster).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/290c2ffd7bdb1628d5b90df0c83f14e3eb97c8d0.png"></article>]]></description>
+            <link>https://www.howtoforge.com/loadbalanced_mysql_cluster_debian</link>
+            <guid isPermaLink="false">336d16a8-84aa-4d4e-8a1d-a4768e5441b0</guid>
+            <pubDate>Wed, 20 Apr 2016 17:29:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[other] phpMyAdmin: WHERE does it install?]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Export to CSV via PHP</h1><p>Let's say I have a database.... is there a way I can export what I have from the database to a CSV file (and text file [if possible]) via PHP?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
             <link>http://stackoverflow.com/questions/4249432/export-to-csv-via-php</link>
             <guid isPermaLink="false">ae804e2d-3026-4d99-88b4-b4d074830c1e</guid>
-            <pubDate>Tue, 19 Apr 2016 20:16:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bash script - select from database into variable]]></title>
-            <description><![CDATA[<article><h1>bash script - select from database into variable</h1><p>I don't know much about the MySQL command line interface, but assuming you only need help with the bashing, you should try to either swap the commands around like so: myvariable=$(echo "SELECT A, B, C FROM table_a" | mysql database -u $user -p$password) which echos the string into MySQL.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
-            <link>http://stackoverflow.com/questions/1636977/bash-script-select-from-database-into-variable</link>
-            <guid isPermaLink="false">cd1b11ae-5835-4fa3-aeda-9b39b5284f2f</guid>
             <pubDate>Tue, 19 Apr 2016 20:16:59 GMT</pubDate>
         </item>
     </channel>
