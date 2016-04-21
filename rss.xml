@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 17:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 17:07:10 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What No One Told You About Z-Index]]></title>
+            <description><![CDATA[<article><h1>What No One Told You About Z-Index</h1><p>The problem with z-index is that very few people understand how it really works. It's not complicated, but it if you've never taken the time to read its specification, there are almost certainly crucial aspects that you're completely unaware of. Don't believe me?</p></article>]]></description>
+            <link>http://philipwalton.com/articles/what-no-one-told-you-about-z-index/</link>
+            <guid isPermaLink="false">c1559e79-3b1e-4a2c-aad5-0ef39b4276c3</guid>
+            <pubDate>Thu, 21 Apr 2016 17:06:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Free RUCKUS-ROOT-MIB SNMP MIB Download - Free MIB Download - Search MIBs - OiDViEW]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>CronHowto</h1><p>Cron is a system daemon used to execute desired tasks (in the background) at designated times. man crontab or from the OpenGroup specifications. On Gnome-based Ubuntu systems Gnome Scheduled tasks tool (from the gnome-schedule package) in Applications --> System Tools provides a graphical interface with prompting for using Cron.</p></article>]]></description>
             <link>https://help.ubuntu.com/community/CronHowto</link>
             <guid isPermaLink="false">cc6f80fa-ec6a-40b1-8316-66501338fa42</guid>
-            <pubDate>Wed, 20 Apr 2016 17:29:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cheat Sheet: Crontab by Example | Benjamin Cane]]></title>
-            <description><![CDATA[<article><h1>Cheat Sheet: Crontab by Example | Benjamin Cane</h1><p>Today's article may be pretty basic for regular readers but hopefully some may find it useful. This article will cover creating a crontab entry and show some examples of common crontabs. The Cron daemon is a service that runs on all main distributions of Unix and Linux and specifically designed to execute commands at a given time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/813a46a8103a8df3375201e92ba0ada3437e1b8b.jpg"></article>]]></description>
-            <link>http://bencane.com/2012/09/03/cheat-sheet-crontab-by-example/</link>
-            <guid isPermaLink="false">744665f0-f31f-4ddc-abd7-2b03dc6544eb</guid>
             <pubDate>Wed, 20 Apr 2016 17:29:42 GMT</pubDate>
         </item>
     </channel>
