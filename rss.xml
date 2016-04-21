@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 17:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 17:07:13 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rsyslog]]></title>
+            <description><![CDATA[<article><h1>rsyslog</h1><p>Written by Rainer Gerhards with some additions by Marc Schiffbauer (2008-02-28) *In this paper, I describe how to write* syslog *messages to a* MySQL *or* PostgreSQL *database.* Having syslog messages in a database is often handy, especially when you intend to set up a front-end for viewing them.</p></article>]]></description>
+            <link>http://www.rsyslog.com/doc/v8-stable/tutorials/database.html</link>
+            <guid isPermaLink="false">52dcf9b8-27ac-4d52-883e-5d4ac7335be7</guid>
+            <pubDate>Thu, 21 Apr 2016 17:06:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[omsnmp: SNMP Trap Output Module - rsyslog 8.18.0 documentation]]></title>
+            <description><![CDATA[<article><h1>omsnmp: SNMP Trap Output Module - rsyslog 8.18.0 documentation</h1><p>This configuration parameter is used for SNMPv2 only. This is the OID which defines the trap-type, or notifcation-type rsyslog uses to send the trap. In order to decode this OID, you will need to have the ADISCON-MONITORWARE-MIB and ADISCON-MIB mibs installed on the receiver side.</p></article>]]></description>
+            <link>http://www.rsyslog.com/doc/v8-stable/configuration/modules/omsnmp.html</link>
+            <guid isPermaLink="false">43e0a95d-8453-4d12-ae47-e67d7dae950a</guid>
+            <pubDate>Thu, 21 Apr 2016 17:06:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ubuntu Manpage: git-remote-bzr - Git remote support for Bazaar repositories]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>phpMyAdmin</h1><p>phpMyAdmin is a very popular MySQL management software package. To use it, you'll need to install and configure Apache, PHP, and the PHP MySQL (or mysqli) extension. See ApacheMySQLPHP for instructions. Install phpMyAdmin from the Universe repository. See InstallingSoftware for detailed instructions on using repositories and package managers.</p></article>]]></description>
             <link>https://help.ubuntu.com/community/phpMyAdmin</link>
             <guid isPermaLink="false">0d4b06a0-3905-402f-ad6e-fb1ec103aaec</guid>
-            <pubDate>Wed, 20 Apr 2016 17:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Set Up A Load-Balanced MySQL Cluster]]></title>
-            <description><![CDATA[<article><h1>How To Set Up A Load-Balanced MySQL Cluster</h1><p>This tutorial shows how to configure a MySQL 5 cluster with three nodes: two storage nodes and one management node. This cluster is load-balanced by a high-availability load balancer that in fact has two nodes that use the Ultra Monkey package which provides heartbeat (for checking if the other node is still alive) and ldirectord (to split up the requests to the nodes of the MySQL cluster).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/290c2ffd7bdb1628d5b90df0c83f14e3eb97c8d0.png"></article>]]></description>
-            <link>https://www.howtoforge.com/loadbalanced_mysql_cluster_debian</link>
-            <guid isPermaLink="false">336d16a8-84aa-4d4e-8a1d-a4768e5441b0</guid>
-            <pubDate>Wed, 20 Apr 2016 17:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[other] phpMyAdmin: WHERE does it install?]]></title>
-            <description><![CDATA[<article><h1>[other] phpMyAdmin: WHERE does it install?</h1><p>Hi ... I saw that there is a cute phpmyadmin package in the repositories. But WHERE does it installs? I saw that it magically works after installation under: http://localdomain/phpmyadmin/ But I don't find any reference in the apache2 configuration files... ... neither in the sites-enabled.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/759bd845e1b20100282a3eef9ec9b0adfb5d6b69.gif"></article>]]></description>
-            <link>http://ubuntuforums.org/showthread.php?t=1263152</link>
-            <guid isPermaLink="false">0d1e4c21-e9f8-427f-a686-566d6fa78e77</guid>
             <pubDate>Wed, 20 Apr 2016 17:29:43 GMT</pubDate>
         </item>
     </channel>
