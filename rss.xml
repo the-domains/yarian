@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 17:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 17:07:11 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SharedRepositoryTutorial - wiki.bazaar.canonical.com]]></title>
+            <description><![CDATA[<article><h1>SharedRepositoryTutorial - wiki.bazaar.canonical.com</h1><p>One of the features in Bzr (0.8+) is shared repositories. This document will introduce the concept and explain their usage by showing an example. New users should read the introduction to bzr for a general overview of Bazaar. Before we start explaining what a shared repository is, we need to understand how branches work in Bazaar.</p></article>]]></description>
+            <link>http://wiki.bazaar.canonical.com/SharedRepositoryTutorial</link>
+            <guid isPermaLink="false">816fb02a-fc52-4191-ba4b-ea5f70bf8da6</guid>
+            <pubDate>Thu, 21 Apr 2016 17:06:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NetDiscover MIB/OID - mdulite.mib]]></title>
+            <description><![CDATA[<article><h1>NetDiscover MIB/OID - mdulite.mib</h1></article>]]></description>
+            <link>http://www.snmplink.org/cgi-bin/nd/m/Ent/M/Motorola,%20Inc/[E.]%20Tut%20Systems,%20Inc/[E.]%20Tut%20Systems,%20Inc/Expresso%20Family/Expresso%20MDULite-LR/v1.3.1/mdulite.mib</link>
+            <guid isPermaLink="false">68355465-3d02-416b-9603-9f80097dc5d3</guid>
+            <pubDate>Thu, 21 Apr 2016 17:06:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CSS z-index property]]></title>
@@ -61,20 +75,6 @@
             <link>https://www.howtoforge.com/high_availability_loadbalanced_apache_cluster</link>
             <guid isPermaLink="false">42b6f681-fcec-445c-b205-c20ff15b7eff</guid>
             <pubDate>Wed, 20 Apr 2016 17:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article></article>]]></description>
-            <link>https://na.myconnectwise.net/v2016_2/apis/2.0/ConfigurationApi.asmx?WSDL</link>
-            <guid isPermaLink="false">b5016608-cdb7-4fa1-87f6-c56dca6e04cf</guid>
-            <pubDate>Wed, 20 Apr 2016 17:29:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Filesystem Hierarchy Standard - 5.14 /var/spool : Application spool data]]></title>
-            <description><![CDATA[<article><h1>Filesystem Hierarchy Standard - 5.14 /var/spool : Application spool data</h1><p>"Spool directories" Printer spool directory (optional) Outgoing mail queue (optional) News spool directory (optional) Rwhod files (optional) Spool directory for UUCP (optional)</p></article>]]></description>
-            <link>http://www.pathname.com/fhs/2.2/fhs-5.14.html</link>
-            <guid isPermaLink="false">ee5dabd8-2650-4e92-85a8-2c313a9a5973</guid>
-            <pubDate>Wed, 20 Apr 2016 17:29:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
