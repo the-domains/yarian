@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 17:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 17:07:20 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FAQ - Frequently Asked Questions - phpMyAdmin 4.7.0-dev documentation]]></title>
+            <description><![CDATA[<article><h1>FAQ - Frequently Asked Questions - phpMyAdmin 4.7.0-dev documentation</h1><p>Try to set the directive to in your config.inc.php file and the zlib.output_compression directive to in your php configuration file. You should first try the latest versions of Apache (and possibly MySQL). If your server keeps crashing, please ask for help in the various Apache support groups.</p></article>]]></description>
+            <link>http://docs.phpmyadmin.net/en/latest/faq.html</link>
+            <guid isPermaLink="false">127aeb7d-bbaa-40ac-a8d5-7cb172c1ae1a</guid>
+            <pubDate>Thu, 21 Apr 2016 17:06:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mmsnmptrapd message modification module]]></title>
+            <description><![CDATA[<article><h1>mmsnmptrapd message modification module</h1><p>back to rsyslog module overview Module Name: imtcp Author: Rainer Gerhards (custom-created) Multi-Ruleset Support: since 5.8.1 Description: This module uses a specific configuration of snmptrapd's tag values to obtain information of the original source system and the severity present inside the original SNMP trap. It then replaces these fields inside the syslog message.</p></article>]]></description>
+            <link>http://www.rsyslog.com/doc/mmsnmptrapd.html</link>
+            <guid isPermaLink="false">cf159096-9a52-4434-882d-b69a26fcec8e</guid>
+            <pubDate>Thu, 21 Apr 2016 17:06:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Writing syslog Data to MySQL]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>SharedRepositoryTutorial - wiki.bazaar.canonical.com</h1><p>One of the features in Bzr (0.8+) is shared repositories. This document will introduce the concept and explain their usage by showing an example. New users should read the introduction to bzr for a general overview of Bazaar. Before we start explaining what a shared repository is, we need to understand how branches work in Bazaar.</p></article>]]></description>
             <link>http://wiki.bazaar.canonical.com/SharedRepositoryTutorial</link>
             <guid isPermaLink="false">816fb02a-fc52-4191-ba4b-ea5f70bf8da6</guid>
-            <pubDate>Thu, 21 Apr 2016 17:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NetDiscover MIB/OID - mdulite.mib]]></title>
-            <description><![CDATA[<article><h1>NetDiscover MIB/OID - mdulite.mib</h1></article>]]></description>
-            <link>http://www.snmplink.org/cgi-bin/nd/m/Ent/M/Motorola,%20Inc/[E.]%20Tut%20Systems,%20Inc/[E.]%20Tut%20Systems,%20Inc/Expresso%20Family/Expresso%20MDULite-LR/v1.3.1/mdulite.mib</link>
-            <guid isPermaLink="false">68355465-3d02-416b-9603-9f80097dc5d3</guid>
-            <pubDate>Thu, 21 Apr 2016 17:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSS z-index property]]></title>
-            <description><![CDATA[<article><h1>CSS z-index property</h1><p>Well organized and easy to understand Web bulding tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10ac2f0ab6bb38cf45791d622fa3221dd43da68f.gif"></article>]]></description>
-            <link>http://www.w3schools.com/cssref/pr_pos_z-index.asp</link>
-            <guid isPermaLink="false">83ae13c7-6c81-4ee0-b820-37333d02156e</guid>
             <pubDate>Thu, 21 Apr 2016 17:06:18 GMT</pubDate>
         </item>
     </channel>
