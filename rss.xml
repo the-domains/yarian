@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 17:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 17:07:16 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[syslog-protocol support in rsyslog]]></title>
+            <description><![CDATA[<article><h1>syslog-protocol support in rsyslog</h1><p>Rsyslog provides a trial implementation of the proposed syslog-protocol standard. The intention of this implementation is to find out what inside syslog-protocol is causing problems during implementation. As syslog-protocol is a standard under development, its support in rsyslog is highly volatile. It may change from release to release.</p></article>]]></description>
+            <link>http://ftp.ics.uci.edu/pub/centos0/ics-custom-build/BUILD/rsyslog-3.19.7/doc/syslog-protocol.html</link>
+            <guid isPermaLink="false">e5559194-7b0d-4982-80da-d01d30b4d3f9</guid>
+            <pubDate>Thu, 21 Apr 2016 17:06:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[7 Version Control Systems Reviewed - Smashing Magazine]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What No One Told You About Z-Index</h1><p>The problem with z-index is that very few people understand how it really works. It's not complicated, but it if you've never taken the time to read its specification, there are almost certainly crucial aspects that you're completely unaware of. Don't believe me?</p></article>]]></description>
             <link>http://philipwalton.com/articles/what-no-one-told-you-about-z-index/</link>
             <guid isPermaLink="false">c1559e79-3b1e-4a2c-aad5-0ef39b4276c3</guid>
-            <pubDate>Thu, 21 Apr 2016 17:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Free RUCKUS-ROOT-MIB SNMP MIB Download - Free MIB Download - Search MIBs - OiDViEW]]></title>
-            <description><![CDATA[<article><h1>Free RUCKUS-ROOT-MIB SNMP MIB Download - Free MIB Download - Search MIBs - OiDViEW</h1><p>Ruckus Wireless, Inc.:RUCKUS-ROOT-MIB: Download, View or Compile. Courtesy of ByteSphere's searchable online SNMP MIB database</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d36d60c6fcc1e37a162ffeb06a655d5131b0405f.gif"></article>]]></description>
-            <link>http://www.oidview.com/mibs/25053/RUCKUS-ROOT-MIB.html</link>
-            <guid isPermaLink="false">763daa5a-2b93-4a9a-bbcb-e4e27bde829a</guid>
             <pubDate>Thu, 21 Apr 2016 17:06:18 GMT</pubDate>
         </item>
     </channel>
