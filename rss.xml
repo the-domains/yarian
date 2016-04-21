@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 17:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 17:07:22 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CategorySoftware - Community Help Wiki]]></title>
+            <description><![CDATA[<article><h1>CategorySoftware - Community Help Wiki</h1><p>This page contains a list of all pages in this category and all pages with this category's name in their titles.</p></article>]]></description>
+            <link>https://help.ubuntu.com/community/CategorySoftware</link>
+            <guid isPermaLink="false">bb43dc7d-01c7-43ed-9638-8036ff33af27</guid>
+            <pubDate>Thu, 21 Apr 2016 17:06:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FAQ - Frequently Asked Questions - phpMyAdmin 4.7.0-dev documentation]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Ubuntu Manpage: git-remote-bzr - Git remote support for Bazaar repositories</h1><p>git-remote-bzr - Git remote support for Bazaar repositories</p></article>]]></description>
             <link>http://manpages.ubuntu.com/manpages/precise/man1/git-remote-bzr.1.html</link>
             <guid isPermaLink="false">55b7dbb6-d932-4cce-bf5d-735c1258c3ca</guid>
-            <pubDate>Thu, 21 Apr 2016 17:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SharedRepositoryTutorial - wiki.bazaar.canonical.com]]></title>
-            <description><![CDATA[<article><h1>SharedRepositoryTutorial - wiki.bazaar.canonical.com</h1><p>One of the features in Bzr (0.8+) is shared repositories. This document will introduce the concept and explain their usage by showing an example. New users should read the introduction to bzr for a general overview of Bazaar. Before we start explaining what a shared repository is, we need to understand how branches work in Bazaar.</p></article>]]></description>
-            <link>http://wiki.bazaar.canonical.com/SharedRepositoryTutorial</link>
-            <guid isPermaLink="false">816fb02a-fc52-4191-ba4b-ea5f70bf8da6</guid>
             <pubDate>Thu, 21 Apr 2016 17:06:18 GMT</pubDate>
         </item>
     </channel>
