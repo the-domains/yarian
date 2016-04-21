@@ -14,6 +14,13 @@
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[CSS z-index property]]></title>
+            <description><![CDATA[<article><h1>CSS z-index property</h1><p>Well organized and easy to understand Web bulding tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10ac2f0ab6bb38cf45791d622fa3221dd43da68f.gif"></article>]]></description>
+            <link>http://www.w3schools.com/cssref/pr_pos_z-index.asp</link>
+            <guid isPermaLink="false">83ae13c7-6c81-4ee0-b820-37333d02156e</guid>
+            <pubDate>Thu, 21 Apr 2016 17:06:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What No One Told You About Z-Index]]></title>
             <description><![CDATA[<article><h1>What No One Told You About Z-Index</h1><p>The problem with z-index is that very few people understand how it really works. It's not complicated, but it if you've never taken the time to read its specification, there are almost certainly crucial aspects that you're completely unaware of. Don't believe me?</p></article>]]></description>
             <link>http://philipwalton.com/articles/what-no-one-told-you-about-z-index/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Filesystem Hierarchy Standard - 5.14 /var/spool : Application spool data</h1><p>"Spool directories" Printer spool directory (optional) Outgoing mail queue (optional) News spool directory (optional) Rwhod files (optional) Spool directory for UUCP (optional)</p></article>]]></description>
             <link>http://www.pathname.com/fhs/2.2/fhs-5.14.html</link>
             <guid isPermaLink="false">ee5dabd8-2650-4e92-85a8-2c313a9a5973</guid>
-            <pubDate>Wed, 20 Apr 2016 17:29:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CronHowto]]></title>
-            <description><![CDATA[<article><h1>CronHowto</h1><p>Cron is a system daemon used to execute desired tasks (in the background) at designated times. man crontab or from the OpenGroup specifications. On Gnome-based Ubuntu systems Gnome Scheduled tasks tool (from the gnome-schedule package) in Applications --> System Tools provides a graphical interface with prompting for using Cron.</p></article>]]></description>
-            <link>https://help.ubuntu.com/community/CronHowto</link>
-            <guid isPermaLink="false">cc6f80fa-ec6a-40b1-8316-66501338fa42</guid>
             <pubDate>Wed, 20 Apr 2016 17:29:42 GMT</pubDate>
         </item>
     </channel>
