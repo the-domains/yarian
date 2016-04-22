@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 14:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 14:59:05 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CodeLite, an open source, cross platform C/C++ IDE | LiteEditor / GitPlugin]]></title>
+            <description><![CDATA[<article><h1>CodeLite, an open source, cross platform C/C++ IDE | LiteEditor / GitPlugin</h1><p>Building CodeLite - Linux * Debugging CodeLite - Linux * Building CodeLite - Windows * Building CodeLite - OSX * Building Clang (All Platforms) * Building wxWidgets for Windows * Coding Guidelines * Creating a Plugin</p></article>]]></description>
+            <link>http://codelite.org/LiteEditor/GitPlugin</link>
+            <guid isPermaLink="false">25564604-574f-471c-91b8-0e2593877a68</guid>
+            <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How To Setup A "Fossil" Server On CentOS Using "nginx" and "xinetd"]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Writing syslog Data to MySQL</h1><p>Written by Rainer Gerhards (2008-02-28) In this paper, I describe how to write syslog messages to aMySQL database. Having syslog messages in a database is often handy, especially when you intend to set up a front-end for viewing them. This paper describes an approach withrsyslogd, an alternative enhanced syslog daemon natively supporting MySQL.</p></article>]]></description>
             <link>http://ftp.ics.uci.edu/pub/centos0/ics-custom-build/BUILD/rsyslog-3.19.7/doc/rsyslog_mysql.html</link>
             <guid isPermaLink="false">c43c9a44-2ee1-4462-b08a-1a4f9956896a</guid>
-            <pubDate>Thu, 21 Apr 2016 17:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[syslog-protocol support in rsyslog]]></title>
-            <description><![CDATA[<article><h1>syslog-protocol support in rsyslog</h1><p>Rsyslog provides a trial implementation of the proposed syslog-protocol standard. The intention of this implementation is to find out what inside syslog-protocol is causing problems during implementation. As syslog-protocol is a standard under development, its support in rsyslog is highly volatile. It may change from release to release.</p></article>]]></description>
-            <link>http://ftp.ics.uci.edu/pub/centos0/ics-custom-build/BUILD/rsyslog-3.19.7/doc/syslog-protocol.html</link>
-            <guid isPermaLink="false">e5559194-7b0d-4982-80da-d01d30b4d3f9</guid>
             <pubDate>Thu, 21 Apr 2016 17:06:19 GMT</pubDate>
         </item>
     </channel>
