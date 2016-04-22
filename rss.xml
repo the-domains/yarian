@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 14:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 14:59:04 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Setup A "Fossil" Server On CentOS Using "nginx" and "xinetd"]]></title>
+            <description><![CDATA[<article><h1>How To Setup A "Fossil" Server On CentOS Using "nginx" and "xinetd"</h1><p>If you've ever done professional software development, you already know that it is not possible without source control and issue tracking software. In this article, you will see how easy it is to setup a fully working Fossil DVCS server on a CentOS machine. FreeBSD users may find this guide (external) more useful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52b8697d932ab91d6742e1f54f20369c9037b798.jpg"></article>]]></description>
+            <link>http://www.bahmanm.com/blogs/how-to-setup-a-fossil-server-on-centos-using-nginx-and-xinetd</link>
+            <guid isPermaLink="false">d51fb909-6d77-4246-b8fd-9c8e98131dc8</guid>
+            <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to print all sessions currently set in PHP?]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>syslog-protocol support in rsyslog</h1><p>Rsyslog provides a trial implementation of the proposed syslog-protocol standard. The intention of this implementation is to find out what inside syslog-protocol is causing problems during implementation. As syslog-protocol is a standard under development, its support in rsyslog is highly volatile. It may change from release to release.</p></article>]]></description>
             <link>http://ftp.ics.uci.edu/pub/centos0/ics-custom-build/BUILD/rsyslog-3.19.7/doc/syslog-protocol.html</link>
             <guid isPermaLink="false">e5559194-7b0d-4982-80da-d01d30b4d3f9</guid>
-            <pubDate>Thu, 21 Apr 2016 17:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Version Control Systems Reviewed - Smashing Magazine]]></title>
-            <description><![CDATA[<article><h1>7 Version Control Systems Reviewed - Smashing Magazine</h1><p>If you've ever collaborated with other people on a project, you know the frustration of constantly swapping files. Some do it by email, some through file upload services and some by other methods. It's a pain in the neck, and every designer and developer knows it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b067c28ce8a8fe9397bbfc8a99063a8a946e7aa.jpg"></article>]]></description>
-            <link>https://www.smashingmagazine.com/2008/09/the-top-7-open-source-version-control-systems/</link>
-            <guid isPermaLink="false">fafb3720-35bb-4ae6-8be7-6213ff874951</guid>
             <pubDate>Thu, 21 Apr 2016 17:06:19 GMT</pubDate>
         </item>
     </channel>
