@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 14:59:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 14:59:22 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -18,6 +18,13 @@
             <description><![CDATA[<article><h1>CodeLite, an open source, cross platform C/C++ IDE | LiteEditor / GitPlugin</h1><p>Building CodeLite - Linux * Debugging CodeLite - Linux * Building CodeLite - Windows * Building CodeLite - OSX * Building Clang (All Platforms) * Building wxWidgets for Windows * Coding Guidelines * Creating a Plugin</p></article>]]></description>
             <link>http://codelite.org/LiteEditor/GitPlugin</link>
             <guid isPermaLink="false">25564604-574f-471c-91b8-0e2593877a68</guid>
+            <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using Version Control for Home Development?]]></title>
+            <description><![CDATA[<article><h1>Using Version Control for Home Development?</h1><p>Up till now I have been developing my personal and school projects at home without using any form of revision control software to handle my changes and whatnot. My question is, how feasible is it ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
+            <link>http://stackoverflow.com/questions/360887/using-version-control-for-home-development</link>
+            <guid isPermaLink="false">fe598876-6d46-4b8a-9782-34107591055f</guid>
             <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
         </item>
         <item>
@@ -42,6 +49,13 @@
             <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Imagine Dragons - Radioactive (Synchronice Dubstep Remix)]]></title>
+            <description><![CDATA[<article><h1>Imagine Dragons - Radioactive (Synchronice Dubstep Remix)</h1><p>Like my Facebook page: http://www.facebook.com/AirwaveDubstepTV Imagine Dragons - Radioactive (Synchronice Dubstep Remix) Synchronice Soundcloud: http://bit.ly/NqIiQj Facebook: http://on.fb.me/170G724 Twitter: https://twitter.com/Synchronice Free Download: http://on.fb.me/1a2kzRk AirwaveMusicTV / AirwaveDubstepTV YouTube: http://www.youtube.com/user/AirwaveDu... Facebook: http://www.facebook.com/AirwaveDubstepTV Soundcloud: http://soundcloud.com/airwavemusictv Donate via PayPal and support my channel: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EM37JYUR88J9A Buy the original here: https://itunes.apple.com/us/music-video/radioactive/id586393326 ℗ 2012 KIDinaKORNER/Interscope Records Info: Send your tracks to AirwaveMusicTV@gmail.com if you want to get featured on my channel.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ppE2vQ6GEFI&amp;list=FLKQysIVt_7-7SIildPHS-Zg&amp;index=1</link>
+            <guid isPermaLink="false">070322d3-406b-44ab-8ac4-23bc3ed9204c</guid>
+            <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bitbucket Tutorials: Teams in Space Training Ground - Atlassian Documentation]]></title>
             <description><![CDATA[<article><h1>Bitbucket Tutorials: Teams in Space Training Ground - Atlassian Documentation</h1><p>Bitbucket Tutorials: Teams in Space Training Ground</p></article>]]></description>
             <link>https://confluence.atlassian.com/bitbucket/bitbucket-tutorials-teams-in-space-training-ground-755338051.html</link>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>FAQ - Frequently Asked Questions - phpMyAdmin 4.7.0-dev documentation</h1><p>Try to set the directive to in your config.inc.php file and the zlib.output_compression directive to in your php configuration file. You should first try the latest versions of Apache (and possibly MySQL). If your server keeps crashing, please ask for help in the various Apache support groups.</p></article>]]></description>
             <link>http://docs.phpmyadmin.net/en/latest/faq.html</link>
             <guid isPermaLink="false">127aeb7d-bbaa-40ac-a8d5-7cb172c1ae1a</guid>
-            <pubDate>Thu, 21 Apr 2016 17:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mmsnmptrapd message modification module]]></title>
-            <description><![CDATA[<article><h1>mmsnmptrapd message modification module</h1><p>back to rsyslog module overview Module Name: imtcp Author: Rainer Gerhards (custom-created) Multi-Ruleset Support: since 5.8.1 Description: This module uses a specific configuration of snmptrapd's tag values to obtain information of the original source system and the severity present inside the original SNMP trap. It then replaces these fields inside the syslog message.</p></article>]]></description>
-            <link>http://www.rsyslog.com/doc/mmsnmptrapd.html</link>
-            <guid isPermaLink="false">cf159096-9a52-4434-882d-b69a26fcec8e</guid>
-            <pubDate>Thu, 21 Apr 2016 17:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Writing syslog Data to MySQL]]></title>
-            <description><![CDATA[<article><h1>Writing syslog Data to MySQL</h1><p>Written by Rainer Gerhards (2008-02-28) In this paper, I describe how to write syslog messages to aMySQL database. Having syslog messages in a database is often handy, especially when you intend to set up a front-end for viewing them. This paper describes an approach withrsyslogd, an alternative enhanced syslog daemon natively supporting MySQL.</p></article>]]></description>
-            <link>http://ftp.ics.uci.edu/pub/centos0/ics-custom-build/BUILD/rsyslog-3.19.7/doc/rsyslog_mysql.html</link>
-            <guid isPermaLink="false">c43c9a44-2ee1-4462-b08a-1a4f9956896a</guid>
             <pubDate>Thu, 21 Apr 2016 17:06:19 GMT</pubDate>
         </item>
     </channel>
