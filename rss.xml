@@ -14,6 +14,13 @@
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to print all sessions currently set in PHP?]]></title>
+            <description><![CDATA[<article><h1>How to print all sessions currently set in PHP?</h1><p>Without having to call each session by name, is there a way to display the contents of all sessions currently set?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
+            <link>http://stackoverflow.com/questions/3331613/how-to-print-all-sessions-currently-set-in-php</link>
+            <guid isPermaLink="false">e71b4fa9-0352-4490-9a85-353bae98f7c9</guid>
+            <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Get URL query string]]></title>
             <description><![CDATA[<article><h1>Get URL query string</h1><p>This code and notation is not mine. Evan K solves a multi value same name query with a custom function ;) is taken from : http://php.net/manual/en/function.parse-str.php#76792 Credits go to Evan K. It bears mentioning that the parse_str builtin does NOT process a query string in the CGI standard way, when it comes to duplicate fields.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
             <link>http://stackoverflow.com/questions/8469767/get-url-query-string</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>7 Version Control Systems Reviewed - Smashing Magazine</h1><p>If you've ever collaborated with other people on a project, you know the frustration of constantly swapping files. Some do it by email, some through file upload services and some by other methods. It's a pain in the neck, and every designer and developer knows it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b067c28ce8a8fe9397bbfc8a99063a8a946e7aa.jpg"></article>]]></description>
             <link>https://www.smashingmagazine.com/2008/09/the-top-7-open-source-version-control-systems/</link>
             <guid isPermaLink="false">fafb3720-35bb-4ae6-8be7-6213ff874951</guid>
-            <pubDate>Thu, 21 Apr 2016 17:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rsyslog]]></title>
-            <description><![CDATA[<article><h1>rsyslog</h1><p>Written by Rainer Gerhards with some additions by Marc Schiffbauer (2008-02-28) *In this paper, I describe how to write* syslog *messages to a* MySQL *or* PostgreSQL *database.* Having syslog messages in a database is often handy, especially when you intend to set up a front-end for viewing them.</p></article>]]></description>
-            <link>http://www.rsyslog.com/doc/v8-stable/tutorials/database.html</link>
-            <guid isPermaLink="false">52dcf9b8-27ac-4d52-883e-5d4ac7335be7</guid>
             <pubDate>Thu, 21 Apr 2016 17:06:19 GMT</pubDate>
         </item>
     </channel>
