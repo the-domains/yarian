@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 22:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 22:19:12 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mysql_data_seek]]></title>
+            <description><![CDATA[<article><h1>mysql_data_seek</h1><p>(PHP 4, PHP 5) mysql_data_seek - Move internal result pointer Warning This extension was deprecated in PHP 5.5.0, and it was removed in PHP 7.0.0. Instead, the MySQLi or PDO_MySQL extension should be used. See also MySQL: choosing an API guide and related FAQ for more information.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85f3fbfc9d5c0509a54b06f64674266fd8de79e3.png"></article>]]></description>
+            <link>http://ca2.php.net/manual/en/function.mysql-data-seek.php</link>
+            <guid isPermaLink="false">9aa5684a-228e-4897-906c-6612f773403d</guid>
+            <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MySQL :: MySQL 5.7 Reference Manual :: 13.10 Cast Functions and Operators]]></title>
+            <description><![CDATA[<article><h1>MySQL :: MySQL 5.7 Reference Manual :: 13.10 Cast Functions and Operators</h1><p>MySQL supports arithmetic with both signed and unsigned 64-bit values. If you are using numeric operators (such as or ) and one of the operands is an unsigned integer, the result is unsigned by default (see Section 13.6.1, "Arithmetic Operators").</p></article>]]></description>
+            <link>http://dev.mysql.com/doc/refman/5.7/en/cast-functions.html</link>
+            <guid isPermaLink="false">b2174dec-8d24-4675-9873-0f2be6cdb2f2</guid>
+            <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[mysql_free_result]]></title>
@@ -61,20 +75,6 @@
             <link>http://stackoverflow.com/questions/748276/using-sql-to-determine-word-count-stats-of-a-text-field</link>
             <guid isPermaLink="false">0fd5c53d-fbc2-443f-8338-6450f626b327</guid>
             <pubDate>Sun, 24 Apr 2016 22:18:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[flush]]></title>
-            <description><![CDATA[<article><h1>flush</h1><p>(PHP 4, PHP 5, PHP 7) flush - Flush system output buffer flush() may not be able to override the buffering scheme of your web server and it has no effect on any client-side buffering in the browser. It also doesn't affect PHP's userspace output buffering mechanism.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c11c4adc9286ab44dfbfe0c90bb04b8945c106fa.png"></article>]]></description>
-            <link>http://php.net/manual/en/function.flush.php</link>
-            <guid isPermaLink="false">2588092a-ad43-4e4e-a011-d7ab3532ddda</guid>
-            <pubDate>Sun, 24 Apr 2016 22:18:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CodeLite, an open source, cross platform C/C++ IDE | LiteEditor / GitPlugin]]></title>
-            <description><![CDATA[<article><h1>CodeLite, an open source, cross platform C/C++ IDE | LiteEditor / GitPlugin</h1><p>Building CodeLite - Linux * Debugging CodeLite - Linux * Building CodeLite - Windows * Building CodeLite - OSX * Building Clang (All Platforms) * Building wxWidgets for Windows * Coding Guidelines * Creating a Plugin</p></article>]]></description>
-            <link>http://codelite.org/LiteEditor/GitPlugin</link>
-            <guid isPermaLink="false">25564604-574f-471c-91b8-0e2593877a68</guid>
-            <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
