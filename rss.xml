@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 22:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 22:19:52 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Dark Sky Forecast API Docs]]></title>
+            <description><![CDATA[<article><h1>The Dark Sky Forecast API Docs</h1><p>22 Apr 2016: Added Belarusian and Indonesian to the list of supported languages. 22 Feb 2016: Added Norwegian Bokmål to the list of supported languages. 9 Feb 2016: Added Cornish and Icelandic to the list of supported languages. 3 Feb 2016: Added Czech, Hungarian, and Serbian to the list of supported languages.</p></article>]]></description>
+            <link>https://developer.forecast.io/docs/v2</link>
+            <guid isPermaLink="false">a0a32a46-3170-43ea-a17a-95ae10f1b947</guid>
+            <pubDate>Sun, 24 Apr 2016 22:19:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[strtotime]]></title>
+            <description><![CDATA[<article><h1>strtotime</h1><p>(PHP 4, PHP 5, PHP 7) strtotime - Parse about any English textual datetime description into a Unix timestamp The function expects to be given a string containing an English date format and will try to parse that format into a Unix timestamp (the number of seconds since January 1 1970 00:00:00 UTC), relative to the timestamp given in now, or the current time if now is not supplied.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c11c4adc9286ab44dfbfe0c90bb04b8945c106fa.png"></article>]]></description>
+            <link>http://php.net/manual/en/function.strtotime.php</link>
+            <guid isPermaLink="false">009d4714-ec4c-472a-91ea-4e7329aa6af5</guid>
+            <pubDate>Sun, 24 Apr 2016 22:19:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PHP reset() Function]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>MySQL :: MySQL 5.7 Reference Manual :: 13.4 Control Flow Functions</h1></article>]]></description>
             <link>http://dev.mysql.com/doc/refman/5.7/en/control-flow-functions.html</link>
             <guid isPermaLink="false">f1184fd2-64b8-449b-bb30-4279d81273ee</guid>
-            <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[syslog]]></title>
-            <description><![CDATA[<article><h1>syslog</h1><p>(PHP 4, PHP 5, PHP 7) syslog - Generate a system log message For information on setting up a user defined log handler, see the Unix manual page. More information on the syslog facilities and option can be found in the man pages for on Unix machines.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c11c4adc9286ab44dfbfe0c90bb04b8945c106fa.png"></article>]]></description>
-            <link>http://php.net/manual/en/function.syslog.php</link>
-            <guid isPermaLink="false">bedd9f9a-c85b-43ca-a009-352d09cc6cf4</guid>
-            <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PHP: str_replace - Manual]]></title>
-            <description><![CDATA[<article><h1>PHP: str_replace - Manual</h1><p>If search and replace are arrays, then str_replace() takes a value from each array and uses them to search and replace on subject. If replace has fewer values than search, then an empty string is used for the rest of replacement values.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c11c4adc9286ab44dfbfe0c90bb04b8945c106fa.png"></article>]]></description>
-            <link>http://php.net/manual/en/function.str-replace.php</link>
-            <guid isPermaLink="false">b99bf3f7-106d-4267-b312-2ecfdcd8b48a</guid>
             <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
         </item>
     </channel>
