@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 22:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 22:19:03 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,27 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MySQL :: MySQL 5.7 Reference Manual :: 13.10 Cast Functions and Operators]]></title>
+            <description><![CDATA[<article><h1>MySQL :: MySQL 5.7 Reference Manual :: 13.10 Cast Functions and Operators</h1><p>MySQL supports arithmetic with both signed and unsigned 64-bit values. If you are using numeric operators (such as or ) and one of the operands is an unsigned integer, the result is unsigned by default (see Section 13.6.1, "Arithmetic Operators").</p></article>]]></description>
+            <link>http://dev.mysql.com/doc/refman/5.7/en/cast-functions.html</link>
+            <guid isPermaLink="false">b2174dec-8d24-4675-9873-0f2be6cdb2f2</guid>
+            <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mysql_free_result]]></title>
+            <description><![CDATA[<article><h1>mysql_free_result</h1><p>(PHP 4, PHP 5) mysql_free_result - Free result memory Warning This extension was deprecated in PHP 5.5.0, and it was removed in PHP 7.0.0. Instead, the MySQLi or PDO_MySQL extension should be used. See also MySQL: choosing an API guide and related FAQ for more information.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c11c4adc9286ab44dfbfe0c90bb04b8945c106fa.png"></article>]]></description>
+            <link>http://php.net/manual/en/function.mysql-free-result.php</link>
+            <guid isPermaLink="false">639a66fe-51d0-4a28-b9d8-5975f9d63d98</guid>
+            <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reset a MySQL Recordset with PHP | Digipiph]]></title>
+            <description><![CDATA[<article><h1>Reset a MySQL Recordset with PHP | Digipiph</h1><p>When you run a recordset through a loop, you will not be able to re-run the recordset further down in the same page. Here is how to reset the recordset so you can use it again on the same page. Just place this code after your loop.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f28e87f991f15b0bbf543711abdea8de7bb2623.png"></article>]]></description>
+            <link>http://digipiph.com/blog/reset-mysql-recordset-php</link>
+            <guid isPermaLink="false">d1b100d4-8df3-4376-9499-b956597666e5</guid>
+            <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[alternatives to phpmyadmin - Google Search]]></title>
@@ -54,27 +75,6 @@
             <link>http://php.net/manual/en/function.flush.php</link>
             <guid isPermaLink="false">2588092a-ad43-4e4e-a011-d7ab3532ddda</guid>
             <pubDate>Sun, 24 Apr 2016 22:18:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CodeLite, an open source, cross platform C/C++ IDE | LiteEditor / GitPlugin]]></title>
-            <description><![CDATA[<article><h1>CodeLite, an open source, cross platform C/C++ IDE | LiteEditor / GitPlugin</h1><p>Building CodeLite - Linux * Debugging CodeLite - Linux * Building CodeLite - Windows * Building CodeLite - OSX * Building Clang (All Platforms) * Building wxWidgets for Windows * Coding Guidelines * Creating a Plugin</p></article>]]></description>
-            <link>http://codelite.org/LiteEditor/GitPlugin</link>
-            <guid isPermaLink="false">25564604-574f-471c-91b8-0e2593877a68</guid>
-            <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using Version Control for Home Development?]]></title>
-            <description><![CDATA[<article><h1>Using Version Control for Home Development?</h1><p>Up till now I have been developing my personal and school projects at home without using any form of revision control software to handle my changes and whatnot. My question is, how feasible is it ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
-            <link>http://stackoverflow.com/questions/360887/using-version-control-for-home-development</link>
-            <guid isPermaLink="false">fe598876-6d46-4b8a-9782-34107591055f</guid>
-            <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Setup A "Fossil" Server On CentOS Using "nginx" and "xinetd"]]></title>
-            <description><![CDATA[<article><h1>How To Setup A "Fossil" Server On CentOS Using "nginx" and "xinetd"</h1><p>If you've ever done professional software development, you already know that it is not possible without source control and issue tracking software. In this article, you will see how easy it is to setup a fully working Fossil DVCS server on a CentOS machine. FreeBSD users may find this guide (external) more useful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52b8697d932ab91d6742e1f54f20369c9037b798.jpg"></article>]]></description>
-            <link>http://www.bahmanm.com/blogs/how-to-setup-a-fossil-server-on-centos-using-nginx-and-xinetd</link>
-            <guid isPermaLink="false">d51fb909-6d77-4246-b8fd-9c8e98131dc8</guid>
-            <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
