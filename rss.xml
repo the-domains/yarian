@@ -14,6 +14,13 @@
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[alternatives to phpmyadmin - Google Search]]></title>
+            <description><![CDATA[<article><h1>alternatives to phpmyadmin - Google Search</h1></article>]]></description>
+            <link>https://www.google.com/search?sourceid=chrome-psyapi2&amp;ion=1&amp;espv=2&amp;ie=UTF-8&amp;q=alternatives%20to%20phpmyadmin&amp;oq=alternatives%20to%20phpmyadmin&amp;rlz=1C1CHFX_enUS660US660&amp;aqs=chrome..69i57j0l3.4202j0j7</link>
+            <guid isPermaLink="false">f4b9e5f8-dbb2-4344-978d-51dbb69ae338</guid>
+            <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MySQL :: MySQL 5.7 Reference Manual :: 13.4 Control Flow Functions]]></title>
             <description><![CDATA[<article><h1>MySQL :: MySQL 5.7 Reference Manual :: 13.4 Control Flow Functions</h1></article>]]></description>
             <link>http://dev.mysql.com/doc/refman/5.7/en/control-flow-functions.html</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How To Setup A "Fossil" Server On CentOS Using "nginx" and "xinetd"</h1><p>If you've ever done professional software development, you already know that it is not possible without source control and issue tracking software. In this article, you will see how easy it is to setup a fully working Fossil DVCS server on a CentOS machine. FreeBSD users may find this guide (external) more useful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52b8697d932ab91d6742e1f54f20369c9037b798.jpg"></article>]]></description>
             <link>http://www.bahmanm.com/blogs/how-to-setup-a-fossil-server-on-centos-using-nginx-and-xinetd</link>
             <guid isPermaLink="false">d51fb909-6d77-4246-b8fd-9c8e98131dc8</guid>
-            <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to print all sessions currently set in PHP?]]></title>
-            <description><![CDATA[<article><h1>How to print all sessions currently set in PHP?</h1><p>Without having to call each session by name, is there a way to display the contents of all sessions currently set?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
-            <link>http://stackoverflow.com/questions/3331613/how-to-print-all-sessions-currently-set-in-php</link>
-            <guid isPermaLink="false">e71b4fa9-0352-4490-9a85-353bae98f7c9</guid>
             <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
         </item>
     </channel>
