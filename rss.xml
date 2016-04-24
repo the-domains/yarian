@@ -14,6 +14,20 @@
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[syslog]]></title>
+            <description><![CDATA[<article><h1>syslog</h1><p>(PHP 4, PHP 5, PHP 7) syslog - Generate a system log message For information on setting up a user defined log handler, see the Unix manual page. More information on the syslog facilities and option can be found in the man pages for on Unix machines.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c11c4adc9286ab44dfbfe0c90bb04b8945c106fa.png"></article>]]></description>
+            <link>http://php.net/manual/en/function.syslog.php</link>
+            <guid isPermaLink="false">bedd9f9a-c85b-43ca-a009-352d09cc6cf4</guid>
+            <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PHP: str_replace - Manual]]></title>
+            <description><![CDATA[<article><h1>PHP: str_replace - Manual</h1><p>If search and replace are arrays, then str_replace() takes a value from each array and uses them to search and replace on subject. If replace has fewer values than search, then an empty string is used for the rest of replacement values.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c11c4adc9286ab44dfbfe0c90bb04b8945c106fa.png"></article>]]></description>
+            <link>http://php.net/manual/en/function.str-replace.php</link>
+            <guid isPermaLink="false">b99bf3f7-106d-4267-b312-2ecfdcd8b48a</guid>
+            <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Using SQL to determine word count stats of a text field]]></title>
             <description><![CDATA[<article><h1>Using SQL to determine word count stats of a text field</h1><p>I've recently been working on some database search functionality and wanted to get some information like the average words per document (e.g. text field in the database). The only thing I have found so far (without processing in language of choice outside the DB) is: SELECT AVG(LENGTH(content) - LENGTH(REPLACE(content, ' ', '')) + 1) FROM documents This seems to work* but do you have other suggestions?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
             <link>http://stackoverflow.com/questions/748276/using-sql-to-determine-word-count-stats-of-a-text-field</link>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Get URL query string</h1><p>This code and notation is not mine. Evan K solves a multi value same name query with a custom function ;) is taken from : http://php.net/manual/en/function.parse-str.php#76792 Credits go to Evan K. It bears mentioning that the parse_str builtin does NOT process a query string in the CGI standard way, when it comes to duplicate fields.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
             <link>http://stackoverflow.com/questions/8469767/get-url-query-string</link>
             <guid isPermaLink="false">ebdffa24-89ae-440c-a23e-db7a385f9765</guid>
-            <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Imagine Dragons - Radioactive (Synchronice Dubstep Remix)]]></title>
-            <description><![CDATA[<article><h1>Imagine Dragons - Radioactive (Synchronice Dubstep Remix)</h1><p>Like my Facebook page: http://www.facebook.com/AirwaveDubstepTV Imagine Dragons - Radioactive (Synchronice Dubstep Remix) Synchronice Soundcloud: http://bit.ly/NqIiQj Facebook: http://on.fb.me/170G724 Twitter: https://twitter.com/Synchronice Free Download: http://on.fb.me/1a2kzRk AirwaveMusicTV / AirwaveDubstepTV YouTube: http://www.youtube.com/user/AirwaveDu... Facebook: http://www.facebook.com/AirwaveDubstepTV Soundcloud: http://soundcloud.com/airwavemusictv Donate via PayPal and support my channel: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EM37JYUR88J9A Buy the original here: https://itunes.apple.com/us/music-video/radioactive/id586393326 ℗ 2012 KIDinaKORNER/Interscope Records Info: Send your tracks to AirwaveMusicTV@gmail.com if you want to get featured on my channel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5de037fc7ad8753d5162fb2ee32bd41b9b7552c3.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=ppE2vQ6GEFI&amp;list=FLKQysIVt_7-7SIildPHS-Zg&amp;index=1</link>
-            <guid isPermaLink="false">070322d3-406b-44ab-8ac4-23bc3ed9204c</guid>
-            <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitbucket Tutorials: Teams in Space Training Ground - Atlassian Documentation]]></title>
-            <description><![CDATA[<article><h1>Bitbucket Tutorials: Teams in Space Training Ground - Atlassian Documentation</h1><p>Bitbucket Tutorials: Teams in Space Training Ground</p></article>]]></description>
-            <link>https://confluence.atlassian.com/bitbucket/bitbucket-tutorials-teams-in-space-training-ground-755338051.html</link>
-            <guid isPermaLink="false">e0d561a5-9792-43ce-86dd-2cc7571c3dee</guid>
             <pubDate>Fri, 22 Apr 2016 14:58:32 GMT</pubDate>
         </item>
     </channel>
