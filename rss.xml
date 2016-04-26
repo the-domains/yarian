@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 04:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 04:17:53 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handling ranges with switch in PHP]]></title>
+            <description><![CDATA[<article><h1>Handling ranges with switch in PHP</h1><p>Conditional code exection is one of the most important features in programming languages. Therefore most, not to say all, languages provide the if construct. If there are many conditions you can of course use as many if statements but for this case the switch construct is what you're looking for, which is shown in the first code example.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3704cc1e48620441f83155637100c6ba3af2a5da.png"></article>]]></description>
+            <link>http://slopjong.de/2013/06/11/handling-ranges-with-switch-in-php/</link>
+            <guid isPermaLink="false">9e719c15-634f-4c3b-91fd-eee38f08a0d3</guid>
+            <pubDate>Tue, 26 Apr 2016 04:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HipChat Integration - LogicMonitor]]></title>
+            <description><![CDATA[<article><h1>HipChat Integration - LogicMonitor</h1><p>Group Chat Tools, such as HipChat have been adopted by many companies for communication management. It is straightforward to configure LogicMonitor to deliver alerts to group chat rooms via a Custom HTTP Alert Delivery Method. A good use of this integration is to both avoid email alert overload, and to increase responsiveness to an alert.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8ba3d9af00c1198f02f98f9f7f1111a59047294.png"></article>]]></description>
+            <link>http://www.logicmonitor.com/support/settings/integrations/hipchat-integration/</link>
+            <guid isPermaLink="false">17d838c3-7ca4-4d4d-ad03-58533d8ca2ae</guid>
+            <pubDate>Tue, 26 Apr 2016 04:17:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Entheogenic Awakening [ Psybient, Downtempo & Deep Trance Mix ]]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>mysql_data_seek</h1><p>(PHP 4, PHP 5) mysql_data_seek - Move internal result pointer Warning This extension was deprecated in PHP 5.5.0, and it was removed in PHP 7.0.0. Instead, the MySQLi or PDO_MySQL extension should be used. See also MySQL: choosing an API guide and related FAQ for more information.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85f3fbfc9d5c0509a54b06f64674266fd8de79e3.png"></article>]]></description>
             <link>http://ca2.php.net/manual/en/function.mysql-data-seek.php</link>
             <guid isPermaLink="false">9aa5684a-228e-4897-906c-6612f773403d</guid>
-            <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MySQL :: MySQL 5.7 Reference Manual :: 13.10 Cast Functions and Operators]]></title>
-            <description><![CDATA[<article><h1>MySQL :: MySQL 5.7 Reference Manual :: 13.10 Cast Functions and Operators</h1><p>MySQL supports arithmetic with both signed and unsigned 64-bit values. If you are using numeric operators (such as or ) and one of the operands is an unsigned integer, the result is unsigned by default (see Section 13.6.1, "Arithmetic Operators").</p></article>]]></description>
-            <link>http://dev.mysql.com/doc/refman/5.7/en/cast-functions.html</link>
-            <guid isPermaLink="false">b2174dec-8d24-4675-9873-0f2be6cdb2f2</guid>
-            <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mysql_free_result]]></title>
-            <description><![CDATA[<article><h1>mysql_free_result</h1><p>(PHP 4, PHP 5) mysql_free_result - Free result memory Warning This extension was deprecated in PHP 5.5.0, and it was removed in PHP 7.0.0. Instead, the MySQLi or PDO_MySQL extension should be used. See also MySQL: choosing an API guide and related FAQ for more information.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c11c4adc9286ab44dfbfe0c90bb04b8945c106fa.png"></article>]]></description>
-            <link>http://php.net/manual/en/function.mysql-free-result.php</link>
-            <guid isPermaLink="false">639a66fe-51d0-4a28-b9d8-5975f9d63d98</guid>
             <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
         </item>
     </channel>
