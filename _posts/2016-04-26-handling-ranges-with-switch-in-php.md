@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://slopjong.de/2013/06/11/handling-ranges-with-switch-in-php/'
 title: Handling ranges with switch in PHP
-datePublished: '2016-04-26T04:17:20.924Z'
-dateModified: '2016-04-25T05:21:12.915Z'
+datePublished: '2016-04-26T04:17:21.005Z'
+dateModified: '2016-04-25T04:25:09.934Z'
 starred: false
 sourcePath: _posts/2016-04-26-handling-ranges-with-switch-in-php.md
 published: true
