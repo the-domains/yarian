@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 04:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 04:18:04 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -64,7 +64,7 @@
         </item>
         <item>
             <title><![CDATA[General Design Principles]]></title>
-            <description><![CDATA[<article><h1>General Design Principles</h1><p>Form designing can be divided into 3 stages: Adding the needed controls. Setting their properties. Saving the configuration. To add controls to form you should simply drag and drop them from the Controls pane onto your workspace.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f54694fa6e02389f92863c333fa0626446e8c06.png"></article>]]></description>
+            <description><![CDATA[<article><h1>General Design Principles</h1><p>Form designing can be divided into 3 stages: Adding the needed controls. Setting their properties. Saving the configuration. To add controls to form you should simply drag and drop them from the Controls pane onto your workspace.</p><img src="http://docs.dhtmlx.com/media/designer/form_step_2_1.png"></article>]]></description>
             <link>http://docs.dhtmlx.com/designer__principles.html</link>
             <guid isPermaLink="false">7a0bab2b-0642-4db8-8f80-5e277883f5ae</guid>
             <pubDate>Tue, 26 Apr 2016 04:17:20 GMT</pubDate>
