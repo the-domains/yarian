@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 04:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 04:17:59 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myth-busters: Hotel Wi-Fi Edition [INFOGRAPHIC]]]></title>
-            <description><![CDATA[<article><h1>Myth-busters: Hotel Wi-Fi Edition [INFOGRAPHIC]</h1><p>This hotel Wi-Fi infographic will give you all the information you need on managing your hotel's Wi-Fi and improving the guest experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65b746844e437433b0b5828ba395f1994da3cdad.png"></article>]]></description>
-            <link>http://blog.elevenwireless.com/blog/myth-busters-hotel-wi-fi-edition-infographic?utm_content=26856081&amp;utm_medium=social&amp;utm_source=linkedin</link>
-            <guid isPermaLink="false">1ba6ffcc-2fe7-4e9c-b001-c97688b4c656</guid>
-            <pubDate>Tue, 26 Apr 2016 04:17:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Handling ranges with switch in PHP]]></title>
@@ -63,18 +56,25 @@
             <pubDate>Tue, 26 Apr 2016 04:17:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[General Design Principles]]></title>
-            <description><![CDATA[<article><h1>General Design Principles</h1><p>Form designing can be divided into 3 stages: Adding the needed controls. Setting their properties. Saving the configuration. To add controls to form you should simply drag and drop them from the Controls pane onto your workspace.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f54694fa6e02389f92863c333fa0626446e8c06.png"></article>]]></description>
-            <link>http://docs.dhtmlx.com/designer__principles.html</link>
-            <guid isPermaLink="false">7a0bab2b-0642-4db8-8f80-5e277883f5ae</guid>
+            <title><![CDATA[DHTMLX Docs]]></title>
+            <description><![CDATA[<article><h1>DHTMLX Docs</h1></article>]]></description>
+            <link>http://docs.dhtmlx.com/search.php?query=global+settings</link>
+            <guid isPermaLink="false">15077a76-83cd-425a-b233-03fe068558d0</guid>
             <pubDate>Tue, 26 Apr 2016 04:17:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SpreadSheet DHTMLX Docs]]></title>
-            <description><![CDATA[<article><h1>SpreadSheet DHTMLX Docs</h1><p>SpreadSheet is a classic spreadsheet allowing you to deal with data online quickly and easily: flexible presentation, support for formulas and hot keys, export to PDF and Excel, etc.</p><img src="http://docs.dhtmlx.com/media/spreadsheet/spreadsheet_front_image.png"></article>]]></description>
-            <link>http://docs.dhtmlx.com/spreadsheet__index.html</link>
-            <guid isPermaLink="false">3f180fa7-139c-4ec3-bef0-1347ad80ae42</guid>
-            <pubDate>Tue, 26 Apr 2016 04:17:20 GMT</pubDate>
+            <title><![CDATA[The Dark Sky Forecast API Docs]]></title>
+            <description><![CDATA[<article><h1>The Dark Sky Forecast API Docs</h1><p>22 Apr 2016: Added Belarusian and Indonesian to the list of supported languages. 22 Feb 2016: Added Norwegian Bokmål to the list of supported languages. 9 Feb 2016: Added Cornish and Icelandic to the list of supported languages. 3 Feb 2016: Added Czech, Hungarian, and Serbian to the list of supported languages.</p></article>]]></description>
+            <link>https://developer.forecast.io/docs/v2</link>
+            <guid isPermaLink="false">a0a32a46-3170-43ea-a17a-95ae10f1b947</guid>
+            <pubDate>Sun, 24 Apr 2016 22:19:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[strtotime]]></title>
+            <description><![CDATA[<article><h1>strtotime</h1><p>(PHP 4, PHP 5, PHP 7) strtotime - Parse about any English textual datetime description into a Unix timestamp The function expects to be given a string containing an English date format and will try to parse that format into a Unix timestamp (the number of seconds since January 1 1970 00:00:00 UTC), relative to the timestamp given in now, or the current time if now is not supplied.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c11c4adc9286ab44dfbfe0c90bb04b8945c106fa.png"></article>]]></description>
+            <link>http://php.net/manual/en/function.strtotime.php</link>
+            <guid isPermaLink="false">009d4714-ec4c-472a-91ea-4e7329aa6af5</guid>
+            <pubDate>Sun, 24 Apr 2016 22:19:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
