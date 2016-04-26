@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 04:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 04:17:21 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Initializing Grid from HTML]]></title>
-            <description><![CDATA[<article><h1>Initializing Grid from HTML</h1><p>dhtmlxGrid can be initialized from an HTML markup. This allows you to convert an existing HTML table (with the data in it) into a DHTMLX's grid. To convert an HTML table into a DHTMLX grid: The alternative way to convert an HTML table into a DHTMLX grid is to use a special CSS class with the name "dhtmlxGrid".</p></article>]]></description>
-            <link>http://docs.dhtmlx.com/grid__htmlinit.html</link>
-            <guid isPermaLink="false">c18dfef3-54fe-4527-b086-7e6fac99257a</guid>
-            <pubDate>Tue, 26 Apr 2016 04:17:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DHTMLX Docs]]></title>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Reset a MySQL Recordset with PHP | Digipiph</h1><p>When you run a recordset through a loop, you will not be able to re-run the recordset further down in the same page. Here is how to reset the recordset so you can use it again on the same page. Just place this code after your loop.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f28e87f991f15b0bbf543711abdea8de7bb2623.png"></article>]]></description>
             <link>http://digipiph.com/blog/reset-mysql-recordset-php</link>
             <guid isPermaLink="false">d1b100d4-8df3-4376-9499-b956597666e5</guid>
+            <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[alternatives to phpmyadmin - Google Search]]></title>
+            <description><![CDATA[<article><h1>alternatives to phpmyadmin - Google Search</h1></article>]]></description>
+            <link>https://www.google.com/search?sourceid=chrome-psyapi2&amp;ion=1&amp;espv=2&amp;ie=UTF-8&amp;q=alternatives%20to%20phpmyadmin&amp;oq=alternatives%20to%20phpmyadmin&amp;rlz=1C1CHFX_enUS660US660&amp;aqs=chrome..69i57j0l3.4202j0j7</link>
+            <guid isPermaLink="false">f4b9e5f8-dbb2-4344-978d-51dbb69ae338</guid>
             <pubDate>Sun, 24 Apr 2016 22:18:25 GMT</pubDate>
         </item>
     </channel>
