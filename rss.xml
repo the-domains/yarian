@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 18:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 18:19:14 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Installing MAAS - MAAS dev documentation]]></title>
-            <description><![CDATA[<article><h1>Installing MAAS - MAAS dev documentation</h1><p>Installing MAAS from packages is straightforward. There are actually several packages that go into making up a working MAAS install, but for convenience, many of these have been gathered into a virtual package called 'maas' which will install the necessary components for a 'seed cloud', that is a single server that will directly control a group of nodes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4926266ae2a8caf9e3171fa0c54198e4c5b62db9.png"></article>]]></description>
-            <link>https://maas.ubuntu.com/docs/install.html</link>
-            <guid isPermaLink="false">91b13fad-a570-469e-85b4-c4be2123ab29</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MAAS Setup: Deploying OpenStack on MAAS 1.9+ with Juju]]></title>
@@ -32,13 +25,6 @@
             <description><![CDATA[<article><h1>How To Set Up A Load-Balanced MySQL Cluster</h1><p>This tutorial shows how to configure a MySQL 5 cluster with three nodes: two storage nodes and one management node. This cluster is load-balanced by a high-availability load balancer that in fact has two nodes that use the Ultra Monkey package which provides heartbeat (for checking if the other node is still alive) and ldirectord (to split up the requests to the nodes of the MySQL cluster).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/290c2ffd7bdb1628d5b90df0c83f14e3eb97c8d0.png"></article>]]></description>
             <link>https://www.howtoforge.com/loadbalanced_mysql_cluster_debian</link>
             <guid isPermaLink="false">175275c6-a313-4cce-a570-c78eedb74c62</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adding nodes to the system - MAAS dev documentation]]></title>
-            <description><![CDATA[<article><h1>Adding nodes to the system - MAAS dev documentation</h1><p>Now that the MAAS controller is running, we need to make the nodes aware of MAAS and vice-versa. If you have set up DHCP correctly, and your nodes can boot via PXE then things really couldn't be much easier and you can use the automatic discovery procedure .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b441fbdf0bbe7e9b11fd582575e140f78d7e102.png"></article>]]></description>
-            <link>https://maas.ubuntu.com/docs/nodes.html</link>
-            <guid isPermaLink="false">d521c312-420d-410e-84c2-84b57623efe9</guid>
             <pubDate>Wed, 27 Apr 2016 18:18:55 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>HipChat Integration - LogicMonitor</h1><p>Group Chat Tools, such as HipChat have been adopted by many companies for communication management. It is straightforward to configure LogicMonitor to deliver alerts to group chat rooms via a Custom HTTP Alert Delivery Method. A good use of this integration is to both avoid email alert overload, and to increase responsiveness to an alert.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8ba3d9af00c1198f02f98f9f7f1111a59047294.png"></article>]]></description>
             <link>http://www.logicmonitor.com/support/settings/integrations/hipchat-integration/</link>
             <guid isPermaLink="false">17d838c3-7ca4-4d4d-ad03-58533d8ca2ae</guid>
+            <pubDate>Tue, 26 Apr 2016 04:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Entheogenic Awakening [ Psybient, Downtempo & Deep Trance Mix ]]]></title>
+            <description><![CDATA[<article><h1>Entheogenic Awakening [ Psybient, Downtempo & Deep Trance Mix ]</h1><p>For those who can't see the video in their country you can listen to this mix here on MixCloud https://www.mixcloud.com/Hu_Go/entheogenic-awakening-psybient-downtempo-deep-trance-mix/ Hi everybody ! After my last world music mix, I come back with a psybient mix. Hope you'll enjoy !</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b72923b7bc8d300c15cf121c288ecae985bf9887.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=xstg-lqin4k</link>
+            <guid isPermaLink="false">7e3f7384-bd72-4f5a-820e-44658c67cddc</guid>
+            <pubDate>Tue, 26 Apr 2016 04:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Initializing Grid from HTML]]></title>
+            <description><![CDATA[<article><h1>Initializing Grid from HTML</h1><p>dhtmlxGrid can be initialized from an HTML markup. This allows you to convert an existing HTML table (with the data in it) into a DHTMLX's grid. To convert an HTML table into a DHTMLX grid: The alternative way to convert an HTML table into a DHTMLX grid is to use a special CSS class with the name "dhtmlxGrid".</p></article>]]></description>
+            <link>http://docs.dhtmlx.com/grid__htmlinit.html</link>
+            <guid isPermaLink="false">c18dfef3-54fe-4527-b086-7e6fac99257a</guid>
             <pubDate>Tue, 26 Apr 2016 04:17:20 GMT</pubDate>
         </item>
     </channel>
