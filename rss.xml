@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 04:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 18:19:14 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,34 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MAAS Setup: Deploying OpenStack on MAAS 1.9+ with Juju]]></title>
+            <description><![CDATA[<article><h1>MAAS Setup: Deploying OpenStack on MAAS 1.9+ with Juju</h1><p>This is part 3 of my new "Deploying OpenStack on MAAS 1.9+ with Juju" series. It follows up my last post Hardware Setup: Deploying OpenStack on MAAS 1.9+ with Juju. I planned to write this post almost 2 months ago, and I know some readers were expecting it eagerly, so I apologize for the delay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccb84ab4e2cd87690abf4fdbd6816341ee7e24f5.png"></article>]]></description>
+            <link>https://insights.ubuntu.com/2016/01/23/maas-setup-deploying-openstack-on-maas-1-9-with-juju/</link>
+            <guid isPermaLink="false">152fe98e-2353-4157-9378-ffe8ff40be9d</guid>
+            <pubDate>Wed, 27 Apr 2016 18:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Set Up A Load-Balanced MySQL Cluster]]></title>
+            <description><![CDATA[<article><h1>How To Set Up A Load-Balanced MySQL Cluster</h1><p>This tutorial shows how to configure a MySQL 5 cluster with three nodes: two storage nodes and one management node. This cluster is load-balanced by a high-availability load balancer that in fact has two nodes that use the Ultra Monkey package which provides heartbeat (for checking if the other node is still alive) and ldirectord (to split up the requests to the nodes of the MySQL cluster).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/290c2ffd7bdb1628d5b90df0c83f14e3eb97c8d0.png"></article>]]></description>
+            <link>https://www.howtoforge.com/loadbalanced_mysql_cluster_debian</link>
+            <guid isPermaLink="false">175275c6-a313-4cce-a570-c78eedb74c62</guid>
+            <pubDate>Wed, 27 Apr 2016 18:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adding nodes to the system - MAAS dev documentation]]></title>
+            <description><![CDATA[<article><h1>Adding nodes to the system - MAAS dev documentation</h1><p>Now that the MAAS controller is running, we need to make the nodes aware of MAAS and vice-versa. If you have set up DHCP correctly, and your nodes can boot via PXE then things really couldn't be much easier and you can use the automatic discovery procedure .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b441fbdf0bbe7e9b11fd582575e140f78d7e102.png"></article>]]></description>
+            <link>https://maas.ubuntu.com/docs/nodes.html</link>
+            <guid isPermaLink="false">d521c312-420d-410e-84c2-84b57623efe9</guid>
+            <pubDate>Wed, 27 Apr 2016 18:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Myth-busters: Hotel Wi-Fi Edition [INFOGRAPHIC]]]></title>
+            <description><![CDATA[<article><h1>Myth-busters: Hotel Wi-Fi Edition [INFOGRAPHIC]</h1><p>This hotel Wi-Fi infographic will give you all the information you need on managing your hotel's Wi-Fi and improving the guest experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65b746844e437433b0b5828ba395f1994da3cdad.png"></article>]]></description>
+            <link>http://blog.elevenwireless.com/blog/myth-busters-hotel-wi-fi-edition-infographic?utm_content=26856081&amp;utm_medium=social&amp;utm_source=linkedin</link>
+            <guid isPermaLink="false">1ba6ffcc-2fe7-4e9c-b001-c97688b4c656</guid>
+            <pubDate>Tue, 26 Apr 2016 04:17:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Handling ranges with switch in PHP]]></title>
@@ -47,34 +75,6 @@
             <link>https://www.youtube.com/watch?v=xstg-lqin4k</link>
             <guid isPermaLink="false">7e3f7384-bd72-4f5a-820e-44658c67cddc</guid>
             <pubDate>Tue, 26 Apr 2016 04:17:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Initializing Grid from HTML]]></title>
-            <description><![CDATA[<article><h1>Initializing Grid from HTML</h1><p>dhtmlxGrid can be initialized from an HTML markup. This allows you to convert an existing HTML table (with the data in it) into a DHTMLX's grid. To convert an HTML table into a DHTMLX grid: The alternative way to convert an HTML table into a DHTMLX grid is to use a special CSS class with the name "dhtmlxGrid".</p></article>]]></description>
-            <link>http://docs.dhtmlx.com/grid__htmlinit.html</link>
-            <guid isPermaLink="false">c18dfef3-54fe-4527-b086-7e6fac99257a</guid>
-            <pubDate>Tue, 26 Apr 2016 04:17:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DHTMLX Docs]]></title>
-            <description><![CDATA[<article><h1>DHTMLX Docs</h1></article>]]></description>
-            <link>http://docs.dhtmlx.com/search.php?query=global+settings</link>
-            <guid isPermaLink="false">15077a76-83cd-425a-b233-03fe068558d0</guid>
-            <pubDate>Tue, 26 Apr 2016 04:17:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Dark Sky Forecast API Docs]]></title>
-            <description><![CDATA[<article><h1>The Dark Sky Forecast API Docs</h1><p>22 Apr 2016: Added Belarusian and Indonesian to the list of supported languages. 22 Feb 2016: Added Norwegian Bokmål to the list of supported languages. 9 Feb 2016: Added Cornish and Icelandic to the list of supported languages. 3 Feb 2016: Added Czech, Hungarian, and Serbian to the list of supported languages.</p></article>]]></description>
-            <link>https://developer.forecast.io/docs/v2</link>
-            <guid isPermaLink="false">a0a32a46-3170-43ea-a17a-95ae10f1b947</guid>
-            <pubDate>Sun, 24 Apr 2016 22:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[strtotime]]></title>
-            <description><![CDATA[<article><h1>strtotime</h1><p>(PHP 4, PHP 5, PHP 7) strtotime - Parse about any English textual datetime description into a Unix timestamp The function expects to be given a string containing an English date format and will try to parse that format into a Unix timestamp (the number of seconds since January 1 1970 00:00:00 UTC), relative to the timestamp given in now, or the current time if now is not supplied.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c11c4adc9286ab44dfbfe0c90bb04b8945c106fa.png"></article>]]></description>
-            <link>http://php.net/manual/en/function.strtotime.php</link>
-            <guid isPermaLink="false">009d4714-ec4c-472a-91ea-4e7329aa6af5</guid>
-            <pubDate>Sun, 24 Apr 2016 22:19:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
