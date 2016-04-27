@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 18:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 18:19:44 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -18,13 +18,6 @@
             <description><![CDATA[<article><h1>Instructions | Dotdeb</h1><p>Run apt-get update. You should now be able to install the Dotdeb packages you want with apt-get (or dselect, or aptitude as well...)</p></article>]]></description>
             <link>https://www.dotdeb.org/instructions/</link>
             <guid isPermaLink="false">018a3fba-89a6-4956-b0eb-251a4a84b6c9</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.beeswebdesign.com/images/index_07.gif">]]></description>
-            <link>http://www.yarian.com/1f0a6839-335f-4c0b-8f15-af86818686af/index.html</link>
-            <guid isPermaLink="false">1f0a6839-335f-4c0b-8f15-af86818686af</guid>
             <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Myth-busters: Hotel Wi-Fi Edition [INFOGRAPHIC]</h1><p>This hotel Wi-Fi infographic will give you all the information you need on managing your hotel's Wi-Fi and improving the guest experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65b746844e437433b0b5828ba395f1994da3cdad.png"></article>]]></description>
             <link>http://blog.elevenwireless.com/blog/myth-busters-hotel-wi-fi-edition-infographic?utm_content=26856081&amp;utm_medium=social&amp;utm_source=linkedin</link>
             <guid isPermaLink="false">1ba6ffcc-2fe7-4e9c-b001-c97688b4c656</guid>
+            <pubDate>Tue, 26 Apr 2016 04:17:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handling ranges with switch in PHP]]></title>
+            <description><![CDATA[<article><h1>Handling ranges with switch in PHP</h1><p>Conditional code exection is one of the most important features in programming languages. Therefore most, not to say all, languages provide the if construct. If there are many conditions you can of course use as many if statements but for this case the switch construct is what you're looking for, which is shown in the first code example.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3704cc1e48620441f83155637100c6ba3af2a5da.png"></article>]]></description>
+            <link>http://slopjong.de/2013/06/11/handling-ranges-with-switch-in-php/</link>
+            <guid isPermaLink="false">827fb797-90d5-4e06-9e51-3e979f2e4362</guid>
             <pubDate>Tue, 26 Apr 2016 04:17:21 GMT</pubDate>
         </item>
     </channel>
