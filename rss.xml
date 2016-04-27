@@ -21,6 +21,13 @@
             <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Recently Active &#39;phpmyadmin&#39; Questions]]></title>
+            <description><![CDATA[<article><h1>Recently Active &#39;phpmyadmin&#39; Questions</h1><p>Q&A for Ubuntu users and developers</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e08e1ffd00063338d06d46eb49eaafd8f752cbca.png"></article>]]></description>
+            <link>http://askubuntu.com/questions/tagged/phpmyadmin?sort=active&amp;pageSize=50</link>
+            <guid isPermaLink="false">5cd00f3a-1942-4f43-9634-cab8a0342558</guid>
+            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Instructions | Dotdeb]]></title>
             <description><![CDATA[<article><h1>Instructions | Dotdeb</h1><p>Run apt-get update. You should now be able to install the Dotdeb packages you want with apt-get (or dselect, or aptitude as well...)</p></article>]]></description>
             <link>https://www.dotdeb.org/instructions/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How To Set Up A Load-Balanced MySQL Cluster</h1><p>This tutorial shows how to configure a MySQL 5 cluster with three nodes: two storage nodes and one management node. This cluster is load-balanced by a high-availability load balancer that in fact has two nodes that use the Ultra Monkey package which provides heartbeat (for checking if the other node is still alive) and ldirectord (to split up the requests to the nodes of the MySQL cluster).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/290c2ffd7bdb1628d5b90df0c83f14e3eb97c8d0.png"></article>]]></description>
             <link>https://www.howtoforge.com/loadbalanced_mysql_cluster_debian</link>
             <guid isPermaLink="false">175275c6-a313-4cce-a570-c78eedb74c62</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adding nodes to the system - MAAS dev documentation]]></title>
-            <description><![CDATA[<article><h1>Adding nodes to the system - MAAS dev documentation</h1><p>Now that the MAAS controller is running, we need to make the nodes aware of MAAS and vice-versa. If you have set up DHCP correctly, and your nodes can boot via PXE then things really couldn't be much easier and you can use the automatic discovery procedure .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b441fbdf0bbe7e9b11fd582575e140f78d7e102.png"></article>]]></description>
-            <link>https://maas.ubuntu.com/docs/nodes.html</link>
-            <guid isPermaLink="false">d521c312-420d-410e-84c2-84b57623efe9</guid>
             <pubDate>Wed, 27 Apr 2016 18:18:55 GMT</pubDate>
         </item>
     </channel>
