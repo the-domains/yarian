@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 18:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 18:19:43 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,41 +12,6 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Redirect IP address to Domain name Apache | DigitalOcean]]></title>
-            <description><![CDATA[<article><h1>Redirect IP address to Domain name Apache | DigitalOcean</h1><p>Hello! Since I might host several static websites on the same droplet I've used apache's virtual host. As a result, in my /var/www I have folders that correspond the domain name. For example: /var/www/example.com/public and /var/www/another.com/public. in my sites-available (/etc/apache2/sites-available) I have: * 000-default.conf * default-ssl.conf * example.com.conf * another.com.conf example.com.conf and another.com.conf are configured just fine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fdd6808e157dec0643175aeff2952434dc79107.png"></article>]]></description>
-            <link>https://www.digitalocean.com/community/questions/redirect-ip-address-to-domain-name-apache</link>
-            <guid isPermaLink="false">0a7f5e39-555f-4809-a44d-a2545fee5e23</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recently Active &#39;phpmyadmin&#39; Questions]]></title>
-            <description><![CDATA[<article><h1>Recently Active &#39;phpmyadmin&#39; Questions</h1><p>Q&A for Ubuntu users and developers</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e08e1ffd00063338d06d46eb49eaafd8f752cbca.png"></article>]]></description>
-            <link>http://askubuntu.com/questions/tagged/phpmyadmin?sort=active&amp;pageSize=50</link>
-            <guid isPermaLink="false">5cd00f3a-1942-4f43-9634-cab8a0342558</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Instructions | Dotdeb]]></title>
-            <description><![CDATA[<article><h1>Instructions | Dotdeb</h1><p>Run apt-get update. You should now be able to install the Dotdeb packages you want with apt-get (or dselect, or aptitude as well...)</p></article>]]></description>
-            <link>https://www.dotdeb.org/instructions/</link>
-            <guid isPermaLink="false">018a3fba-89a6-4956-b0eb-251a4a84b6c9</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.beeswebdesign.com/images/index_07.gif">]]></description>
-            <link>http://www.yarian.com/1f0a6839-335f-4c0b-8f15-af86818686af/index.html</link>
-            <guid isPermaLink="false">1f0a6839-335f-4c0b-8f15-af86818686af</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Re-introducing PDO: the Right Way to Access Databases]]></title>
-            <description><![CDATA[<article><h1>Re-introducing PDO: the Right Way to Access Databases</h1><p>PDO is the acronym of PHP Data Objects. As the name implies, this extension gives you the ability to interact with your database through objects. The very valid question people ask when confronted by a new technology is simply, why should they upgrade?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/358406908bed69b4ebad87742ba7bf8ac22ed7c1.jpg"></article>]]></description>
-            <link>http://www.sitepoint.com/re-introducing-pdo-the-right-way-to-access-databases-in-php/</link>
-            <guid isPermaLink="false">838c83e6-eec1-413e-9694-220e25175a81</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MAAS | Get started]]></title>
@@ -75,6 +40,41 @@
             <link>https://www.howtoforge.com/loadbalanced_mysql_cluster_debian</link>
             <guid isPermaLink="false">175275c6-a313-4cce-a570-c78eedb74c62</guid>
             <pubDate>Wed, 27 Apr 2016 18:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adding nodes to the system - MAAS dev documentation]]></title>
+            <description><![CDATA[<article><h1>Adding nodes to the system - MAAS dev documentation</h1><p>Now that the MAAS controller is running, we need to make the nodes aware of MAAS and vice-versa. If you have set up DHCP correctly, and your nodes can boot via PXE then things really couldn't be much easier and you can use the automatic discovery procedure .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b441fbdf0bbe7e9b11fd582575e140f78d7e102.png"></article>]]></description>
+            <link>https://maas.ubuntu.com/docs/nodes.html</link>
+            <guid isPermaLink="false">d521c312-420d-410e-84c2-84b57623efe9</guid>
+            <pubDate>Wed, 27 Apr 2016 18:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Myth-busters: Hotel Wi-Fi Edition [INFOGRAPHIC]]]></title>
+            <description><![CDATA[<article><h1>Myth-busters: Hotel Wi-Fi Edition [INFOGRAPHIC]</h1><p>This hotel Wi-Fi infographic will give you all the information you need on managing your hotel's Wi-Fi and improving the guest experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65b746844e437433b0b5828ba395f1994da3cdad.png"></article>]]></description>
+            <link>http://blog.elevenwireless.com/blog/myth-busters-hotel-wi-fi-edition-infographic?utm_content=26856081&amp;utm_medium=social&amp;utm_source=linkedin</link>
+            <guid isPermaLink="false">1ba6ffcc-2fe7-4e9c-b001-c97688b4c656</guid>
+            <pubDate>Tue, 26 Apr 2016 04:17:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handling ranges with switch in PHP]]></title>
+            <description><![CDATA[<article><h1>Handling ranges with switch in PHP</h1><p>Conditional code exection is one of the most important features in programming languages. Therefore most, not to say all, languages provide the if construct. If there are many conditions you can of course use as many if statements but for this case the switch construct is what you're looking for, which is shown in the first code example.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3704cc1e48620441f83155637100c6ba3af2a5da.png"></article>]]></description>
+            <link>http://slopjong.de/2013/06/11/handling-ranges-with-switch-in-php/</link>
+            <guid isPermaLink="false">827fb797-90d5-4e06-9e51-3e979f2e4362</guid>
+            <pubDate>Tue, 26 Apr 2016 04:17:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DOW Electronics Announces Plans to Acquire Distribution Rights and Assets of dB South Distributing - 12 Volt News - Fresh Industry News Since 1994]]></title>
+            <description><![CDATA[<article><h1>DOW Electronics Announces Plans to Acquire Distribution Rights and Assets of dB South Distributing - 12 Volt News - Fresh Industry News Since 1994</h1><p>TAMPA, FL (04.19.2016) - DOW Electronics has reached an agreement with dB South Distributing to acquire certain assets and obtain distribution rights to key product lines and territories of Marietta, GA based dB South Distributing. The parties are working toward a definitive agreement and closing ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8a5fd69d5fd00e205726e8ae025d7dd6e931783.jpg"></article>]]></description>
+            <link>http://www.12voltnews.com/2016/04/18/dow-electronics-announces-plans-acquire-distribution-rights-assets-db-south-distributing/</link>
+            <guid isPermaLink="false">24068f29-edbc-4c80-824b-b03be65d92e0</guid>
+            <pubDate>Tue, 26 Apr 2016 04:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handling ranges with switch in PHP]]></title>
+            <description><![CDATA[<article><h1>Handling ranges with switch in PHP</h1><p>Conditional code exection is one of the most important features in programming languages. Therefore most, not to say all, languages provide the if construct. If there are many conditions you can of course use as many if statements but for this case the switch construct is what you're looking for, which is shown in the first code example.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3704cc1e48620441f83155637100c6ba3af2a5da.png"></article>]]></description>
+            <link>http://slopjong.de/2013/06/11/handling-ranges-with-switch-in-php/</link>
+            <guid isPermaLink="false">9e719c15-634f-4c3b-91fd-eee38f08a0d3</guid>
+            <pubDate>Tue, 26 Apr 2016 04:17:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
