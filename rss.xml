@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 23:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 23:34:04 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,48 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enable MySQL's slow query log without a restart]]></title>
+            <description><![CDATA[<article><h1>Enable MySQL's slow query log without a restart</h1><p>You're debugging a MySQL server and want to enable the Slow Query, you can do so via the MySQL CLI. There's no need to make changes to the my.cnf file and restart your MySQL service -- even though that would also work. Log in to the MySQL CLI via mysql.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2468ec7ba15c2d5464d6d4cebd04bdfe63d0f177.png"></article>]]></description>
+            <link>https://ma.ttias.be/mysql-slow-query-log-without-restart/</link>
+            <guid isPermaLink="false">479d7a7f-fbad-4c06-b9f3-1dcbcd225eaf</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MySQL general query log performance effects]]></title>
+            <description><![CDATA[<article><h1>MySQL general query log performance effects</h1><p>One of our customers who has a somewhat problematic web application would like us to log all the queries for a period of 24 hours. I wouldn't know how much data it will actually write. The amount</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01cb34c90455e3dd9442cb5048a715a3a058d2a2.png"></article>]]></description>
+            <link>http://dba.stackexchange.com/questions/8359/mysql-general-query-log-performance-effects/8382#8382</link>
+            <guid isPermaLink="false">06a0e1f0-aadb-4afe-8ba9-67e1794dd142</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solving INFORMATION_SCHEMA slowness]]></title>
+            <description><![CDATA[<article><h1>Solving INFORMATION_SCHEMA slowness</h1><p>Many of us find INFORMATION_SCHEMA painfully slow to work it when it comes to retrieving table meta data. Many people resort to using file system tools instead to find for example how much space innodb tables are using and things like it. Besides being just slow accessing information_schema can often impact server performance dramatically.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
+            <link>https://www.percona.com/blog/2011/12/23/solving-information_schema-slowness/</link>
+            <guid isPermaLink="false">7f7724b0-2fc8-4e95-a3a6-e58982071ef6</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mysql 'show table status' via select]]></title>
+            <description><![CDATA[<article><h1>mysql 'show table status' via select</h1><p>Just squirrelling this one away. The 'show table status' command is pretty cool, but sometimes I want to limit the amount of columns that are returned, or do something else like create ALTER TABLE commands to change the storage engine. Just realized that the same information in 'show table status' is in the information_schema.tables table....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
+            <link>https://creechy.wordpress.com/2011/04/13/mysql-show-table-status-via-select/</link>
+            <guid isPermaLink="false">b04e4e21-a26f-4869-ac51-b4302739b511</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MySQL Bugs: #19588: INFORMATION_SCHEMA performs much too slow on large servers]]></title>
+            <description><![CDATA[<article><h1>MySQL Bugs: #19588: INFORMATION_SCHEMA performs much too slow on large servers</h1><p>Thank you for the bug report. I created 5500 databases and 15 tables for each databases (see C application at the bottom) starting the servers with their defaults values. I was unable to get the message error: RROR 2013 (HY000): Lost connection to MySQL server during query; However I got enough information regarding the performance: miguel@hegel:~/dbs/5.1> bin/mysql -uroot Welcome to the MySQL monitor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7ba2356793bf395b7947bb50b85ad247e012f2.gif"></article>]]></description>
+            <link>https://bugs.mysql.com/bug.php?id=19588</link>
+            <guid isPermaLink="false">1f95ecbd-7c9f-4def-8f17-75cdbaf64dde</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enable MySQL's slow query log without a restart]]></title>
+            <description><![CDATA[<article><h1>Enable MySQL's slow query log without a restart</h1><p>You're debugging a MySQL server and want to enable the Slow Query, you can do so via the MySQL CLI. There's no need to make changes to the my.cnf file and restart your MySQL service -- even though that would also work. Log in to the MySQL CLI via mysql.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2468ec7ba15c2d5464d6d4cebd04bdfe63d0f177.png"></article>]]></description>
+            <link>https://ma.ttias.be/mysql-slow-query-log-without-restart/</link>
+            <guid isPermaLink="false">9e417692-1536-40c4-a43d-552b73d5ba39</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PHP Update Data in MySQL]]></title>
@@ -33,48 +75,6 @@
             <link>https://www.drupal.org/node/157632</link>
             <guid isPermaLink="false">370b54fa-a135-466b-998c-cc2953b4cf5e</guid>
             <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Optimize Queries and Tables in MySQL and MariaDB on a VPS | DigitalOcean]]></title>
-            <description><![CDATA[<article><h1>How To Optimize Queries and Tables in MySQL and MariaDB on a VPS | DigitalOcean</h1><p>MySQL and MariaDB are popular choices for database management systems. Both use the SQL querying language to input and query data. Although SQL queries are simple commands that are easy to learn, not all queries and database functions operate with the same efficiency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fdd6808e157dec0643175aeff2952434dc79107.png"></article>]]></description>
-            <link>https://www.digitalocean.com/community/tutorials/how-to-optimize-queries-and-tables-in-mysql-and-mariadb-on-a-vps</link>
-            <guid isPermaLink="false">686eec78-f363-4beb-855a-99abcf996ff7</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 easy phpMyAdmin tweaks to simplify MySQL administration - Page 2 of 2]]></title>
-            <description><![CDATA[<article><h1>10 easy phpMyAdmin tweaks to simplify MySQL administration - Page 2 of 2</h1><p>January 15, 2015 by Anand By default clicking on the database name on the left takes you to the "Structure" tab of the database. You can customize this by adding one of the lines below at end of /etc/phpmyadmin/config.inc.php. Save, exit, and reload Apache for the settings to take effect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab788988e3fad5e0d630718aab82f7266606101b.png"></article>]]></description>
-            <link>http://www.htpcbeginner.com/phpmyadmin-tweaks-to-simplify-database-administration/2/</link>
-            <guid isPermaLink="false">9ceb7c29-195e-4f96-8769-b61465fc13f0</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MySQL Handler_read_rnd_next == tablescans without indexes?]]></title>
-            <description><![CDATA[<article><h1>MySQL Handler_read_rnd_next == tablescans without indexes?</h1><p>I am in the process of tuning our Percona 5.5 server, and have been using percona's tools to plot our database's performance. In the MySQL Handlers Plot, i have been noticing alot of</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01cb34c90455e3dd9442cb5048a715a3a058d2a2.png"></article>]]></description>
-            <link>http://dba.stackexchange.com/questions/20147/mysql-handler-read-rnd-next-tablescans-without-indexes</link>
-            <guid isPermaLink="false">49ce695e-e835-445c-8044-d02f2de6e358</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MySQL Bugs: #43664: SQLTables is very slow due to SHOW TABLE STATUS]]></title>
-            <description><![CDATA[<article><h1>MySQL Bugs: #43664: SQLTables is very slow due to SHOW TABLE STATUS</h1><p>An entry has been added to the 5.1.7 changelog: The SQLTables() function required approximately two to four minutes to return the list of 400 tables in a database. The SHOW TABLE STATUS query used by SQLTables() was extremely slow for InnoDB tables with a large number of rows because the query was calculating the approximate number of rows in each table.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7ba2356793bf395b7947bb50b85ad247e012f2.gif"></article>]]></description>
-            <link>https://bugs.mysql.com/bug.php?id=43664</link>
-            <guid isPermaLink="false">1dd96563-2ddb-4820-9c3e-d313c829ee65</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Reasons It's Time to Ditch MySQL]]></title>
-            <description><![CDATA[<article><h1>5 Reasons It's Time to Ditch MySQL</h1><p>MySQL is still the most popular open-source database, but it has been losing fans over the years - for good reason. We look at five practical motivations to dump the MySQL database. Back in 2008, MySQL was rapidly growing in popularity when Sun Microsystems bought MySQL AB for approximately a billion bucks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8699fdf4794a8489a92dd8b6c67ec54269615d4a.jpg"></article>]]></description>
-            <link>http://blog.smartbear.com/open-source/5-reasons-its-time-to-ditch-mysql/</link>
-            <guid isPermaLink="false">aae92d62-9f79-4a3f-9551-c220d9fbf92c</guid>
-            <pubDate>Mon, 02 May 2016 14:16:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PHP :: Request #40816 :: Perform multiple OID operations in transaction manner]]></title>
-            <description><![CDATA[<article><h1>PHP :: Request #40816 :: Perform multiple OID operations in transaction manner</h1><p>Perform multiple OID operations in transaction manner</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59ccad9e301864f95f99c5e13d395f92c4f98b3f.gif"></article>]]></description>
-            <link>https://bugs.php.net/bug.php?id=40816</link>
-            <guid isPermaLink="false">c2f012dc-a8ca-46a7-be65-77f52baace6a</guid>
-            <pubDate>Mon, 02 May 2016 14:16:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
