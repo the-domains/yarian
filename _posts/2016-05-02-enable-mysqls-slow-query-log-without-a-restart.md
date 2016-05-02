@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://ma.ttias.be/mysql-slow-query-log-without-restart/'
 title: "Enable MySQL's slow query log without a restart"
-datePublished: '2016-05-02T23:32:53.682Z'
-dateModified: '2016-05-02T19:08:52.814Z'
+datePublished: '2016-05-02T23:32:53.748Z'
+dateModified: '2016-05-02T14:53:23.117Z'
 starred: false
 sourcePath: _posts/2016-05-02-enable-mysqls-slow-query-log-without-a-restart.md
 published: true
