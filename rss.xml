@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 14:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 14:16:59 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Do I Update Ubuntu Linux Softwares Using Command Line?]]></title>
-            <description><![CDATA[<article><h1>How Do I Update Ubuntu Linux Softwares Using Command Line?</h1><p>I have latest version of Ubuntu Linux LTS server. How do I update Ubuntu Linux for security and application fix/upgrades using ssh command line? How can I install updates via command line option? Ubuntu Linux can be upgraded using GUI tools or using traditional command line tools such as: apt-get command - apt-get is the command-line tool for handling packages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0dd13f147ebd94743258f3fca78a7a326a819513.jpg"></article>]]></description>
-            <link>http://www.cyberciti.biz/faq/how-do-i-update-ubuntu-linux-softwares/</link>
-            <guid isPermaLink="false">138359f4-f5c1-4400-8e86-ce8e35cb7f69</guid>
-            <pubDate>Mon, 02 May 2016 14:16:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ubuntu Wiki]]></title>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Recently Active &#39;phpmyadmin&#39; Questions</h1><p>Q&A for Ubuntu users and developers</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e08e1ffd00063338d06d46eb49eaafd8f752cbca.png"></article>]]></description>
             <link>http://askubuntu.com/questions/tagged/phpmyadmin?sort=active&amp;pageSize=50</link>
             <guid isPermaLink="false">5cd00f3a-1942-4f43-9634-cab8a0342558</guid>
+            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Instructions | Dotdeb]]></title>
+            <description><![CDATA[<article><h1>Instructions | Dotdeb</h1><p>Run apt-get update. You should now be able to install the Dotdeb packages you want with apt-get (or dselect, or aptitude as well...)</p></article>]]></description>
+            <link>https://www.dotdeb.org/instructions/</link>
+            <guid isPermaLink="false">018a3fba-89a6-4956-b0eb-251a4a84b6c9</guid>
             <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
         </item>
     </channel>
