@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 23:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 23:33:39 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,55 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mysql 'show table status' via select]]></title>
+            <description><![CDATA[<article><h1>mysql 'show table status' via select</h1><p>Just squirrelling this one away. The 'show table status' command is pretty cool, but sometimes I want to limit the amount of columns that are returned, or do something else like create ALTER TABLE commands to change the storage engine. Just realized that the same information in 'show table status' is in the information_schema.tables table....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
+            <link>https://creechy.wordpress.com/2011/04/13/mysql-show-table-status-via-select/</link>
+            <guid isPermaLink="false">b04e4e21-a26f-4869-ac51-b4302739b511</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MySQL Bugs: #19588: INFORMATION_SCHEMA performs much too slow on large servers]]></title>
+            <description><![CDATA[<article><h1>MySQL Bugs: #19588: INFORMATION_SCHEMA performs much too slow on large servers</h1><p>Thank you for the bug report. I created 5500 databases and 15 tables for each databases (see C application at the bottom) starting the servers with their defaults values. I was unable to get the message error: RROR 2013 (HY000): Lost connection to MySQL server during query; However I got enough information regarding the performance: miguel@hegel:~/dbs/5.1> bin/mysql -uroot Welcome to the MySQL monitor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7ba2356793bf395b7947bb50b85ad247e012f2.gif"></article>]]></description>
+            <link>https://bugs.mysql.com/bug.php?id=19588</link>
+            <guid isPermaLink="false">1f95ecbd-7c9f-4def-8f17-75cdbaf64dde</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PHP Update Data in MySQL]]></title>
+            <description><![CDATA[<article><h1>PHP Update Data in MySQL</h1><p>Well organized and easy to understand Web bulding tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da5741fb1339c275b50559e87e211f0a2cee9f00.gif"></article>]]></description>
+            <link>http://www.w3schools.com/php/php_mysql_update.asp</link>
+            <guid isPermaLink="false">3dc3dbdd-4ab4-4077-9083-9f0c2136286f</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SHOW TABLE STATUS]]></title>
+            <description><![CDATA[<article><h1>SHOW TABLE STATUS</h1><p>SHOW TABLES with information about non-temporary tables</p></article>]]></description>
+            <link>https://mariadb.com/kb/en/mariadb/show-table-status/</link>
+            <guid isPermaLink="false">dbfec85e-334a-4ed0-a827-dc85a3e68276</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Disabling or enabling modules manually in the database]]></title>
+            <description><![CDATA[<article><h1>Disabling or enabling modules manually in the database</h1><p>If you need to manually disable a module you can do so in the database. Before you start, do a mysqldump (or export) of your Drupal db to a local file in case things go wrong and you need to roll back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c0048a30dd1e90ad24a187ff055a8c947a5a840.jpg"></article>]]></description>
+            <link>https://www.drupal.org/node/157632</link>
+            <guid isPermaLink="false">370b54fa-a135-466b-998c-cc2953b4cf5e</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Optimize Queries and Tables in MySQL and MariaDB on a VPS | DigitalOcean]]></title>
+            <description><![CDATA[<article><h1>How To Optimize Queries and Tables in MySQL and MariaDB on a VPS | DigitalOcean</h1><p>MySQL and MariaDB are popular choices for database management systems. Both use the SQL querying language to input and query data. Although SQL queries are simple commands that are easy to learn, not all queries and database functions operate with the same efficiency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fdd6808e157dec0643175aeff2952434dc79107.png"></article>]]></description>
+            <link>https://www.digitalocean.com/community/tutorials/how-to-optimize-queries-and-tables-in-mysql-and-mariadb-on-a-vps</link>
+            <guid isPermaLink="false">686eec78-f363-4beb-855a-99abcf996ff7</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 easy phpMyAdmin tweaks to simplify MySQL administration - Page 2 of 2]]></title>
+            <description><![CDATA[<article><h1>10 easy phpMyAdmin tweaks to simplify MySQL administration - Page 2 of 2</h1><p>January 15, 2015 by Anand By default clicking on the database name on the left takes you to the "Structure" tab of the database. You can customize this by adding one of the lines below at end of /etc/phpmyadmin/config.inc.php. Save, exit, and reload Apache for the settings to take effect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab788988e3fad5e0d630718aab82f7266606101b.png"></article>]]></description>
+            <link>http://www.htpcbeginner.com/phpmyadmin-tweaks-to-simplify-database-administration/2/</link>
+            <guid isPermaLink="false">9ceb7c29-195e-4f96-8769-b61465fc13f0</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MySQL Handler_read_rnd_next == tablescans without indexes?]]></title>
@@ -26,55 +75,6 @@
             <link>https://bugs.mysql.com/bug.php?id=43664</link>
             <guid isPermaLink="false">1dd96563-2ddb-4820-9c3e-d313c829ee65</guid>
             <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Reasons It's Time to Ditch MySQL]]></title>
-            <description><![CDATA[<article><h1>5 Reasons It's Time to Ditch MySQL</h1><p>MySQL is still the most popular open-source database, but it has been losing fans over the years - for good reason. We look at five practical motivations to dump the MySQL database. Back in 2008, MySQL was rapidly growing in popularity when Sun Microsystems bought MySQL AB for approximately a billion bucks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8699fdf4794a8489a92dd8b6c67ec54269615d4a.jpg"></article>]]></description>
-            <link>http://blog.smartbear.com/open-source/5-reasons-its-time-to-ditch-mysql/</link>
-            <guid isPermaLink="false">aae92d62-9f79-4a3f-9551-c220d9fbf92c</guid>
-            <pubDate>Mon, 02 May 2016 14:16:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PHP :: Request #40816 :: Perform multiple OID operations in transaction manner]]></title>
-            <description><![CDATA[<article><h1>PHP :: Request #40816 :: Perform multiple OID operations in transaction manner</h1><p>Perform multiple OID operations in transaction manner</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59ccad9e301864f95f99c5e13d395f92c4f98b3f.gif"></article>]]></description>
-            <link>https://bugs.php.net/bug.php?id=40816</link>
-            <guid isPermaLink="false">c2f012dc-a8ca-46a7-be65-77f52baace6a</guid>
-            <pubDate>Mon, 02 May 2016 14:16:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Try VMware Workstation Pro, Run Linux and Windows in a Virtual Machine | United States]]></title>
-            <description><![CDATA[<article><h1>Try VMware Workstation Pro, Run Linux and Windows in a Virtual Machine | United States</h1><p>Try Workstation Pro free for 30 days. Run Windows 10, Windows 8, as well as 20 other versions of Windows in a virtual machine. Run Red Hat, Ubuntu, OpenSuse and 26 additional versions of Linux in a virtual machine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0df7790e4fa50efd624b3e7965571cb6755073b0.png"></article>]]></description>
-            <link>http://www.vmware.com/products/workstation/workstation-evaluation</link>
-            <guid isPermaLink="false">51dfd798-be50-42af-81a1-3a03c7f5a92e</guid>
-            <pubDate>Mon, 02 May 2016 14:16:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MySQL vs NoSQL vs Postgres vs SQL Server, Cage Match]]></title>
-            <description><![CDATA[<article><h1>MySQL vs NoSQL vs Postgres vs SQL Server, Cage Match</h1><p>Tonight I went to compare the usual suspects for a set of slides I was doing and thought I would share the results. I do not believe anyone should be surprised by the results. MySQL became less interesting once it was acquired, and the number of Postgres deployments is greater than what all of the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98ebd4d185f898187c5ec8d61dd34be08011b7b4.jpg"></article>]]></description>
-            <link>https://krow.net/2013/03/12/mysql-vs-nosql-vs-postgres-vs-sql-server-cage-match/</link>
-            <guid isPermaLink="false">1e146986-458e-4083-aadd-d18e1f0289db</guid>
-            <pubDate>Mon, 02 May 2016 14:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Reasons to Stick with MySQL]]></title>
-            <description><![CDATA[<article><h1>5 Reasons to Stick with MySQL</h1><p>MySQL's founder is encouraging people to steer away from his creation. Here's why he's wrong. Schism between the worlds of open source and proprietary software is never going to go away as long as open source remains viable and competitive. Eventually, you have a meeting of both worlds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6892b99231b18bca390ac6d17091d016ccee6494.jpg"></article>]]></description>
-            <link>http://blog.smartbear.com/open-source/5-reasons-to-stick-with-mysql/</link>
-            <guid isPermaLink="false">0540ff4d-2228-4154-8852-cf72a912733f</guid>
-            <pubDate>Mon, 02 May 2016 14:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why You Should Never Use MongoDB]]></title>
-            <description><![CDATA[<article><h1>Why You Should Never Use MongoDB</h1><p>Disclaimer: I do not build database engines. I build web applications. I run 4-6 different projects every year, so I build a lot of web applications. I see apps with different requirements and different data storage needs. I've deployed most of the data stores you've heard about, and a few that you probably haven't.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7437db54416231bdfaae163ade0b71d262c8fef.jpg"></article>]]></description>
-            <link>http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/</link>
-            <guid isPermaLink="false">1d4d5bd7-7766-4774-9ec6-e2fc22aab59b</guid>
-            <pubDate>Mon, 02 May 2016 14:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Do I Update Ubuntu Linux Softwares Using Command Line?]]></title>
-            <description><![CDATA[<article><h1>How Do I Update Ubuntu Linux Softwares Using Command Line?</h1><p>I have latest version of Ubuntu Linux LTS server. How do I update Ubuntu Linux for security and application fix/upgrades using ssh command line? How can I install updates via command line option? Ubuntu Linux can be upgraded using GUI tools or using traditional command line tools such as: apt-get command - apt-get is the command-line tool for handling packages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0dd13f147ebd94743258f3fca78a7a326a819513.jpg"></article>]]></description>
-            <link>http://www.cyberciti.biz/faq/how-do-i-update-ubuntu-linux-softwares/</link>
-            <guid isPermaLink="false">138359f4-f5c1-4400-8e86-ce8e35cb7f69</guid>
-            <pubDate>Mon, 02 May 2016 14:16:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
