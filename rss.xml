@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 23:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 23:34:11 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MySQL :: MySQL 5.7 Reference Manual :: 14.7.5.36 SHOW TABLE STATUS Syntax]]></title>
+            <description><![CDATA[<article><h1>MySQL :: MySQL 5.7 Reference Manual :: 14.7.5.36 SHOW TABLE STATUS Syntax</h1><p>This statement also displays information about views. The storage engine for the table. See Chapter 16, Alternative Storage Engines . The version number of the table's .frm file. The row-storage format ( Fixed, Dynamic, Compressed, Redundant, Compact). For MyISAM tables, ( Dynamic corresponds to what reports as Packed.</p></article>]]></description>
+            <link>http://dev.mysql.com/doc/refman/5.7/en/show-table-status.html</link>
+            <guid isPermaLink="false">819d4aa4-6adc-470c-b444-a375c022658a</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Enable MySQL's slow query log without a restart]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Enable MySQL's slow query log without a restart</h1><p>You're debugging a MySQL server and want to enable the Slow Query, you can do so via the MySQL CLI. There's no need to make changes to the my.cnf file and restart your MySQL service -- even though that would also work. Log in to the MySQL CLI via mysql.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2468ec7ba15c2d5464d6d4cebd04bdfe63d0f177.png"></article>]]></description>
             <link>https://ma.ttias.be/mysql-slow-query-log-without-restart/</link>
             <guid isPermaLink="false">9e417692-1536-40c4-a43d-552b73d5ba39</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PHP Update Data in MySQL]]></title>
-            <description><![CDATA[<article><h1>PHP Update Data in MySQL</h1><p>Well organized and easy to understand Web bulding tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da5741fb1339c275b50559e87e211f0a2cee9f00.gif"></article>]]></description>
-            <link>http://www.w3schools.com/php/php_mysql_update.asp</link>
-            <guid isPermaLink="false">3dc3dbdd-4ab4-4077-9083-9f0c2136286f</guid>
             <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
         </item>
     </channel>
