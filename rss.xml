@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 23:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 23:34:22 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mysql_list_tables]]></title>
+            <description><![CDATA[<article><h1>mysql_list_tables</h1><p>(PHP 4, PHP 5) mysql_list_tables - List tables in a MySQL database This function is deprecated. It is preferable to use mysql_query() to issue an SQL SHOW TABLES [FROM db_name] [LIKE 'pattern'] statement instead. The name of the database link_identifier The MySQL connection.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c11c4adc9286ab44dfbfe0c90bb04b8945c106fa.png"></article>]]></description>
+            <link>http://php.net/manual/en/function.mysql-list-tables.php</link>
+            <guid isPermaLink="false">6ad101af-3022-4de1-b64d-ebc0072eacac</guid>
+            <pubDate>Mon, 02 May 2016 23:33:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MySQL :: MySQL 5.7 Reference Manual :: 14.7.5.36 SHOW TABLE STATUS Syntax]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>MySQL Bugs: #19588: INFORMATION_SCHEMA performs much too slow on large servers</h1><p>Thank you for the bug report. I created 5500 databases and 15 tables for each databases (see C application at the bottom) starting the servers with their defaults values. I was unable to get the message error: RROR 2013 (HY000): Lost connection to MySQL server during query; However I got enough information regarding the performance: miguel@hegel:~/dbs/5.1> bin/mysql -uroot Welcome to the MySQL monitor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7ba2356793bf395b7947bb50b85ad247e012f2.gif"></article>]]></description>
             <link>https://bugs.mysql.com/bug.php?id=19588</link>
             <guid isPermaLink="false">1f95ecbd-7c9f-4def-8f17-75cdbaf64dde</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enable MySQL's slow query log without a restart]]></title>
-            <description><![CDATA[<article><h1>Enable MySQL's slow query log without a restart</h1><p>You're debugging a MySQL server and want to enable the Slow Query, you can do so via the MySQL CLI. There's no need to make changes to the my.cnf file and restart your MySQL service -- even though that would also work. Log in to the MySQL CLI via mysql.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2468ec7ba15c2d5464d6d4cebd04bdfe63d0f177.png"></article>]]></description>
-            <link>https://ma.ttias.be/mysql-slow-query-log-without-restart/</link>
-            <guid isPermaLink="false">9e417692-1536-40c4-a43d-552b73d5ba39</guid>
             <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
         </item>
     </channel>
