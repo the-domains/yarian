@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 23:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 23:34:00 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enable MySQL's slow query log without a restart]]></title>
-            <description><![CDATA[<article><h1>Enable MySQL's slow query log without a restart</h1><p>You're debugging a MySQL server and want to enable the Slow Query, you can do so via the MySQL CLI. There's no need to make changes to the my.cnf file and restart your MySQL service -- even though that would also work. Log in to the MySQL CLI via mysql.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2468ec7ba15c2d5464d6d4cebd04bdfe63d0f177.png"></article>]]></description>
-            <link>https://ma.ttias.be/mysql-slow-query-log-without-restart/</link>
-            <guid isPermaLink="false">479d7a7f-fbad-4c06-b9f3-1dcbcd225eaf</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MySQL general query log performance effects]]></title>
@@ -39,13 +32,6 @@
             <description><![CDATA[<article><h1>mysql 'show table status' via select</h1><p>Just squirrelling this one away. The 'show table status' command is pretty cool, but sometimes I want to limit the amount of columns that are returned, or do something else like create ALTER TABLE commands to change the storage engine. Just realized that the same information in 'show table status' is in the information_schema.tables table....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
             <link>https://creechy.wordpress.com/2011/04/13/mysql-show-table-status-via-select/</link>
             <guid isPermaLink="false">b04e4e21-a26f-4869-ac51-b4302739b511</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to SELECT from SHOW TABLE STATUS results]]></title>
-            <description><![CDATA[<article><h1>How to SELECT from SHOW TABLE STATUS results</h1><p>I'd like to limit the rows and columns that come back from the SHOW TABLE STATUS command in MySQL 5.1. Is there a way to get this same information through a SELECT statement so I can manipulat...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01cb34c90455e3dd9442cb5048a715a3a058d2a2.png"></article>]]></description>
-            <link>http://dba.stackexchange.com/questions/3221/how-to-select-from-show-table-status-results</link>
-            <guid isPermaLink="false">4a70fec3-6408-4fe1-ac47-21b03df34a75</guid>
             <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>SHOW TABLE STATUS</h1><p>SHOW TABLES with information about non-temporary tables</p></article>]]></description>
             <link>https://mariadb.com/kb/en/mariadb/show-table-status/</link>
             <guid isPermaLink="false">dbfec85e-334a-4ed0-a827-dc85a3e68276</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Disabling or enabling modules manually in the database]]></title>
+            <description><![CDATA[<article><h1>Disabling or enabling modules manually in the database</h1><p>If you need to manually disable a module you can do so in the database. Before you start, do a mysqldump (or export) of your Drupal db to a local file in case things go wrong and you need to roll back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c0048a30dd1e90ad24a187ff055a8c947a5a840.jpg"></article>]]></description>
+            <link>https://www.drupal.org/node/157632</link>
+            <guid isPermaLink="false">370b54fa-a135-466b-998c-cc2953b4cf5e</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How To Optimize Queries and Tables in MySQL and MariaDB on a VPS | DigitalOcean]]></title>
+            <description><![CDATA[<article><h1>How To Optimize Queries and Tables in MySQL and MariaDB on a VPS | DigitalOcean</h1><p>MySQL and MariaDB are popular choices for database management systems. Both use the SQL querying language to input and query data. Although SQL queries are simple commands that are easy to learn, not all queries and database functions operate with the same efficiency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fdd6808e157dec0643175aeff2952434dc79107.png"></article>]]></description>
+            <link>https://www.digitalocean.com/community/tutorials/how-to-optimize-queries-and-tables-in-mysql-and-mariadb-on-a-vps</link>
+            <guid isPermaLink="false">686eec78-f363-4beb-855a-99abcf996ff7</guid>
             <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
         </item>
     </channel>
