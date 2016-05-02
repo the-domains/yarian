@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 23:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 23:33:37 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,20 +12,6 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mysql 'show table status' via select]]></title>
-            <description><![CDATA[<article><h1>mysql 'show table status' via select</h1><p>Just squirrelling this one away. The 'show table status' command is pretty cool, but sometimes I want to limit the amount of columns that are returned, or do something else like create ALTER TABLE commands to change the storage engine. Just realized that the same information in 'show table status' is in the information_schema.tables table....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
-            <link>https://creechy.wordpress.com/2011/04/13/mysql-show-table-status-via-select/</link>
-            <guid isPermaLink="false">b04e4e21-a26f-4869-ac51-b4302739b511</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MySQL Bugs: #19588: INFORMATION_SCHEMA performs much too slow on large servers]]></title>
-            <description><![CDATA[<article><h1>MySQL Bugs: #19588: INFORMATION_SCHEMA performs much too slow on large servers</h1><p>Thank you for the bug report. I created 5500 databases and 15 tables for each databases (see C application at the bottom) starting the servers with their defaults values. I was unable to get the message error: RROR 2013 (HY000): Lost connection to MySQL server during query; However I got enough information regarding the performance: miguel@hegel:~/dbs/5.1> bin/mysql -uroot Welcome to the MySQL monitor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7ba2356793bf395b7947bb50b85ad247e012f2.gif"></article>]]></description>
-            <link>https://bugs.mysql.com/bug.php?id=19588</link>
-            <guid isPermaLink="false">1f95ecbd-7c9f-4def-8f17-75cdbaf64dde</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PHP Update Data in MySQL]]></title>
@@ -75,6 +61,20 @@
             <link>https://bugs.mysql.com/bug.php?id=43664</link>
             <guid isPermaLink="false">1dd96563-2ddb-4820-9c3e-d313c829ee65</guid>
             <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 Reasons It's Time to Ditch MySQL]]></title>
+            <description><![CDATA[<article><h1>5 Reasons It's Time to Ditch MySQL</h1><p>MySQL is still the most popular open-source database, but it has been losing fans over the years - for good reason. We look at five practical motivations to dump the MySQL database. Back in 2008, MySQL was rapidly growing in popularity when Sun Microsystems bought MySQL AB for approximately a billion bucks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8699fdf4794a8489a92dd8b6c67ec54269615d4a.jpg"></article>]]></description>
+            <link>http://blog.smartbear.com/open-source/5-reasons-its-time-to-ditch-mysql/</link>
+            <guid isPermaLink="false">aae92d62-9f79-4a3f-9551-c220d9fbf92c</guid>
+            <pubDate>Mon, 02 May 2016 14:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PHP :: Request #40816 :: Perform multiple OID operations in transaction manner]]></title>
+            <description><![CDATA[<article><h1>PHP :: Request #40816 :: Perform multiple OID operations in transaction manner</h1><p>Perform multiple OID operations in transaction manner</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59ccad9e301864f95f99c5e13d395f92c4f98b3f.gif"></article>]]></description>
+            <link>https://bugs.php.net/bug.php?id=40816</link>
+            <guid isPermaLink="false">c2f012dc-a8ca-46a7-be65-77f52baace6a</guid>
+            <pubDate>Mon, 02 May 2016 14:16:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
