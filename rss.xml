@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 18:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 14:16:58 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -14,8 +14,36 @@
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[SQL LIKE query for matching patern records with wildcard MySQL table]]></title>
+            <description><![CDATA[<article><h1>SQL LIKE query for matching patern records with wildcard MySQL table</h1><p>Sql LIKE command to match different strings and chars in a record field of mysql table</p></article>]]></description>
+            <link>http://www.plus2net.com/sql_tutorial/sql_like.php</link>
+            <guid isPermaLink="false">16a3b415-3a16-48a8-9ba9-854bd0cab49a</guid>
+            <pubDate>Mon, 02 May 2016 14:16:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to display PDF in browser via PHP]]></title>
+            <description><![CDATA[<article><h1>How to display PDF in browser via PHP</h1><p>The last project I was working on was having a requirement hiding the file URL in browser, for security reason. The file was actually PDF file and was containing user's order data. So to restrict the access to PDF file I've created a page callback, where I've written small piece of code to show the PDF output directly in page.</p></article>]]></description>
+            <link>http://yogeshchaugule.com/blog/2013/how-display-pdf-browser-php</link>
+            <guid isPermaLink="false">b8d8787c-569e-42bb-9405-c2c1d06e7a6a</guid>
+            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Install LAMP on Ubuntu - Linux Apache MySQL php]]></title>
+            <description><![CDATA[<article><h1>Install LAMP on Ubuntu - Linux Apache MySQL php</h1><p>Why should you install LAMP on Ubuntu? When working on web development, I prefer to work within the privacy of my own development environment located on my computer. I'd rather make the majority of my mistakes where no one else can see them rather than out in the wild of the Internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dfba19ecb3371ec019ca5cfb5edad77c9b399f5.png"></article>]]></description>
+            <link>http://tuxtweaks.com/2012/04/installing-lamp-on-ubuntu-12-04-precise-pangolin/</link>
+            <guid isPermaLink="false">23a8fb61-7ee3-4e52-98d8-5bd3a5937c12</guid>
+            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Perfect Server - Ubuntu 16.04 (Xenial Xerus) with Apache, PHP, MySQL, PureFTPD, BIND, Postfix, Dovecot and ISPConfig 3.1]]></title>
+            <description><![CDATA[<article><h1>The Perfect Server - Ubuntu 16.04 (Xenial Xerus) with Apache, PHP, MySQL, PureFTPD, BIND, Postfix, Dovecot and ISPConfig 3.1</h1><p>This tutorial shows the installation of an Ubuntu 16.04 (Xenial Xerus) web hosting server with Apache2, Postfix, Dovecot, Bind and PureFTPD to prepare it for the installation of ISPConfig 3.1. The resulting system will provide a Web, Mail, Mailinglist, DNS and FTP Server.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f348db9b134536f7ed6ef2ea9d03115fdef240e.gif"></article>]]></description>
+            <link>https://www.howtoforge.com/tutorial/perfect-server-ubuntu-16.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/</link>
+            <guid isPermaLink="false">460a8b3f-da9c-4ce0-90c2-70ee05ac71fb</guid>
+            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[PHP 5 switch Statement]]></title>
-            <description><![CDATA[<article><h1>PHP 5 switch Statement</h1><p>Well organized and easy to understand Web bulding tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10ac2f0ab6bb38cf45791d622fa3221dd43da68f.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>PHP 5 switch Statement</h1><p>Well organized and easy to understand Web bulding tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da5741fb1339c275b50559e87e211f0a2cee9f00.gif"></article>]]></description>
             <link>http://www.w3schools.com/php/php_switch.asp</link>
             <guid isPermaLink="false">ccf8fc68-3582-48a5-9954-54764dc07c24</guid>
             <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
@@ -47,34 +75,6 @@
             <link>http://www.yarian.com/1f0a6839-335f-4c0b-8f15-af86818686af/index.html</link>
             <guid isPermaLink="false">1f0a6839-335f-4c0b-8f15-af86818686af</guid>
             <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Re-introducing PDO: the Right Way to Access Databases]]></title>
-            <description><![CDATA[<article><h1>Re-introducing PDO: the Right Way to Access Databases</h1><p>PDO is the acronym of PHP Data Objects. As the name implies, this extension gives you the ability to interact with your database through objects. The very valid question people ask when confronted by a new technology is simply, why should they upgrade?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/358406908bed69b4ebad87742ba7bf8ac22ed7c1.jpg"></article>]]></description>
-            <link>http://www.sitepoint.com/re-introducing-pdo-the-right-way-to-access-databases-in-php/</link>
-            <guid isPermaLink="false">838c83e6-eec1-413e-9694-220e25175a81</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MAAS | Get started]]></title>
-            <description><![CDATA[<article><h1>MAAS | Get started</h1><p>MAAS is a bare-metal server provisioning tool. It is open source and free to use, with commercial support available from Canonical. Follow the instructions below to download, configure and install MAAS.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff85a38a0b2fcf9bf3f17ba246c66c09541e0993.jpg"></article>]]></description>
-            <link>http://maas.io/get-started?_ga=1.217871380.349351137.1447952330</link>
-            <guid isPermaLink="false">c71c829e-9a6d-4ffa-b7f0-22ed9d4f0abe</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Installing MAAS - MAAS dev documentation]]></title>
-            <description><![CDATA[<article><h1>Installing MAAS - MAAS dev documentation</h1><p>Installing MAAS from packages is straightforward. There are actually several packages that go into making up a working MAAS install, but for convenience, many of these have been gathered into a virtual package called 'maas' which will install the necessary components for a 'seed cloud', that is a single server that will directly control a group of nodes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4926266ae2a8caf9e3171fa0c54198e4c5b62db9.png"></article>]]></description>
-            <link>https://maas.ubuntu.com/docs/install.html</link>
-            <guid isPermaLink="false">91b13fad-a570-469e-85b4-c4be2123ab29</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MAAS Setup: Deploying OpenStack on MAAS 1.9+ with Juju]]></title>
-            <description><![CDATA[<article><h1>MAAS Setup: Deploying OpenStack on MAAS 1.9+ with Juju</h1><p>This is part 3 of my new "Deploying OpenStack on MAAS 1.9+ with Juju" series. It follows up my last post Hardware Setup: Deploying OpenStack on MAAS 1.9+ with Juju. I planned to write this post almost 2 months ago, and I know some readers were expecting it eagerly, so I apologize for the delay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccb84ab4e2cd87690abf4fdbd6816341ee7e24f5.png"></article>]]></description>
-            <link>https://insights.ubuntu.com/2016/01/23/maas-setup-deploying-openstack-on-maas-1-9-with-juju/</link>
-            <guid isPermaLink="false">152fe98e-2353-4157-9378-ffe8ff40be9d</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
