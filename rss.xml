@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 14:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 14:17:16 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MySQL vs NoSQL vs Postgres vs SQL Server, Cage Match]]></title>
+            <description><![CDATA[<article><h1>MySQL vs NoSQL vs Postgres vs SQL Server, Cage Match</h1><p>Tonight I went to compare the usual suspects for a set of slides I was doing and thought I would share the results. I do not believe anyone should be surprised by the results. MySQL became less interesting once it was acquired, and the number of Postgres deployments is greater than what all of the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98ebd4d185f898187c5ec8d61dd34be08011b7b4.jpg"></article>]]></description>
+            <link>https://krow.net/2013/03/12/mysql-vs-nosql-vs-postgres-vs-sql-server-cage-match/</link>
+            <guid isPermaLink="false">1e146986-458e-4083-aadd-d18e1f0289db</guid>
+            <pubDate>Mon, 02 May 2016 14:16:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 Reasons to Stick with MySQL]]></title>
+            <description><![CDATA[<article><h1>5 Reasons to Stick with MySQL</h1><p>MySQL's founder is encouraging people to steer away from his creation. Here's why he's wrong. Schism between the worlds of open source and proprietary software is never going to go away as long as open source remains viable and competitive. Eventually, you have a meeting of both worlds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6892b99231b18bca390ac6d17091d016ccee6494.jpg"></article>]]></description>
+            <link>http://blog.smartbear.com/open-source/5-reasons-to-stick-with-mysql/</link>
+            <guid isPermaLink="false">0540ff4d-2228-4154-8852-cf72a912733f</guid>
+            <pubDate>Mon, 02 May 2016 14:16:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why You Should Never Use MongoDB]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>The Perfect Server - Ubuntu 16.04 (Xenial Xerus) with Apache, PHP, MySQL, PureFTPD, BIND, Postfix, Dovecot and ISPConfig 3.1</h1><p>This tutorial shows the installation of an Ubuntu 16.04 (Xenial Xerus) web hosting server with Apache2, Postfix, Dovecot, Bind and PureFTPD to prepare it for the installation of ISPConfig 3.1. The resulting system will provide a Web, Mail, Mailinglist, DNS and FTP Server.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f348db9b134536f7ed6ef2ea9d03115fdef240e.gif"></article>]]></description>
             <link>https://www.howtoforge.com/tutorial/perfect-server-ubuntu-16.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/</link>
             <guid isPermaLink="false">460a8b3f-da9c-4ce0-90c2-70ee05ac71fb</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PHP 5 switch Statement]]></title>
-            <description><![CDATA[<article><h1>PHP 5 switch Statement</h1><p>Well organized and easy to understand Web bulding tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da5741fb1339c275b50559e87e211f0a2cee9f00.gif"></article>]]></description>
-            <link>http://www.w3schools.com/php/php_switch.asp</link>
-            <guid isPermaLink="false">ccf8fc68-3582-48a5-9954-54764dc07c24</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Redirect IP address to Domain name Apache | DigitalOcean]]></title>
-            <description><![CDATA[<article><h1>Redirect IP address to Domain name Apache | DigitalOcean</h1><p>Hello! Since I might host several static websites on the same droplet I've used apache's virtual host. As a result, in my /var/www I have folders that correspond the domain name. For example: /var/www/example.com/public and /var/www/another.com/public. in my sites-available (/etc/apache2/sites-available) I have: * 000-default.conf * default-ssl.conf * example.com.conf * another.com.conf example.com.conf and another.com.conf are configured just fine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fdd6808e157dec0643175aeff2952434dc79107.png"></article>]]></description>
-            <link>https://www.digitalocean.com/community/questions/redirect-ip-address-to-domain-name-apache</link>
-            <guid isPermaLink="false">0a7f5e39-555f-4809-a44d-a2545fee5e23</guid>
             <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
         </item>
     </channel>
