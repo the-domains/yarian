@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 14:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 14:17:28 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PHP :: Request #40816 :: Perform multiple OID operations in transaction manner]]></title>
+            <description><![CDATA[<article><h1>PHP :: Request #40816 :: Perform multiple OID operations in transaction manner</h1><p>Perform multiple OID operations in transaction manner</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59ccad9e301864f95f99c5e13d395f92c4f98b3f.gif"></article>]]></description>
+            <link>https://bugs.php.net/bug.php?id=40816</link>
+            <guid isPermaLink="false">c2f012dc-a8ca-46a7-be65-77f52baace6a</guid>
+            <pubDate>Mon, 02 May 2016 14:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Try VMware Workstation Pro, Run Linux and Windows in a Virtual Machine | United States]]></title>
+            <description><![CDATA[<article><h1>Try VMware Workstation Pro, Run Linux and Windows in a Virtual Machine | United States</h1><p>Try Workstation Pro free for 30 days. Run Windows 10, Windows 8, as well as 20 other versions of Windows in a virtual machine. Run Red Hat, Ubuntu, OpenSuse and 26 additional versions of Linux in a virtual machine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0df7790e4fa50efd624b3e7965571cb6755073b0.png"></article>]]></description>
+            <link>http://www.vmware.com/products/workstation/workstation-evaluation</link>
+            <guid isPermaLink="false">51dfd798-be50-42af-81a1-3a03c7f5a92e</guid>
+            <pubDate>Mon, 02 May 2016 14:16:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MySQL vs NoSQL vs Postgres vs SQL Server, Cage Match]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>How to display PDF in browser via PHP</h1><p>The last project I was working on was having a requirement hiding the file URL in browser, for security reason. The file was actually PDF file and was containing user's order data. So to restrict the access to PDF file I've created a page callback, where I've written small piece of code to show the PDF output directly in page.</p></article>]]></description>
             <link>http://yogeshchaugule.com/blog/2013/how-display-pdf-browser-php</link>
             <guid isPermaLink="false">b8d8787c-569e-42bb-9405-c2c1d06e7a6a</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Install LAMP on Ubuntu - Linux Apache MySQL php]]></title>
-            <description><![CDATA[<article><h1>Install LAMP on Ubuntu - Linux Apache MySQL php</h1><p>Why should you install LAMP on Ubuntu? When working on web development, I prefer to work within the privacy of my own development environment located on my computer. I'd rather make the majority of my mistakes where no one else can see them rather than out in the wild of the Internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dfba19ecb3371ec019ca5cfb5edad77c9b399f5.png"></article>]]></description>
-            <link>http://tuxtweaks.com/2012/04/installing-lamp-on-ubuntu-12-04-precise-pangolin/</link>
-            <guid isPermaLink="false">23a8fb61-7ee3-4e52-98d8-5bd3a5937c12</guid>
-            <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Perfect Server - Ubuntu 16.04 (Xenial Xerus) with Apache, PHP, MySQL, PureFTPD, BIND, Postfix, Dovecot and ISPConfig 3.1]]></title>
-            <description><![CDATA[<article><h1>The Perfect Server - Ubuntu 16.04 (Xenial Xerus) with Apache, PHP, MySQL, PureFTPD, BIND, Postfix, Dovecot and ISPConfig 3.1</h1><p>This tutorial shows the installation of an Ubuntu 16.04 (Xenial Xerus) web hosting server with Apache2, Postfix, Dovecot, Bind and PureFTPD to prepare it for the installation of ISPConfig 3.1. The resulting system will provide a Web, Mail, Mailinglist, DNS and FTP Server.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f348db9b134536f7ed6ef2ea9d03115fdef240e.gif"></article>]]></description>
-            <link>https://www.howtoforge.com/tutorial/perfect-server-ubuntu-16.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/</link>
-            <guid isPermaLink="false">460a8b3f-da9c-4ce0-90c2-70ee05ac71fb</guid>
             <pubDate>Wed, 27 Apr 2016 18:18:56 GMT</pubDate>
         </item>
     </channel>
