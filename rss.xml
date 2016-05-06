@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 05:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 05:28:30 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -14,24 +14,10 @@
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Extracting XML data in PHP with SimpleXML]]></title>
-            <description><![CDATA[<article><h1>Extracting XML data in PHP with SimpleXML</h1><p>Bobulous Central → Coding → XML feeds using SimpleXML. Some of my previous articles were about extracting XML using regular expressions. This method was useful in PHP 4 as a quick way to grab pieces of data in well-structured XML documents, but it had its limitations.</p></article>]]></description>
-            <link>http://www.bobulous.org.uk/coding/php-5-xml-feeds.html</link>
-            <guid isPermaLink="false">9e39df07-167c-48f1-8b19-4a6a50d5c4ed</guid>
-            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[PHP SOAP Request not right]]></title>
             <description><![CDATA[<article><h1>PHP SOAP Request not right</h1><p>i try to build following SOAP Request: &lt;?xml version="1.0" encoding="utf-8"?&gt; &lt;soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSch...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
             <link>http://stackoverflow.com/questions/10297099/php-soap-request-not-right</link>
             <guid isPermaLink="false">0271b904-7ebb-4e88-8498-d99aa8d18a20</guid>
-            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PHP and SOAP - First Steps - Zend Developer Zone]]></title>
-            <description><![CDATA[<article><h1>PHP and SOAP - First Steps - Zend Developer Zone</h1><p>This is the beginner's, beginner intro for getting SOAP working with PHP. Quite a bit more basic than most, simply because it's all new to me and I wanted to write it all down and, possibly, save you the same headache's I've had the last couple days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cfbeb1b2dde86bb484d44de5c0fc9646a2e05f8.png"></article>]]></description>
-            <link>http://devzone.zend.com/2202/php-and-soap-first-steps/</link>
-            <guid isPermaLink="false">9081fffa-0696-4379-b58e-197298efd7cf</guid>
             <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Enable MySQL's slow query log without a restart</h1><p>You're debugging a MySQL server and want to enable the Slow Query, you can do so via the MySQL CLI. There's no need to make changes to the my.cnf file and restart your MySQL service -- even though that would also work. Log in to the MySQL CLI via mysql.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2468ec7ba15c2d5464d6d4cebd04bdfe63d0f177.png"></article>]]></description>
             <link>https://ma.ttias.be/mysql-slow-query-log-without-restart/</link>
             <guid isPermaLink="false">479d7a7f-fbad-4c06-b9f3-1dcbcd225eaf</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MySQL :: MySQL 5.5 Reference Manual :: 14.15 InnoDB Startup Options and System Variables]]></title>
+            <description><![CDATA[<article><h1>MySQL :: MySQL 5.5 Reference Manual :: 14.15 InnoDB Startup Options and System Variables</h1><p>System variables that are true or false can be enabled at server startup by naming them, or disabled by using a --skip- prefix. For example, to enable or disable InnoDB checksums, you can use--innodb_checksums or--skip-innodb_checksums on the command line, orinnodb_checksums or skip-innodb_checksums in an option file.</p></article>]]></description>
+            <link>http://dev.mysql.com/doc/refman/5.5/en/innodb-parameters.html#sysvar_innodb_stats_on_metadata</link>
+            <guid isPermaLink="false">b8888f0b-03d3-4bd6-b385-6d47709f5943</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MySQL general query log performance effects]]></title>
+            <description><![CDATA[<article><h1>MySQL general query log performance effects</h1><p>One of our customers who has a somewhat problematic web application would like us to log all the queries for a period of 24 hours. I wouldn't know how much data it will actually write. The amount</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01cb34c90455e3dd9442cb5048a715a3a058d2a2.png"></article>]]></description>
+            <link>http://dba.stackexchange.com/questions/8359/mysql-general-query-log-performance-effects/8382#8382</link>
+            <guid isPermaLink="false">06a0e1f0-aadb-4afe-8ba9-67e1794dd142</guid>
             <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
         </item>
     </channel>
