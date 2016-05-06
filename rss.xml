@@ -14,20 +14,6 @@
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How To Set Up a Firewall Using Iptables on Ubuntu 14.04 | DigitalOcean]]></title>
-            <description><![CDATA[<article><h1>How To Set Up a Firewall Using Iptables on Ubuntu 14.04 | DigitalOcean</h1><p>Setting up a good firewall is an essential step to take in securing any modern operating system. Most Linux distributions ship with a few different firewall tools that we can use to configure our firewalls. In this guide, we'll be covering the iptables firewall.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fdd6808e157dec0643175aeff2952434dc79107.png"></article>]]></description>
-            <link>https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-iptables-on-ubuntu-14-04</link>
-            <guid isPermaLink="false">3db299de-369d-4105-a2c2-529b1ce53c24</guid>
-            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is iptables getting double rules?]]></title>
-            <description><![CDATA[<article><h1>Why is iptables getting double rules?</h1><p>I have a server running Ubuntu 12.04. A couple of reboots back I started noticing that iptables rules get doubled upon reboot. This is what I get after a reboot (with added line breaks): $ sudo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e08e1ffd00063338d06d46eb49eaafd8f752cbca.png"></article>]]></description>
-            <link>http://askubuntu.com/questions/488894/why-is-iptables-getting-double-rules</link>
-            <guid isPermaLink="false">7bc7d93c-4f07-4ca7-9b1b-9c7999c9c9ae</guid>
-            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[PHP SOAP Programming Tips and Tricks]]></title>
             <description><![CDATA[<article><h1>PHP SOAP Programming Tips and Tricks</h1><p>This is a complete PHP SOAP Client example where we consumed the web services we developed here. You can also take a look at how we generated the WSDL file for the web service. The code below started by disabling WSDL cache and defined the wsdl location.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a70d71ed5b9992f34473b6ebe00ea983006e8d5.png"></article>]]></description>
             <link>http://osarogabriel.blogspot.com/2014/03/a-complete-php-soap-client-example.html</link>
@@ -75,6 +61,20 @@
             <link>http://osarogabriel.blogspot.com/</link>
             <guid isPermaLink="false">b6e1cda6-6102-4be7-85e3-3d3b8ac9afc5</guid>
             <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Preventing long opening time?]]></title>
+            <description><![CDATA[<article><h1>Preventing long opening time?</h1><p>Hi, I have just started to use HeidiSQL after mysql query browser and say that simply it is amazing for my needs. I would like to thanks for all people who contributed to this project. My databases are +50 gb. My question is regarding hanging time at connecting a database .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69696aa8bd02bbd245c6c7bf3d406fe083b92dc1.png"></article>]]></description>
+            <link>http://www.heidisql.com/forum.php?t=7974</link>
+            <guid isPermaLink="false">f2c01ed5-5155-44f0-b9b9-243240c79f63</guid>
+            <pubDate>Mon, 02 May 2016 23:33:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mysql_list_tables]]></title>
+            <description><![CDATA[<article><h1>mysql_list_tables</h1><p>(PHP 4, PHP 5) mysql_list_tables - List tables in a MySQL database This function is deprecated. It is preferable to use mysql_query() to issue an SQL SHOW TABLES [FROM db_name] [LIKE 'pattern'] statement instead. The name of the database link_identifier The MySQL connection.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c11c4adc9286ab44dfbfe0c90bb04b8945c106fa.png"></article>]]></description>
+            <link>http://php.net/manual/en/function.mysql-list-tables.php</link>
+            <guid isPermaLink="false">6ad101af-3022-4de1-b64d-ebc0072eacac</guid>
+            <pubDate>Mon, 02 May 2016 23:33:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
