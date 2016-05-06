@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 23:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 05:28:34 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,55 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Net-SNMP]]></title>
+            <description><![CDATA[<article><h1>Net-SNMP</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79bf14a059c45cd8270fd4860acda5035283b29d.jpg"></article>]]></description>
+            <link>http://www.net-snmp.org/</link>
+            <guid isPermaLink="false">22a203ef-543c-4e7b-aa37-155537db194c</guid>
+            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Extracting XML data in PHP with SimpleXML]]></title>
+            <description><![CDATA[<article><h1>Extracting XML data in PHP with SimpleXML</h1><p>Bobulous Central → Coding → XML feeds using SimpleXML. Some of my previous articles were about extracting XML using regular expressions. This method was useful in PHP 4 as a quick way to grab pieces of data in well-structured XML documents, but it had its limitations.</p></article>]]></description>
+            <link>http://www.bobulous.org.uk/coding/php-5-xml-feeds.html</link>
+            <guid isPermaLink="false">9e39df07-167c-48f1-8b19-4a6a50d5c4ed</guid>
+            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PHP SOAP Request not right]]></title>
+            <description><![CDATA[<article><h1>PHP SOAP Request not right</h1><p>i try to build following SOAP Request: &lt;?xml version="1.0" encoding="utf-8"?&gt; &lt;soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSch...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
+            <link>http://stackoverflow.com/questions/10297099/php-soap-request-not-right</link>
+            <guid isPermaLink="false">0271b904-7ebb-4e88-8498-d99aa8d18a20</guid>
+            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PHP and SOAP - First Steps - Zend Developer Zone]]></title>
+            <description><![CDATA[<article><h1>PHP and SOAP - First Steps - Zend Developer Zone</h1><p>This is the beginner's, beginner intro for getting SOAP working with PHP. Quite a bit more basic than most, simply because it's all new to me and I wanted to write it all down and, possibly, save you the same headache's I've had the last couple days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cfbeb1b2dde86bb484d44de5c0fc9646a2e05f8.png"></article>]]></description>
+            <link>http://devzone.zend.com/2202/php-and-soap-first-steps/</link>
+            <guid isPermaLink="false">9081fffa-0696-4379-b58e-197298efd7cf</guid>
+            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple PHP SOAP example - Patrick's playground]]></title>
+            <description><![CDATA[<article><h1>Simple PHP SOAP example - Patrick's playground</h1><p>This post will show a simple example of how to interpretate a WSDL file and a very simple, yet quick example of how to extract information from this file through PHP. Prior assumptions In this example I assume that you've already have SOAP enabled in your PHP configuration because this is beyond the scope of ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/763267ad939bcd72bb1a80b4ece3bebbe3901e14.jpg"></article>]]></description>
+            <link>http://www.vankouteren.eu/blog/2009/03/simple-php-soap-example/</link>
+            <guid isPermaLink="false">379a2c02-35a0-4eaa-976f-78c753349502</guid>
+            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PHP SOAP Programming Tips and Tricks]]></title>
+            <description><![CDATA[<article><h1>PHP SOAP Programming Tips and Tricks</h1><p>To process soap header request in our PHP SOAP Server Example, we will add to our PHP server class, a function with the same name as the header element we are trying to process. Please ensure that you are using the latest version of PHP to avoid any weird behaviour.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a70d71ed5b9992f34473b6ebe00ea983006e8d5.png"></article>]]></description>
+            <link>http://osarogabriel.blogspot.com/</link>
+            <guid isPermaLink="false">b6e1cda6-6102-4be7-85e3-3d3b8ac9afc5</guid>
+            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Preventing long opening time?]]></title>
+            <description><![CDATA[<article><h1>Preventing long opening time?</h1><p>Hi, I have just started to use HeidiSQL after mysql query browser and say that simply it is amazing for my needs. I would like to thanks for all people who contributed to this project. My databases are +50 gb. My question is regarding hanging time at connecting a database .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69696aa8bd02bbd245c6c7bf3d406fe083b92dc1.png"></article>]]></description>
+            <link>http://www.heidisql.com/forum.php?t=7974</link>
+            <guid isPermaLink="false">f2c01ed5-5155-44f0-b9b9-243240c79f63</guid>
+            <pubDate>Mon, 02 May 2016 23:33:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[mysql_list_tables]]></title>
@@ -25,55 +74,6 @@
             <description><![CDATA[<article><h1>MySQL :: MySQL 5.7 Reference Manual :: 14.7.5.36 SHOW TABLE STATUS Syntax</h1><p>This statement also displays information about views. The storage engine for the table. See Chapter 16, Alternative Storage Engines . The version number of the table's .frm file. The row-storage format ( Fixed, Dynamic, Compressed, Redundant, Compact). For MyISAM tables, ( Dynamic corresponds to what reports as Packed.</p></article>]]></description>
             <link>http://dev.mysql.com/doc/refman/5.7/en/show-table-status.html</link>
             <guid isPermaLink="false">819d4aa4-6adc-470c-b444-a375c022658a</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enable MySQL's slow query log without a restart]]></title>
-            <description><![CDATA[<article><h1>Enable MySQL's slow query log without a restart</h1><p>You're debugging a MySQL server and want to enable the Slow Query, you can do so via the MySQL CLI. There's no need to make changes to the my.cnf file and restart your MySQL service -- even though that would also work. Log in to the MySQL CLI via mysql.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2468ec7ba15c2d5464d6d4cebd04bdfe63d0f177.png"></article>]]></description>
-            <link>https://ma.ttias.be/mysql-slow-query-log-without-restart/</link>
-            <guid isPermaLink="false">479d7a7f-fbad-4c06-b9f3-1dcbcd225eaf</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MySQL :: MySQL 5.5 Reference Manual :: 14.15 InnoDB Startup Options and System Variables]]></title>
-            <description><![CDATA[<article><h1>MySQL :: MySQL 5.5 Reference Manual :: 14.15 InnoDB Startup Options and System Variables</h1><p>System variables that are true or false can be enabled at server startup by naming them, or disabled by using a --skip- prefix. For example, to enable or disable InnoDB checksums, you can use--innodb_checksums or--skip-innodb_checksums on the command line, orinnodb_checksums or skip-innodb_checksums in an option file.</p></article>]]></description>
-            <link>http://dev.mysql.com/doc/refman/5.5/en/innodb-parameters.html#sysvar_innodb_stats_on_metadata</link>
-            <guid isPermaLink="false">b8888f0b-03d3-4bd6-b385-6d47709f5943</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MySQL general query log performance effects]]></title>
-            <description><![CDATA[<article><h1>MySQL general query log performance effects</h1><p>One of our customers who has a somewhat problematic web application would like us to log all the queries for a period of 24 hours. I wouldn't know how much data it will actually write. The amount</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01cb34c90455e3dd9442cb5048a715a3a058d2a2.png"></article>]]></description>
-            <link>http://dba.stackexchange.com/questions/8359/mysql-general-query-log-performance-effects/8382#8382</link>
-            <guid isPermaLink="false">06a0e1f0-aadb-4afe-8ba9-67e1794dd142</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Solving INFORMATION_SCHEMA slowness]]></title>
-            <description><![CDATA[<article><h1>Solving INFORMATION_SCHEMA slowness</h1><p>Many of us find INFORMATION_SCHEMA painfully slow to work it when it comes to retrieving table meta data. Many people resort to using file system tools instead to find for example how much space innodb tables are using and things like it. Besides being just slow accessing information_schema can often impact server performance dramatically.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
-            <link>https://www.percona.com/blog/2011/12/23/solving-information_schema-slowness/</link>
-            <guid isPermaLink="false">7f7724b0-2fc8-4e95-a3a6-e58982071ef6</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mysql 'show table status' via select]]></title>
-            <description><![CDATA[<article><h1>mysql 'show table status' via select</h1><p>Just squirrelling this one away. The 'show table status' command is pretty cool, but sometimes I want to limit the amount of columns that are returned, or do something else like create ALTER TABLE commands to change the storage engine. Just realized that the same information in 'show table status' is in the information_schema.tables table....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
-            <link>https://creechy.wordpress.com/2011/04/13/mysql-show-table-status-via-select/</link>
-            <guid isPermaLink="false">b04e4e21-a26f-4869-ac51-b4302739b511</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to SELECT from SHOW TABLE STATUS results]]></title>
-            <description><![CDATA[<article><h1>How to SELECT from SHOW TABLE STATUS results</h1><p>I'd like to limit the rows and columns that come back from the SHOW TABLE STATUS command in MySQL 5.1. Is there a way to get this same information through a SELECT statement so I can manipulat...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01cb34c90455e3dd9442cb5048a715a3a058d2a2.png"></article>]]></description>
-            <link>http://dba.stackexchange.com/questions/3221/how-to-select-from-show-table-status-results</link>
-            <guid isPermaLink="false">4a70fec3-6408-4fe1-ac47-21b03df34a75</guid>
-            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MySQL Bugs: #19588: INFORMATION_SCHEMA performs much too slow on large servers]]></title>
-            <description><![CDATA[<article><h1>MySQL Bugs: #19588: INFORMATION_SCHEMA performs much too slow on large servers</h1><p>Thank you for the bug report. I created 5500 databases and 15 tables for each databases (see C application at the bottom) starting the servers with their defaults values. I was unable to get the message error: RROR 2013 (HY000): Lost connection to MySQL server during query; However I got enough information regarding the performance: miguel@hegel:~/dbs/5.1> bin/mysql -uroot Welcome to the MySQL monitor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7ba2356793bf395b7947bb50b85ad247e012f2.gif"></article>]]></description>
-            <link>https://bugs.mysql.com/bug.php?id=19588</link>
-            <guid isPermaLink="false">1f95ecbd-7c9f-4def-8f17-75cdbaf64dde</guid>
             <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
         </item>
     </channel>
