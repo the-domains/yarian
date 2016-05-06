@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 05:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 05:28:32 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,34 +12,6 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is iptables getting double rules?]]></title>
-            <description><![CDATA[<article><h1>Why is iptables getting double rules?</h1><p>I have a server running Ubuntu 12.04. A couple of reboots back I started noticing that iptables rules get doubled upon reboot. This is what I get after a reboot (with added line breaks): $ sudo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e08e1ffd00063338d06d46eb49eaafd8f752cbca.png"></article>]]></description>
-            <link>http://askubuntu.com/questions/488894/why-is-iptables-getting-double-rules</link>
-            <guid isPermaLink="false">7bc7d93c-4f07-4ca7-9b1b-9c7999c9c9ae</guid>
-            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PHP SOAP Programming Tips and Tricks]]></title>
-            <description><![CDATA[<article><h1>PHP SOAP Programming Tips and Tricks</h1><p>This is a complete PHP SOAP Client example where we consumed the web services we developed here. You can also take a look at how we generated the WSDL file for the web service. The code below started by disabling WSDL cache and defined the wsdl location.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a70d71ed5b9992f34473b6ebe00ea983006e8d5.png"></article>]]></description>
-            <link>http://osarogabriel.blogspot.com/2014/03/a-complete-php-soap-client-example.html</link>
-            <guid isPermaLink="false">05c08400-bf47-4cf1-836b-bcef8727e3ed</guid>
-            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Net-SNMP]]></title>
-            <description><![CDATA[<article><h1>Net-SNMP</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79bf14a059c45cd8270fd4860acda5035283b29d.jpg"></article>]]></description>
-            <link>http://www.net-snmp.org/</link>
-            <guid isPermaLink="false">22a203ef-543c-4e7b-aa37-155537db194c</guid>
-            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Extracting XML data in PHP with SimpleXML]]></title>
-            <description><![CDATA[<article><h1>Extracting XML data in PHP with SimpleXML</h1><p>Bobulous Central → Coding → XML feeds using SimpleXML. Some of my previous articles were about extracting XML using regular expressions. This method was useful in PHP 4 as a quick way to grab pieces of data in well-structured XML documents, but it had its limitations.</p></article>]]></description>
-            <link>http://www.bobulous.org.uk/coding/php-5-xml-feeds.html</link>
-            <guid isPermaLink="false">9e39df07-167c-48f1-8b19-4a6a50d5c4ed</guid>
-            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PHP SOAP Request not right]]></title>
@@ -75,6 +47,34 @@
             <link>http://www.heidisql.com/forum.php?t=7974</link>
             <guid isPermaLink="false">f2c01ed5-5155-44f0-b9b9-243240c79f63</guid>
             <pubDate>Mon, 02 May 2016 23:33:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mysql_list_tables]]></title>
+            <description><![CDATA[<article><h1>mysql_list_tables</h1><p>(PHP 4, PHP 5) mysql_list_tables - List tables in a MySQL database This function is deprecated. It is preferable to use mysql_query() to issue an SQL SHOW TABLES [FROM db_name] [LIKE 'pattern'] statement instead. The name of the database link_identifier The MySQL connection.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c11c4adc9286ab44dfbfe0c90bb04b8945c106fa.png"></article>]]></description>
+            <link>http://php.net/manual/en/function.mysql-list-tables.php</link>
+            <guid isPermaLink="false">6ad101af-3022-4de1-b64d-ebc0072eacac</guid>
+            <pubDate>Mon, 02 May 2016 23:33:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MySQL :: MySQL 5.7 Reference Manual :: 14.7.5.36 SHOW TABLE STATUS Syntax]]></title>
+            <description><![CDATA[<article><h1>MySQL :: MySQL 5.7 Reference Manual :: 14.7.5.36 SHOW TABLE STATUS Syntax</h1><p>This statement also displays information about views. The storage engine for the table. See Chapter 16, Alternative Storage Engines . The version number of the table's .frm file. The row-storage format ( Fixed, Dynamic, Compressed, Redundant, Compact). For MyISAM tables, ( Dynamic corresponds to what reports as Packed.</p></article>]]></description>
+            <link>http://dev.mysql.com/doc/refman/5.7/en/show-table-status.html</link>
+            <guid isPermaLink="false">819d4aa4-6adc-470c-b444-a375c022658a</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enable MySQL's slow query log without a restart]]></title>
+            <description><![CDATA[<article><h1>Enable MySQL's slow query log without a restart</h1><p>You're debugging a MySQL server and want to enable the Slow Query, you can do so via the MySQL CLI. There's no need to make changes to the my.cnf file and restart your MySQL service -- even though that would also work. Log in to the MySQL CLI via mysql.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2468ec7ba15c2d5464d6d4cebd04bdfe63d0f177.png"></article>]]></description>
+            <link>https://ma.ttias.be/mysql-slow-query-log-without-restart/</link>
+            <guid isPermaLink="false">479d7a7f-fbad-4c06-b9f3-1dcbcd225eaf</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MySQL :: MySQL 5.5 Reference Manual :: 14.15 InnoDB Startup Options and System Variables]]></title>
+            <description><![CDATA[<article><h1>MySQL :: MySQL 5.5 Reference Manual :: 14.15 InnoDB Startup Options and System Variables</h1><p>System variables that are true or false can be enabled at server startup by naming them, or disabled by using a --skip- prefix. For example, to enable or disable InnoDB checksums, you can use--innodb_checksums or--skip-innodb_checksums on the command line, orinnodb_checksums or skip-innodb_checksums in an option file.</p></article>]]></description>
+            <link>http://dev.mysql.com/doc/refman/5.5/en/innodb-parameters.html#sysvar_innodb_stats_on_metadata</link>
+            <guid isPermaLink="false">b8888f0b-03d3-4bd6-b385-6d47709f5943</guid>
+            <pubDate>Mon, 02 May 2016 23:32:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
