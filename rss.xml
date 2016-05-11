@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 18:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 18:19:47 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UNIX / Linux: 10 Netstat Command Examples]]></title>
+            <description><![CDATA[<article><h1>UNIX / Linux: 10 Netstat Command Examples</h1><p>Netstat command displays various network related information such as network connections, routing tables, interface statistics, masquerade connections, multicast memberships etc., In this article, let us review 10 practical unix netstat command examples.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b07114a265ab6fa5205c1c1db4471e0d630375a5.png"></article>]]></description>
+            <link>http://www.thegeekstuff.com/2010/03/netstat-command-examples/</link>
+            <guid isPermaLink="false">5ee3fac5-1538-4fb9-ab5e-d6914ff4e879</guid>
+            <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Connectwise API with PHP? * /r/msp]]></title>
+            <description><![CDATA[<article><h1>Connectwise API with PHP? * /r/msp</h1><p>Anyone familiar with using the Connectwise SOAP API using PHP? Specifically, the time entry API. I'm having trouble getting it to work and I'm...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/msp/comments/3f806g/connectwise_api_with_php/</link>
+            <guid isPermaLink="false">655d33a0-1a01-42fe-84b1-53b5ce826f67</guid>
+            <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Call a REST API in PHP]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Convert and Loop through JSON with PHP and JavaScript Arrays/Objects</h1><p>If you're working with JSON (JavaScript Object Notation) and either need to convert a JSON string to array or object and loop through it or vice-versa, take an array or object and convert it to a JSON string to return, both can be done in PHP or JavaScript.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/894a648212ecaa106249a6b81843ac4f8b830ad6.png"></article>]]></description>
             <link>https://jonsuh.com/blog/convert-loop-through-json-php-javascript-arrays-objects/</link>
             <guid isPermaLink="false">458a6fe1-f0b8-4b06-b23e-94a831466cb6</guid>
-            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creating a simple REST API in PHP]]></title>
-            <description><![CDATA[<article><h1>Creating a simple REST API in PHP</h1><p>I'm the author of php-crud-api and I want to share the core of the application with you. It includes routing a JSON REST request, converting it into SQL, executing it and giving a meaningful response.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db36ab790f69a1d028a02e8332582243aeddf701.png"></article>]]></description>
-            <link>https://www.leaseweb.com/labs/2015/10/creating-a-simple-rest-api-in-php/</link>
-            <guid isPermaLink="false">4116148f-cdff-4ae6-b5e6-737af4d7aadf</guid>
-            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Learn REST: A Tutorial]]></title>
-            <description><![CDATA[<article><h1>Learn REST: A Tutorial</h1><p>Issuing GET Requests Modern versions of PHP make it trivial to GET web pages: any file-access function (even include!) works seamlessly with URLs, too. Thus, you can use , file_get_contents , and any other file-reading function to issue GET requests.</p></article>]]></description>
-            <link>http://rest.elkstein.org/2008/02/using-rest-in-php.html</link>
-            <guid isPermaLink="false">b6a8eb9d-ea4e-414d-bf33-5c852ce0877d</guid>
             <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
         </item>
     </channel>
