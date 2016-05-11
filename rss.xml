@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 02:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 02:03:11 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,27 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to use "grep" command to find text including subdirectories]]></title>
+            <description><![CDATA[<article><h1>How to use "grep" command to find text including subdirectories</h1><p>I want to find all files which contain a specific string of text. The grep command works, but I don't know how to use it for every directory (I can only do it for my current directory). I tried rea...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e08e1ffd00063338d06d46eb49eaafd8f752cbca.png"></article>]]></description>
+            <link>http://askubuntu.com/questions/55325/how-to-use-grep-command-to-find-text-including-subdirectories</link>
+            <guid isPermaLink="false">47ec6423-391e-47e2-9847-c1e994811117</guid>
+            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[XML parsing in PHP - Pixelcode]]></title>
+            <description><![CDATA[<article><h1>XML parsing in PHP - Pixelcode</h1><p>We firstly need to create the parser: $parser = xml_parser_create(); When the parser reads the XML it can call functions that we can then add code to handle. The code below makes the parser call function when a new element is found within an XML document, and when the end of an element is detected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9014eb7d0f7085e00168b042786e450f709087cf.png"></article>]]></description>
+            <link>http://pixelcode.co.uk/tutorials/xml/xml-parsing-in-php/</link>
+            <guid isPermaLink="false">d98e7289-f370-4f4e-92c4-fd704860bbd2</guid>
+            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PHP xml_parser_create() Function]]></title>
+            <description><![CDATA[<article><h1>PHP xml_parser_create() Function</h1><p>Well organized and easy to understand Web bulding tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da5741fb1339c275b50559e87e211f0a2cee9f00.gif"></article>]]></description>
+            <link>http://www.w3schools.com/php/func_xml_parser_create.asp</link>
+            <guid isPermaLink="false">bcc6afd2-b746-48d0-9050-05d33baa10a3</guid>
+            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Installing SNMP MIB files in Linux Ubuntu 12.04 LTS, 14.04 LTS and 16.04 LTS]]></title>
@@ -35,13 +56,6 @@
             <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Curl: POST an XML file via cURL and PHP]]></title>
-            <description><![CDATA[<article><h1>Curl: POST an XML file via cURL and PHP</h1><p>curl_setopt($ch, CURLOPT_VERBOSE, 1); // set url to post to curl_setopt($ch, CURLOPT_URL, $url); // set url to post to curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); // return into a variable curl_setopt($ch, CURLOPT_HTTPHEADER, Array("Content-Type: text/xml")); curl_setopt($ch, CURLOPT_HEADER, 1); curl_setopt($ch, CURLOPT_TIMEOUT, 40); // times out after 4s curl_setopt($ch, CURLOPT_POSTFIELDS, $XPost); // add POST fields curl_setopt($ch, CURLOPT_POST, 1);</p></article>]]></description>
-            <link>https://curl.haxx.se/mail/curlphp-2006-10/0010.html</link>
-            <guid isPermaLink="false">692fde3b-ec19-4216-9e01-d08367c2962c</guid>
-            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[15 Useful MySQL/MariaDB Performance Tuning and Optimization Tips]]></title>
             <description><![CDATA[<article><h1>15 Useful MySQL/MariaDB Performance Tuning and Optimization Tips</h1><p>Choosing the right filesystem is vital for your databases. Most important things you need to consider here are - data integrity, performance and ease of administration. As per MariaDB's recommendations, the best file systems are XFS, Ext4 and Btrfs. All of them are enterprise journaling filesystems that can be used with very large files and large storage volumes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2938273e895a293163c45ba3645a97f013adc3a.png"></article>]]></description>
             <link>http://www.tecmint.com/mysql-mariadb-performance-tuning-and-optimization/4/</link>
@@ -49,31 +63,17 @@
             <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Curl: POST an XML file via cURL and PHP]]></title>
+            <description><![CDATA[<article><h1>Curl: POST an XML file via cURL and PHP</h1><p>curl_setopt($ch, CURLOPT_VERBOSE, 1); // set url to post to curl_setopt($ch, CURLOPT_URL, $url); // set url to post to curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); // return into a variable curl_setopt($ch, CURLOPT_HTTPHEADER, Array("Content-Type: text/xml")); curl_setopt($ch, CURLOPT_HEADER, 1); curl_setopt($ch, CURLOPT_TIMEOUT, 40); // times out after 4s curl_setopt($ch, CURLOPT_POSTFIELDS, $XPost); // add POST fields curl_setopt($ch, CURLOPT_POST, 1);</p></article>]]></description>
+            <link>https://curl.haxx.se/mail/curlphp-2006-10/0010.html</link>
+            <guid isPermaLink="false">692fde3b-ec19-4216-9e01-d08367c2962c</guid>
+            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to use "grep" command to find text including subdirectories]]></title>
             <description><![CDATA[<article><h1>How to use "grep" command to find text including subdirectories</h1><p>I want to find all files which contain a specific string of text. The grep command works, but I don't know how to use it for every directory (I can only do it for my current directory). I tried rea...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e08e1ffd00063338d06d46eb49eaafd8f752cbca.png"></article>]]></description>
             <link>http://askubuntu.com/questions/55325/how-to-use-grep-command-to-find-text-including-subdirectories</link>
             <guid isPermaLink="false">f099e613-7717-4ca8-839f-3efa19a54499</guid>
-            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Set Up a Firewall Using Iptables on Ubuntu 14.04 | DigitalOcean]]></title>
-            <description><![CDATA[<article><h1>How To Set Up a Firewall Using Iptables on Ubuntu 14.04 | DigitalOcean</h1><p>Setting up a good firewall is an essential step to take in securing any modern operating system. Most Linux distributions ship with a few different firewall tools that we can use to configure our firewalls. In this guide, we'll be covering the iptables firewall.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fdd6808e157dec0643175aeff2952434dc79107.png"></article>]]></description>
-            <link>https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-iptables-on-ubuntu-14-04</link>
-            <guid isPermaLink="false">3db299de-369d-4105-a2c2-529b1ce53c24</guid>
-            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is iptables getting double rules?]]></title>
-            <description><![CDATA[<article><h1>Why is iptables getting double rules?</h1><p>I have a server running Ubuntu 12.04. A couple of reboots back I started noticing that iptables rules get doubled upon reboot. This is what I get after a reboot (with added line breaks): $ sudo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e08e1ffd00063338d06d46eb49eaafd8f752cbca.png"></article>]]></description>
-            <link>http://askubuntu.com/questions/488894/why-is-iptables-getting-double-rules</link>
-            <guid isPermaLink="false">7bc7d93c-4f07-4ca7-9b1b-9c7999c9c9ae</guid>
-            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PHP SOAP Programming Tips and Tricks]]></title>
-            <description><![CDATA[<article><h1>PHP SOAP Programming Tips and Tricks</h1><p>This is a complete PHP SOAP Client example where we consumed the web services we developed here. You can also take a look at how we generated the WSDL file for the web service. The code below started by disabling WSDL cache and defined the wsdl location.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a70d71ed5b9992f34473b6ebe00ea983006e8d5.png"></article>]]></description>
-            <link>http://osarogabriel.blogspot.com/2014/03/a-complete-php-soap-client-example.html</link>
-            <guid isPermaLink="false">05c08400-bf47-4cf1-836b-bcef8727e3ed</guid>
             <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
         </item>
     </channel>
