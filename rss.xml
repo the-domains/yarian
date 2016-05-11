@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 18:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 18:19:43 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,48 +12,6 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ultimate Bash Array Tutorial with 15 Examples]]></title>
-            <description><![CDATA[<article><h1>The Ultimate Bash Array Tutorial with 15 Examples</h1><p>An array is a variable containing multiple values may be of same type or of different type. There is no maximum limit to the size of an array, nor any</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b538e834fa2801a9507ea96cf2fd400f97063883.gif"></article>]]></description>
-            <link>http://www.thegeekstuff.com/2010/06/bash-array-tutorial/</link>
-            <guid isPermaLink="false">9eca06f9-dc60-47ed-b190-b6b66d1b6905</guid>
-            <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UNIX / Linux: 10 Netstat Command Examples]]></title>
-            <description><![CDATA[<article><h1>UNIX / Linux: 10 Netstat Command Examples</h1><p>Netstat command displays various network related information such as network connections, routing tables, interface statistics, masquerade connections, multicast memberships etc., In this article, let us review 10 practical unix netstat command examples.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b07114a265ab6fa5205c1c1db4471e0d630375a5.png"></article>]]></description>
-            <link>http://www.thegeekstuff.com/2010/03/netstat-command-examples/</link>
-            <guid isPermaLink="false">5ee3fac5-1538-4fb9-ab5e-d6914ff4e879</guid>
-            <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can You Top This? 15 Practical Linux Top Command Examples]]></title>
-            <description><![CDATA[<article><h1>Can You Top This? 15 Practical Linux Top Command Examples</h1><p>This article is part of the on-going 15 example series where 15 examples will be provided for a specific command or functionality. In this series, earlier we discussed about find command, crontab examples, grep command, history command, ping command, and wget examples.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b049957ced960c70d68e4245a2e3d40a1960d1fa.png"></article>]]></description>
-            <link>http://www.thegeekstuff.com/2010/01/15-practical-unix-linux-top-command-examples/</link>
-            <guid isPermaLink="false">b020b078-107a-4721-af79-8d4177c73e6f</guid>
-            <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Connectwise API with PHP? * /r/msp]]></title>
-            <description><![CDATA[<article><h1>Connectwise API with PHP? * /r/msp</h1><p>Anyone familiar with using the Connectwise SOAP API using PHP? Specifically, the time entry API. I'm having trouble getting it to work and I'm...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/msp/comments/3f806g/connectwise_api_with_php/</link>
-            <guid isPermaLink="false">655d33a0-1a01-42fe-84b1-53b5ce826f67</guid>
-            <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Call a REST API in PHP]]></title>
-            <description><![CDATA[<article><h1>Call a REST API in PHP</h1><p>You will need to know if the REST API you are calling supports GET or POST, or both methods. The code below is something that works for me, I'm calling my own web service API, so I already know what the API takes and what it will return.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
-            <link>http://stackoverflow.com/questions/9802788/call-a-rest-api-in-php</link>
-            <guid isPermaLink="false">bb9cc043-cd90-47b9-8942-efba4bfb5f9d</guid>
-            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to make REST calls in PHP]]></title>
-            <description><![CDATA[<article><h1>How to make REST calls in PHP</h1><p>Example of calling GET request //next example will recieve all messages for specific conversation $service_url = 'http://example.com/api/conversations/[CONV_CODE]/messages&apikey=[API_KEY]'; $curl = c</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c598f102a6e85c4c6742e8df717d9e2f/croprotate.php?cropheight=41&cropwidth=243&degrees=0&input=https%3A%2F%2Fsupport.ladesk.com%2Fscripts%2Ffile.php%3Fview%3DY%26file%3D2a2f2096ece5375232b72bead5de4c81&x=0&y=2"></article>]]></description>
-            <link>https://support.ladesk.com/061754-How-to-make-REST-calls-in-PHP</link>
-            <guid isPermaLink="false">58f25291-7360-483f-8855-64ee3e5b19ca</guid>
-            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Base64 Decode and Encode - Online]]></title>
@@ -75,6 +33,48 @@
             <link>http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340</link>
             <guid isPermaLink="false">bfc8249f-a2b9-4c97-a352-726734caa37e</guid>
             <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RESTful Web Services Resources]]></title>
+            <description><![CDATA[<article><h1>RESTful Web Services Resources</h1><p>REST API eBook for Best Practices and other resources, such as open-source REST Service frameworks, etc.</p></article>]]></description>
+            <link>http://www.restapitutorial.com/resources.html</link>
+            <guid isPermaLink="false">1df37819-59af-419b-91fe-3b13fea8f6c4</guid>
+            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Convert and Loop through JSON with PHP and JavaScript Arrays/Objects]]></title>
+            <description><![CDATA[<article><h1>Convert and Loop through JSON with PHP and JavaScript Arrays/Objects</h1><p>If you're working with JSON (JavaScript Object Notation) and either need to convert a JSON string to array or object and loop through it or vice-versa, take an array or object and convert it to a JSON string to return, both can be done in PHP or JavaScript.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/894a648212ecaa106249a6b81843ac4f8b830ad6.png"></article>]]></description>
+            <link>https://jonsuh.com/blog/convert-loop-through-json-php-javascript-arrays-objects/</link>
+            <guid isPermaLink="false">458a6fe1-f0b8-4b06-b23e-94a831466cb6</guid>
+            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating a simple REST API in PHP]]></title>
+            <description><![CDATA[<article><h1>Creating a simple REST API in PHP</h1><p>I'm the author of php-crud-api and I want to share the core of the application with you. It includes routing a JSON REST request, converting it into SQL, executing it and giving a meaningful response.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db36ab790f69a1d028a02e8332582243aeddf701.png"></article>]]></description>
+            <link>https://www.leaseweb.com/labs/2015/10/creating-a-simple-rest-api-in-php/</link>
+            <guid isPermaLink="false">4116148f-cdff-4ae6-b5e6-737af4d7aadf</guid>
+            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learn REST: A Tutorial]]></title>
+            <description><![CDATA[<article><h1>Learn REST: A Tutorial</h1><p>Issuing GET Requests Modern versions of PHP make it trivial to GET web pages: any file-access function (even include!) works seamlessly with URLs, too. Thus, you can use , file_get_contents , and any other file-reading function to issue GET requests.</p></article>]]></description>
+            <link>http://rest.elkstein.org/2008/02/using-rest-in-php.html</link>
+            <guid isPermaLink="false">b6a8eb9d-ea4e-414d-bf33-5c852ce0877d</guid>
+            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ConnectWise REST API]]></title>
+            <description><![CDATA[<article><h1>ConnectWise REST API</h1><p>This section is definitely optional for you. And if you leave it in, you will need to make some changes. In my testing i found that the summary field can only be 100 characters so im truncating my data just in case its near that limit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f05cab48e62f49be00b1b5bc3a011be2e8512b82.png"></article>]]></description>
+            <link>http://justanotherpsblog.com/category/connectwise/</link>
+            <guid isPermaLink="false">dec2df4e-a6df-4480-8b1b-67f1564b3b9c</guid>
+            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PHP - Retrieving XML With Curl and SimpleXML - PHP Tutorials]]></title>
+            <description><![CDATA[<article><h1>PHP - Retrieving XML With Curl and SimpleXML - PHP Tutorials</h1><p>PHP 5 introduces SimpleXML and its a perfect name as parsing XML data is truly simple. In this tutorial we'll be using curl to retrieve the XML data from a remote web server. We're going to create a class to connect to the remote web server and pass POST data to the server and based on the POST data the remote server will return valid XML.</p></article>]]></description>
+            <link>http://www.higherpass.com/php/tutorials/retrieving-xml-with-curl-and-simplexml/</link>
+            <guid isPermaLink="false">512a9f7d-2621-4d79-a3ce-9eb8113c8c85</guid>
+            <pubDate>Wed, 11 May 2016 02:02:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
