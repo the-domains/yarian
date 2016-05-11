@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 02:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 02:02:42 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -14,10 +14,10 @@
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RAID 0, RAID 1, RAID 5, RAID 10 Explained with Diagrams]]></title>
-            <description><![CDATA[<article><h1>RAID 0, RAID 1, RAID 5, RAID 10 Explained with Diagrams</h1><p>RAID stands for Redundant Array of Inexpensive (Independent) Disks. On most situations you will be using one of the following four levels of RAIDs. This article explains the main difference between these raid levels along with an easy to understand diagram.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/972aec37ee27a791edf051842586e64eadc1beab.png"></article>]]></description>
-            <link>http://www.thegeekstuff.com/2010/08/raid-levels-tutorial/</link>
-            <guid isPermaLink="false">27d79fcf-e08c-451a-81e3-d3d51e16e78b</guid>
+            <title><![CDATA[15 Useful MySQL/MariaDB Performance Tuning and Optimization Tips]]></title>
+            <description><![CDATA[<article><h1>15 Useful MySQL/MariaDB Performance Tuning and Optimization Tips</h1><p>Choosing the right filesystem is vital for your databases. Most important things you need to consider here are - data integrity, performance and ease of administration. As per MariaDB's recommendations, the best file systems are XFS, Ext4 and Btrfs. All of them are enterprise journaling filesystems that can be used with very large files and large storage volumes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2938273e895a293163c45ba3645a97f013adc3a.png"></article>]]></description>
+            <link>http://www.tecmint.com/mysql-mariadb-performance-tuning-and-optimization/4/</link>
+            <guid isPermaLink="false">414ed1a9-713d-4f67-947c-d9afdb768a2d</guid>
             <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
         </item>
         <item>
@@ -25,13 +25,6 @@
             <description><![CDATA[<article><h1>Curl: POST an XML file via cURL and PHP</h1><p>curl_setopt($ch, CURLOPT_VERBOSE, 1); // set url to post to curl_setopt($ch, CURLOPT_URL, $url); // set url to post to curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); // return into a variable curl_setopt($ch, CURLOPT_HTTPHEADER, Array("Content-Type: text/xml")); curl_setopt($ch, CURLOPT_HEADER, 1); curl_setopt($ch, CURLOPT_TIMEOUT, 40); // times out after 4s curl_setopt($ch, CURLOPT_POSTFIELDS, $XPost); // add POST fields curl_setopt($ch, CURLOPT_POST, 1);</p></article>]]></description>
             <link>https://curl.haxx.se/mail/curlphp-2006-10/0010.html</link>
             <guid isPermaLink="false">692fde3b-ec19-4216-9e01-d08367c2962c</guid>
-            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15 Useful MySQL/MariaDB Performance Tuning and Optimization Tips]]></title>
-            <description><![CDATA[<article><h1>15 Useful MySQL/MariaDB Performance Tuning and Optimization Tips</h1><p>Choosing the right filesystem is vital for your databases. Most important things you need to consider here are - data integrity, performance and ease of administration. As per MariaDB's recommendations, the best file systems are XFS, Ext4 and Btrfs. All of them are enterprise journaling filesystems that can be used with very large files and large storage volumes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2938273e895a293163c45ba3645a97f013adc3a.png"></article>]]></description>
-            <link>http://www.tecmint.com/mysql-mariadb-performance-tuning-and-optimization/4/</link>
-            <guid isPermaLink="false">414ed1a9-713d-4f67-947c-d9afdb768a2d</guid>
             <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Extracting XML data in PHP with SimpleXML</h1><p>Bobulous Central → Coding → XML feeds using SimpleXML. Some of my previous articles were about extracting XML using regular expressions. This method was useful in PHP 4 as a quick way to grab pieces of data in well-structured XML documents, but it had its limitations.</p></article>]]></description>
             <link>http://www.bobulous.org.uk/coding/php-5-xml-feeds.html</link>
             <guid isPermaLink="false">9e39df07-167c-48f1-8b19-4a6a50d5c4ed</guid>
+            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PHP SOAP Request not right]]></title>
+            <description><![CDATA[<article><h1>PHP SOAP Request not right</h1><p>i try to build following SOAP Request: &lt;?xml version="1.0" encoding="utf-8"?&gt; &lt;soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSch...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
+            <link>http://stackoverflow.com/questions/10297099/php-soap-request-not-right</link>
+            <guid isPermaLink="false">0271b904-7ebb-4e88-8498-d99aa8d18a20</guid>
             <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
         </item>
     </channel>
