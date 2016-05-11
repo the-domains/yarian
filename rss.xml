@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 02:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 02:03:11 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -14,8 +14,36 @@
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[PHP - Retrieving XML With Curl and SimpleXML - PHP Tutorials]]></title>
+            <description><![CDATA[<article><h1>PHP - Retrieving XML With Curl and SimpleXML - PHP Tutorials</h1><p>PHP 5 introduces SimpleXML and its a perfect name as parsing XML data is truly simple. In this tutorial we'll be using curl to retrieve the XML data from a remote web server. We're going to create a class to connect to the remote web server and pass POST data to the server and based on the POST data the remote server will return valid XML.</p></article>]]></description>
+            <link>http://www.higherpass.com/php/tutorials/retrieving-xml-with-curl-and-simplexml/</link>
+            <guid isPermaLink="false">512a9f7d-2621-4d79-a3ce-9eb8113c8c85</guid>
+            <pubDate>Wed, 11 May 2016 02:02:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Writing Logs Into Tables]]></title>
+            <description><![CDATA[<article><h1>Writing Logs Into Tables</h1><p>By default, all logs are disabled or written into files. The general query log and the slow query log can also be written to special tables in the mysql database. During the startup, entries will always be written into files.</p></article>]]></description>
+            <link>https://mariadb.com/kb/en/mariadb/writing-logs-into-tables/</link>
+            <guid isPermaLink="false">8713da8e-6937-49cd-8187-4320408453f9</guid>
+            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to use "grep" command to find text including subdirectories]]></title>
+            <description><![CDATA[<article><h1>How to use "grep" command to find text including subdirectories</h1><p>I want to find all files which contain a specific string of text. The grep command works, but I don't know how to use it for every directory (I can only do it for my current directory). I tried rea...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e08e1ffd00063338d06d46eb49eaafd8f752cbca.png"></article>]]></description>
+            <link>http://askubuntu.com/questions/55325/how-to-use-grep-command-to-find-text-including-subdirectories</link>
+            <guid isPermaLink="false">47ec6423-391e-47e2-9847-c1e994811117</guid>
+            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[XML parsing in PHP - Pixelcode]]></title>
+            <description><![CDATA[<article><h1>XML parsing in PHP - Pixelcode</h1><p>We firstly need to create the parser: $parser = xml_parser_create(); When the parser reads the XML it can call functions that we can then add code to handle. The code below makes the parser call function when a new element is found within an XML document, and when the end of an element is detected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9014eb7d0f7085e00168b042786e450f709087cf.png"></article>]]></description>
+            <link>http://pixelcode.co.uk/tutorials/xml/xml-parsing-in-php/</link>
+            <guid isPermaLink="false">d98e7289-f370-4f4e-92c4-fd704860bbd2</guid>
+            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[PHP xml_parser_create() Function]]></title>
-            <description><![CDATA[<article><h1>PHP xml_parser_create() Function</h1><p>Well organized and easy to understand Web bulding tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10ac2f0ab6bb38cf45791d622fa3221dd43da68f.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>PHP xml_parser_create() Function</h1><p>Well organized and easy to understand Web bulding tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da5741fb1339c275b50559e87e211f0a2cee9f00.gif"></article>]]></description>
             <link>http://www.w3schools.com/php/func_xml_parser_create.asp</link>
             <guid isPermaLink="false">bcc6afd2-b746-48d0-9050-05d33baa10a3</guid>
             <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
@@ -42,39 +70,11 @@
             <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Curl: POST an XML file via cURL and PHP]]></title>
-            <description><![CDATA[<article><h1>Curl: POST an XML file via cURL and PHP</h1><p>curl_setopt($ch, CURLOPT_VERBOSE, 1); // set url to post to curl_setopt($ch, CURLOPT_URL, $url); // set url to post to curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); // return into a variable curl_setopt($ch, CURLOPT_HTTPHEADER, Array("Content-Type: text/xml")); curl_setopt($ch, CURLOPT_HEADER, 1); curl_setopt($ch, CURLOPT_TIMEOUT, 40); // times out after 4s curl_setopt($ch, CURLOPT_POSTFIELDS, $XPost); // add POST fields curl_setopt($ch, CURLOPT_POST, 1);</p></article>]]></description>
-            <link>https://curl.haxx.se/mail/curlphp-2006-10/0010.html</link>
-            <guid isPermaLink="false">692fde3b-ec19-4216-9e01-d08367c2962c</guid>
-            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[15 Useful MySQL/MariaDB Performance Tuning and Optimization Tips]]></title>
             <description><![CDATA[<article><h1>15 Useful MySQL/MariaDB Performance Tuning and Optimization Tips</h1><p>Choosing the right filesystem is vital for your databases. Most important things you need to consider here are - data integrity, performance and ease of administration. As per MariaDB's recommendations, the best file systems are XFS, Ext4 and Btrfs. All of them are enterprise journaling filesystems that can be used with very large files and large storage volumes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2938273e895a293163c45ba3645a97f013adc3a.png"></article>]]></description>
             <link>http://www.tecmint.com/mysql-mariadb-performance-tuning-and-optimization/4/</link>
             <guid isPermaLink="false">414ed1a9-713d-4f67-947c-d9afdb768a2d</guid>
             <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to use "grep" command to find text including subdirectories]]></title>
-            <description><![CDATA[<article><h1>How to use "grep" command to find text including subdirectories</h1><p>I want to find all files which contain a specific string of text. The grep command works, but I don't know how to use it for every directory (I can only do it for my current directory). I tried rea...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e08e1ffd00063338d06d46eb49eaafd8f752cbca.png"></article>]]></description>
-            <link>http://askubuntu.com/questions/55325/how-to-use-grep-command-to-find-text-including-subdirectories</link>
-            <guid isPermaLink="false">f099e613-7717-4ca8-839f-3efa19a54499</guid>
-            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How To Set Up a Firewall Using Iptables on Ubuntu 14.04 | DigitalOcean]]></title>
-            <description><![CDATA[<article><h1>How To Set Up a Firewall Using Iptables on Ubuntu 14.04 | DigitalOcean</h1><p>Setting up a good firewall is an essential step to take in securing any modern operating system. Most Linux distributions ship with a few different firewall tools that we can use to configure our firewalls. In this guide, we'll be covering the iptables firewall.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fdd6808e157dec0643175aeff2952434dc79107.png"></article>]]></description>
-            <link>https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-iptables-on-ubuntu-14-04</link>
-            <guid isPermaLink="false">3db299de-369d-4105-a2c2-529b1ce53c24</guid>
-            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why is iptables getting double rules?]]></title>
-            <description><![CDATA[<article><h1>Why is iptables getting double rules?</h1><p>I have a server running Ubuntu 12.04. A couple of reboots back I started noticing that iptables rules get doubled upon reboot. This is what I get after a reboot (with added line breaks): $ sudo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e08e1ffd00063338d06d46eb49eaafd8f752cbca.png"></article>]]></description>
-            <link>http://askubuntu.com/questions/488894/why-is-iptables-getting-double-rules</link>
-            <guid isPermaLink="false">7bc7d93c-4f07-4ca7-9b1b-9c7999c9c9ae</guid>
-            <pubDate>Fri, 06 May 2016 05:27:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
