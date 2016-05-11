@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 18:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 18:18:59 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -14,67 +14,67 @@
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UNIX / Linux: 10 Netstat Command Examples]]></title>
-            <description><![CDATA[<article><h1>UNIX / Linux: 10 Netstat Command Examples</h1><p>Netstat command displays various network related information such as network connections, routing tables, interface statistics, masquerade connections, multicast memberships etc., In this article, let us review 10 practical unix netstat command examples.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b07114a265ab6fa5205c1c1db4471e0d630375a5.png"></article>]]></description>
-            <link>http://www.thegeekstuff.com/2010/03/netstat-command-examples/</link>
-            <guid isPermaLink="false">5ee3fac5-1538-4fb9-ab5e-d6914ff4e879</guid>
-            <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Connectwise API with PHP? * /r/msp]]></title>
-            <description><![CDATA[<article><h1>Connectwise API with PHP? * /r/msp</h1><p>Anyone familiar with using the Connectwise SOAP API using PHP? Specifically, the time entry API. I'm having trouble getting it to work and I'm...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/msp/comments/3f806g/connectwise_api_with_php/</link>
-            <guid isPermaLink="false">655d33a0-1a01-42fe-84b1-53b5ce826f67</guid>
-            <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Call a REST API in PHP]]></title>
-            <description><![CDATA[<article><h1>Call a REST API in PHP</h1><p>You will need to know if the REST API you are calling supports GET or POST, or both methods. The code below is something that works for me, I'm calling my own web service API, so I already know what the API takes and what it will return.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
-            <link>http://stackoverflow.com/questions/9802788/call-a-rest-api-in-php</link>
-            <guid isPermaLink="false">bb9cc043-cd90-47b9-8942-efba4bfb5f9d</guid>
+            <title><![CDATA[ConnectWise REST API]]></title>
+            <description><![CDATA[<article><h1>ConnectWise REST API</h1><p>This section is definitely optional for you. And if you leave it in, you will need to make some changes. In my testing i found that the summary field can only be 100 characters so im truncating my data just in case its near that limit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f05cab48e62f49be00b1b5bc3a011be2e8512b82.png"></article>]]></description>
+            <link>http://justanotherpsblog.com/category/connectwise/</link>
+            <guid isPermaLink="false">dec2df4e-a6df-4480-8b1b-67f1564b3b9c</guid>
             <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How to make REST calls in PHP]]></title>
-            <description><![CDATA[<article><h1>How to make REST calls in PHP</h1><p>Example of calling GET request //next example will recieve all messages for specific conversation $service_url = 'http://example.com/api/conversations/[CONV_CODE]/messages&apikey=[API_KEY]'; $curl = c</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c598f102a6e85c4c6742e8df717d9e2f/croprotate.php?cropheight=41&cropwidth=243&degrees=0&input=https%3A%2F%2Fsupport.ladesk.com%2Fscripts%2Ffile.php%3Fview%3DY%26file%3D2a2f2096ece5375232b72bead5de4c81&x=0&y=2"></article>]]></description>
-            <link>https://support.ladesk.com/061754-How-to-make-REST-calls-in-PHP</link>
-            <guid isPermaLink="false">58f25291-7360-483f-8855-64ee3e5b19ca</guid>
-            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
+            <title><![CDATA[PHP - Retrieving XML With Curl and SimpleXML - PHP Tutorials]]></title>
+            <description><![CDATA[<article><h1>PHP - Retrieving XML With Curl and SimpleXML - PHP Tutorials</h1><p>PHP 5 introduces SimpleXML and its a perfect name as parsing XML data is truly simple. In this tutorial we'll be using curl to retrieve the XML data from a remote web server. We're going to create a class to connect to the remote web server and pass POST data to the server and based on the POST data the remote server will return valid XML.</p></article>]]></description>
+            <link>http://www.higherpass.com/php/tutorials/retrieving-xml-with-curl-and-simplexml/</link>
+            <guid isPermaLink="false">512a9f7d-2621-4d79-a3ce-9eb8113c8c85</guid>
+            <pubDate>Wed, 11 May 2016 02:02:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Base64 Decode and Encode - Online]]></title>
-            <description><![CDATA[<article><h1>Base64 Decode and Encode - Online</h1><p>Base64 Base64 is a generic term for a number of similar encoding schemes that encode binary data by treating it numerically and translating it into a base 64 representation. The Base64 term originates from a specific MIME content transfer encoding.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2379c23c44172eb32f02a0b93833dfc8942fd279.jpg"></article>]]></description>
-            <link>https://www.base64encode.org/</link>
-            <guid isPermaLink="false">cdd9775f-0240-42f6-9e53-84505214616e</guid>
-            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
+            <title><![CDATA[Writing Logs Into Tables]]></title>
+            <description><![CDATA[<article><h1>Writing Logs Into Tables</h1><p>By default, all logs are disabled or written into files. The general query log and the slow query log can also be written to special tables in the mysql database. During the startup, entries will always be written into files.</p></article>]]></description>
+            <link>https://mariadb.com/kb/en/mariadb/writing-logs-into-tables/</link>
+            <guid isPermaLink="false">8713da8e-6937-49cd-8187-4320408453f9</guid>
+            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[REST API - A Simple PHP Tutorial]]></title>
-            <description><![CDATA[<article><h1>REST API - A Simple PHP Tutorial</h1><p>A REST API allows your users to interact with your website from anything that can send an HTTP request. The Twitter feed displayed on the right side of this blog is using a REST API from twitter. It allows me to pull my latest tweets and display them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
-            <link>http://blog.ijasoneverett.com/2013/02/rest-api-a-simple-php-tutorial/</link>
-            <guid isPermaLink="false">7fc73c70-476f-4a6e-a842-df73ff3e25bc</guid>
-            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
+            <title><![CDATA[How to use "grep" command to find text including subdirectories]]></title>
+            <description><![CDATA[<article><h1>How to use "grep" command to find text including subdirectories</h1><p>I want to find all files which contain a specific string of text. The grep command works, but I don't know how to use it for every directory (I can only do it for my current directory). I tried rea...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e08e1ffd00063338d06d46eb49eaafd8f752cbca.png"></article>]]></description>
+            <link>http://askubuntu.com/questions/55325/how-to-use-grep-command-to-find-text-including-subdirectories</link>
+            <guid isPermaLink="false">47ec6423-391e-47e2-9847-c1e994811117</guid>
+            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Beginner's Guide to HTTP and REST]]></title>
-            <description><![CDATA[<article><h1>A Beginner's Guide to HTTP and REST</h1><p>Hypertext Transfer Protocol (HTTP) is the life of the web. It's used every time you transfer a document, or make an AJAX request. But HTTP is surprisingly a relative unknown among some web developers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8207ee9ffddbd67664c8cc9e63f0b3351a0948de.jpg"></article>]]></description>
-            <link>http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340</link>
-            <guid isPermaLink="false">bfc8249f-a2b9-4c97-a352-726734caa37e</guid>
-            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
+            <title><![CDATA[XML parsing in PHP - Pixelcode]]></title>
+            <description><![CDATA[<article><h1>XML parsing in PHP - Pixelcode</h1><p>We firstly need to create the parser: $parser = xml_parser_create(); When the parser reads the XML it can call functions that we can then add code to handle. The code below makes the parser call function when a new element is found within an XML document, and when the end of an element is detected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9014eb7d0f7085e00168b042786e450f709087cf.png"></article>]]></description>
+            <link>http://pixelcode.co.uk/tutorials/xml/xml-parsing-in-php/</link>
+            <guid isPermaLink="false">d98e7289-f370-4f4e-92c4-fd704860bbd2</guid>
+            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RESTful Web Services Resources]]></title>
-            <description><![CDATA[<article><h1>RESTful Web Services Resources</h1><p>REST API eBook for Best Practices and other resources, such as open-source REST Service frameworks, etc.</p></article>]]></description>
-            <link>http://www.restapitutorial.com/resources.html</link>
-            <guid isPermaLink="false">1df37819-59af-419b-91fe-3b13fea8f6c4</guid>
-            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
+            <title><![CDATA[PHP xml_parser_create() Function]]></title>
+            <description><![CDATA[<article><h1>PHP xml_parser_create() Function</h1><p>Well organized and easy to understand Web bulding tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da5741fb1339c275b50559e87e211f0a2cee9f00.gif"></article>]]></description>
+            <link>http://www.w3schools.com/php/func_xml_parser_create.asp</link>
+            <guid isPermaLink="false">bcc6afd2-b746-48d0-9050-05d33baa10a3</guid>
+            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Convert and Loop through JSON with PHP and JavaScript Arrays/Objects]]></title>
-            <description><![CDATA[<article><h1>Convert and Loop through JSON with PHP and JavaScript Arrays/Objects</h1><p>If you're working with JSON (JavaScript Object Notation) and either need to convert a JSON string to array or object and loop through it or vice-versa, take an array or object and convert it to a JSON string to return, both can be done in PHP or JavaScript.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/894a648212ecaa106249a6b81843ac4f8b830ad6.png"></article>]]></description>
-            <link>https://jonsuh.com/blog/convert-loop-through-json-php-javascript-arrays-objects/</link>
-            <guid isPermaLink="false">458a6fe1-f0b8-4b06-b23e-94a831466cb6</guid>
-            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
+            <title><![CDATA[Installing SNMP MIB files in Linux Ubuntu 12.04 LTS, 14.04 LTS and 16.04 LTS]]></title>
+            <description><![CDATA[<article><h1>Installing SNMP MIB files in Linux Ubuntu 12.04 LTS, 14.04 LTS and 16.04 LTS</h1><p>I'm in the middle of upgrading old servers but it was just only yesterday that I found Ubuntu 12.04 didn't install the MIB files. Even if you install the SNMP applications. It was really strange to launch tkmib and just see a couple of nodes. The explanation is simple.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
+            <link>http://thejoyofstick.com/blog/2012/12/01/installing-snmp-mib-files-in-linux-ubuntu-12-04-lts/</link>
+            <guid isPermaLink="false">c1eb96b0-47a5-4e29-a098-2f81242bd689</guid>
+            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apache Server Guide Archives - Make Tech Easier]]></title>
+            <description><![CDATA[<article><h1>Apache Server Guide Archives - Make Tech Easier</h1><p>Apache web server is the most popular web server around the world. As a continuation of part 1, here we share advanced security tips & tricks for securing Apache web server.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f43bb621a79b279c8c9157bbdb5541c9b4ff247d.png"></article>]]></description>
+            <link>https://www.maketecheasier.com/series/apache-server-guide/</link>
+            <guid isPermaLink="false">dbb9fee3-cf88-4a6a-9b9b-944472626c9c</guid>
+            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RAID 0, RAID 1, RAID 5, RAID 10 Explained with Diagrams]]></title>
+            <description><![CDATA[<article><h1>RAID 0, RAID 1, RAID 5, RAID 10 Explained with Diagrams</h1><p>RAID stands for Redundant Array of Inexpensive (Independent) Disks. On most situations you will be using one of the following four levels of RAIDs. This article explains the main difference between these raid levels along with an easy to understand diagram.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/972aec37ee27a791edf051842586e64eadc1beab.png"></article>]]></description>
+            <link>http://www.thegeekstuff.com/2010/08/raid-levels-tutorial/</link>
+            <guid isPermaLink="false">27d79fcf-e08c-451a-81e3-d3d51e16e78b</guid>
+            <pubDate>Wed, 11 May 2016 02:02:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
