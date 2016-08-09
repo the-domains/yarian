@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 16:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 16:44:05 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Speed Up Your App's API Consumption]]></title>
+            <description><![CDATA[<article><h1>How to Speed Up Your App's API Consumption</h1><p>In the process of creating a PHP application you may come to a point when keeping it isolated from remote resources or services may become a barrier in its development. To move along with the project you may employ different API services to fetch remote data, connect with user accounts on other websites or transform resources shared by your application.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fa0449ad1575abe92e7e989747c0aaa1b84ff06.jpg"></article>]]></description>
+            <link>http://www.sitepoint.com/speed-apps-api-consumption/</link>
+            <guid isPermaLink="false">b9827217-c818-4db5-ad4c-51642b660c9c</guid>
+            <pubDate>Tue, 09 Aug 2016 16:43:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simultaneuos HTTP requests in PHP with cURL]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Linux Crontab: 15 Awesome Cron Job Examples</h1><p>An experienced Linux sysadmin knows the importance of running the routine maintenance jobs in the background automatically. Linux Cron utility is an effective way to schedule a routine background job at a specific time and/or day on an on-going basis. This article is part of the on-going Productivity Tips For Geeks series.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5853765d7d6cf65bcb71f4018fdcc62db3ead02b.png"></article>]]></description>
             <link>http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/</link>
             <guid isPermaLink="false">abde6e7c-e92b-4357-8cc6-d0c6d63d7af3</guid>
-            <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ultimate Bash Array Tutorial with 15 Examples]]></title>
-            <description><![CDATA[<article><h1>The Ultimate Bash Array Tutorial with 15 Examples</h1><p>An array is a variable containing multiple values may be of same type or of different type. There is no maximum limit to the size of an array, nor any</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b538e834fa2801a9507ea96cf2fd400f97063883.gif"></article>]]></description>
-            <link>http://www.thegeekstuff.com/2010/06/bash-array-tutorial/</link>
-            <guid isPermaLink="false">9eca06f9-dc60-47ed-b190-b6b66d1b6905</guid>
             <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
         </item>
     </channel>
