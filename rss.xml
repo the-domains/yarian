@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 16:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 16:44:04 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simultaneuos HTTP requests in PHP with cURL]]></title>
+            <description><![CDATA[<article><h1>Simultaneuos HTTP requests in PHP with cURL</h1><p>The basic idea of a Web 2.0-style "mashup" is that you consume data from several services, often from different providers and combine them in interesting ways. This means you often need to do more than one HTTP request to a service or services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df7b05feeff28cbf79defd3f15723262f2e9add4.gif"></article>]]></description>
+            <link>http://www.phpied.com/simultaneuos-http-requests-in-php-with-curl/</link>
+            <guid isPermaLink="false">6ebe6e4d-d831-4935-9d2b-164caa35c8f9</guid>
+            <pubDate>Tue, 09 Aug 2016 16:43:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deploy Your Own REST API in 30 Mins Using mLab and Heroku]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Ultimate Bash Array Tutorial with 15 Examples</h1><p>An array is a variable containing multiple values may be of same type or of different type. There is no maximum limit to the size of an array, nor any</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b538e834fa2801a9507ea96cf2fd400f97063883.gif"></article>]]></description>
             <link>http://www.thegeekstuff.com/2010/06/bash-array-tutorial/</link>
             <guid isPermaLink="false">9eca06f9-dc60-47ed-b190-b6b66d1b6905</guid>
-            <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UNIX / Linux: 10 Netstat Command Examples]]></title>
-            <description><![CDATA[<article><h1>UNIX / Linux: 10 Netstat Command Examples</h1><p>Netstat command displays various network related information such as network connections, routing tables, interface statistics, masquerade connections, multicast memberships etc., In this article, let us review 10 practical unix netstat command examples.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5853765d7d6cf65bcb71f4018fdcc62db3ead02b.png"></article>]]></description>
-            <link>http://www.thegeekstuff.com/2010/03/netstat-command-examples/</link>
-            <guid isPermaLink="false">5ee3fac5-1538-4fb9-ab5e-d6914ff4e879</guid>
             <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
         </item>
     </channel>
