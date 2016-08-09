@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 18:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 16:43:17 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -14,8 +14,29 @@
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[What Are APIs and How Do They Work?]]></title>
+            <description><![CDATA[<article><h1>What Are APIs and How Do They Work?</h1><p>When it comes to the application programming interfaces (APIs) and the API economy, the only question that gets asked more frequently than "Why do I need...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af28853be529bc6ff1b1eb7b7cf78a7225571997.png"></article>]]></description>
+            <link>http://www.programmableweb.com/api-university/what-are-apis-and-how-do-they-work</link>
+            <guid isPermaLink="false">0c5ca767-042d-48df-b634-581e9370a4d1</guid>
+            <pubDate>Tue, 09 Aug 2016 16:43:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Linux Crontab: 15 Awesome Cron Job Examples]]></title>
+            <description><![CDATA[<article><h1>Linux Crontab: 15 Awesome Cron Job Examples</h1><p>An experienced Linux sysadmin knows the importance of running the routine maintenance jobs in the background automatically. Linux Cron utility is an effective way to schedule a routine background job at a specific time and/or day on an on-going basis. This article is part of the on-going Productivity Tips For Geeks series.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5853765d7d6cf65bcb71f4018fdcc62db3ead02b.png"></article>]]></description>
+            <link>http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/</link>
+            <guid isPermaLink="false">abde6e7c-e92b-4357-8cc6-d0c6d63d7af3</guid>
+            <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ultimate Bash Array Tutorial with 15 Examples]]></title>
+            <description><![CDATA[<article><h1>The Ultimate Bash Array Tutorial with 15 Examples</h1><p>An array is a variable containing multiple values may be of same type or of different type. There is no maximum limit to the size of an array, nor any</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b538e834fa2801a9507ea96cf2fd400f97063883.gif"></article>]]></description>
+            <link>http://www.thegeekstuff.com/2010/06/bash-array-tutorial/</link>
+            <guid isPermaLink="false">9eca06f9-dc60-47ed-b190-b6b66d1b6905</guid>
+            <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[UNIX / Linux: 10 Netstat Command Examples]]></title>
-            <description><![CDATA[<article><h1>UNIX / Linux: 10 Netstat Command Examples</h1><p>Netstat command displays various network related information such as network connections, routing tables, interface statistics, masquerade connections, multicast memberships etc., In this article, let us review 10 practical unix netstat command examples.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b07114a265ab6fa5205c1c1db4471e0d630375a5.png"></article>]]></description>
+            <description><![CDATA[<article><h1>UNIX / Linux: 10 Netstat Command Examples</h1><p>Netstat command displays various network related information such as network connections, routing tables, interface statistics, masquerade connections, multicast memberships etc., In this article, let us review 10 practical unix netstat command examples.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5853765d7d6cf65bcb71f4018fdcc62db3ead02b.png"></article>]]></description>
             <link>http://www.thegeekstuff.com/2010/03/netstat-command-examples/</link>
             <guid isPermaLink="false">5ee3fac5-1538-4fb9-ab5e-d6914ff4e879</guid>
             <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Base64 Decode and Encode - Online</h1><p>Base64 Base64 is a generic term for a number of similar encoding schemes that encode binary data by treating it numerically and translating it into a base 64 representation. The Base64 term originates from a specific MIME content transfer encoding.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2379c23c44172eb32f02a0b93833dfc8942fd279.jpg"></article>]]></description>
             <link>https://www.base64encode.org/</link>
             <guid isPermaLink="false">cdd9775f-0240-42f6-9e53-84505214616e</guid>
-            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[REST API - A Simple PHP Tutorial]]></title>
-            <description><![CDATA[<article><h1>REST API - A Simple PHP Tutorial</h1><p>A REST API allows your users to interact with your website from anything that can send an HTTP request. The Twitter feed displayed on the right side of this blog is using a REST API from twitter. It allows me to pull my latest tweets and display them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
-            <link>http://blog.ijasoneverett.com/2013/02/rest-api-a-simple-php-tutorial/</link>
-            <guid isPermaLink="false">7fc73c70-476f-4a6e-a842-df73ff3e25bc</guid>
-            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Beginner's Guide to HTTP and REST]]></title>
-            <description><![CDATA[<article><h1>A Beginner's Guide to HTTP and REST</h1><p>Hypertext Transfer Protocol (HTTP) is the life of the web. It's used every time you transfer a document, or make an AJAX request. But HTTP is surprisingly a relative unknown among some web developers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8207ee9ffddbd67664c8cc9e63f0b3351a0948de.jpg"></article>]]></description>
-            <link>http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340</link>
-            <guid isPermaLink="false">bfc8249f-a2b9-4c97-a352-726734caa37e</guid>
-            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RESTful Web Services Resources]]></title>
-            <description><![CDATA[<article><h1>RESTful Web Services Resources</h1><p>REST API eBook for Best Practices and other resources, such as open-source REST Service frameworks, etc.</p></article>]]></description>
-            <link>http://www.restapitutorial.com/resources.html</link>
-            <guid isPermaLink="false">1df37819-59af-419b-91fe-3b13fea8f6c4</guid>
             <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
         </item>
     </channel>
