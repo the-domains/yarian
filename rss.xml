@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 16:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 16:43:22 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[40+ Super Useful Chrome Extensions for Software Testing]]></title>
+            <description><![CDATA[<article><h1>40+ Super Useful Chrome Extensions for Software Testing</h1><p>Modern browsers like Mozilla Firefox and Google Chrome make your life easy as a software tester. I use both of them from time-to-time but Chrome ends up a winner majority of those times owing to the number of available chrome extensions for software testing. Even on QST, the majority of readers visit using Chrome (approx.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f24fce3eb861969bbc974931863ac330653b3468.jpg"></article>]]></description>
+            <link>http://quicksoftwaretesting.com/useful-google-chrome-extensions-testing-software/</link>
+            <guid isPermaLink="false">512878b9-aa96-4ad9-85be-2cb9a0ba210e</guid>
+            <pubDate>Tue, 09 Aug 2016 16:43:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Are APIs and How Do They Work?]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How to make REST calls in PHP</h1><p>Example of calling GET request //next example will recieve all messages for specific conversation $service_url = 'http://example.com/api/conversations/[CONV_CODE]/messages&apikey=[API_KEY]'; $curl = c</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c598f102a6e85c4c6742e8df717d9e2f/croprotate.php?cropheight=41&cropwidth=243&degrees=0&input=https%3A%2F%2Fsupport.ladesk.com%2Fscripts%2Ffile.php%3Fview%3DY%26file%3D2a2f2096ece5375232b72bead5de4c81&x=0&y=2"></article>]]></description>
             <link>https://support.ladesk.com/061754-How-to-make-REST-calls-in-PHP</link>
             <guid isPermaLink="false">58f25291-7360-483f-8855-64ee3e5b19ca</guid>
-            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Base64 Decode and Encode - Online]]></title>
-            <description><![CDATA[<article><h1>Base64 Decode and Encode - Online</h1><p>Base64 Base64 is a generic term for a number of similar encoding schemes that encode binary data by treating it numerically and translating it into a base 64 representation. The Base64 term originates from a specific MIME content transfer encoding.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2379c23c44172eb32f02a0b93833dfc8942fd279.jpg"></article>]]></description>
-            <link>https://www.base64encode.org/</link>
-            <guid isPermaLink="false">cdd9775f-0240-42f6-9e53-84505214616e</guid>
             <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
         </item>
     </channel>
