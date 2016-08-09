@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Yarian]]></description>
         <link>http://www.yarian.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 16:44:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 16:44:01 GMT</lastBuildDate>
         <atom:link href="http://www.yarian.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI Websites That Design Themselves]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.yarian.com/ai-websites-that-design-themselves/index.html</link>
             <guid isPermaLink="false">192ca884-265d-45dd-8d1a-74838074afff</guid>
             <pubDate>Sun, 17 Apr 2016 03:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 Best Practices for Better RESTful API]]></title>
+            <description><![CDATA[<article><h1>10 Best Practices for Better RESTful API</h1><p>Web APIs has become an very important topic in the last year. We at M-Way Solutions are working every day with different backend systems and therefore we know about the importance of a clean API design. Typically we use a RESTful design for our web APIs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/057335f75a94ec9a081de458417ca9b8643414dc.jpg"></article>]]></description>
+            <link>http://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/</link>
+            <guid isPermaLink="false">5c6918d3-4295-4faa-9a6a-6423b4b27477</guid>
+            <pubDate>Tue, 09 Aug 2016 16:43:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is alphanumeric (alphameric)? - Definition from WhatIs.com]]></title>
+            <description><![CDATA[<article><h1>What is alphanumeric (alphameric)? - Definition from WhatIs.com</h1><p>In computers designed for English language users, alphanumeric (sometimes seen as alphameric ) characters are those comprised by the combined set of the 26 alphabetic characters, A to Z, and the 10 Arabic numerals, 0 to 9.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1b2a305372d6b3f1f72447ee03bad658bab9e5a.png"></article>]]></description>
+            <link>http://whatis.techtarget.com/definition/alphanumeric-alphameric</link>
+            <guid isPermaLink="false">941dba85-dbe6-405c-a883-b3f05beb6d91</guid>
+            <pubDate>Tue, 09 Aug 2016 16:43:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Advanced Regex Tutorial-Regex Syntax]]></title>
@@ -61,20 +75,6 @@
             <link>http://www.thegeekstuff.com/2010/01/15-practical-unix-linux-top-command-examples/</link>
             <guid isPermaLink="false">b020b078-107a-4721-af79-8d4177c73e6f</guid>
             <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Connectwise API with PHP? * /r/msp]]></title>
-            <description><![CDATA[<article><h1>Connectwise API with PHP? * /r/msp</h1><p>Anyone familiar with using the Connectwise SOAP API using PHP? Specifically, the time entry API. I'm having trouble getting it to work and I'm...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/msp/comments/3f806g/connectwise_api_with_php/</link>
-            <guid isPermaLink="false">655d33a0-1a01-42fe-84b1-53b5ce826f67</guid>
-            <pubDate>Wed, 11 May 2016 18:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Call a REST API in PHP]]></title>
-            <description><![CDATA[<article><h1>Call a REST API in PHP</h1><p>You will need to know if the REST API you are calling supports GET or POST, or both methods. The code below is something that works for me, I'm calling my own web service API, so I already know what the API takes and what it will return.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec21b91c231dacf255e8d8ff034dc20f1aae4ba7.png"></article>]]></description>
-            <link>http://stackoverflow.com/questions/9802788/call-a-rest-api-in-php</link>
-            <guid isPermaLink="false">bb9cc043-cd90-47b9-8942-efba4bfb5f9d</guid>
-            <pubDate>Wed, 11 May 2016 18:18:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
